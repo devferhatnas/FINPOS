@@ -1,0 +1,3525 @@
+{
+  "Online Appointment Requests": {
+    "TR": "Online Randevu Talepleri",
+    "EN": "Online Appointment Requests",
+    "AR": "طلبات المواعيد عبر الإنترنت",
+    "KU": "داواکاریەکانی مەوعیدی ئۆنلاین",
+    "DE": "Online-Terminanfragen",
+    "RU": "Онлайн-запросы на прием",
+    "FA": "درخواست‌های نوبت آنلاین"
+  },
+  "Hatırlatmalar": {
+    "TR": "Hatırlatmalar",
+    "EN": "Reminders",
+    "AR": "تذكيرات",
+    "KU": "بەبیرهێنانەوەکان",
+    "DE": "Erinnerungen",
+    "RU": "Напоминания",
+    "FA": "یادآوری‌ها"
+  },
+  "Son 30 Gün": {
+    "TR": "Son 30 Gün",
+    "EN": "Last 30 Days",
+    "AR": "آخر 30 يومًا",
+    "KU": "کۆتا 30 ڕۆژ",
+    "DE": "Letzte 30 Tage",
+    "RU": "Последние 30 дней",
+    "FA": "30 روز اخیر"
+  },
+  "Son 7 Gün": {
+    "TR": "Son 7 Gün",
+    "EN": "Last 7 Days",
+    "AR": "آخر 7 أيام",
+    "KU": "کۆتا 7 ڕۆژ",
+    "DE": "Letzte 7 Tage",
+    "RU": "Последние 7 дней",
+    "FA": "7 روز اخیر"
+  },
+  "Bugün": {
+    "TR": "Bugün",
+    "EN": "Today",
+    "AR": "اليوم",
+    "KU": "ئەمڕۆ",
+    "DE": "Heute",
+    "RU": "Сегодня",
+    "FA": "امروز"
+  },
+  "Randevu Ayrıntıları": {
+    "TR": "Randevu Ayrıntıları",
+    "EN": "Appointment Details",
+    "AR": "تفاصيل الموعد",
+    "KU": "وردەکاریەکانی مەوعید",
+    "DE": "Termin Details",
+    "RU": "Детали встречи",
+    "FA": "جزئیات قرار"
+  },
+  "Sonuçlanmayan Randevular": {
+    "TR": "Sonuçlanmayan Randevular",
+    "EN": "Unresolved Appointments",
+    "AR": "المواعيد غير المحلولة",
+    "KU": "مەوعیدە بێ ئەنجامەکان",
+    "DE": "Unbeantwortete Termine",
+    "RU": "Нерешенные встречи",
+    "FA": "ناحیه‌کراویانی قراردهان"
+  },
+  "Sonuçlanan Randevular": {
+    "TR": "Sonuçlanan Randevular",
+    "EN": "Resolved Appointments",
+    "AR": "المواعيد المحلولة",
+    "KU": "مەوعیدە تەواو بووەکان",
+    "DE": "Gelöste Termine",
+    "RU": "Решенные встречи",
+    "FA": "ناحیه‌کراویانی قراردهان"
+  },
+  "Oluşturulmuş Randevular": {
+    "TR": "Oluşturulmuş Randevular ",
+    "EN": "Created Appointments ",
+    "AR": "المواعيد التي تم إنشاؤها ",
+    "KU": "مەوعیدە دروست بووەکان ",
+    "DE": "Erstellte Termine ",
+    "RU": "Созданные встречи ",
+    "FA": "ناحیه‌کراویانی ساخته‌شده "
+  },
+  "Randevu Takvimi": {
+    "TR": "Randevu Takvimi",
+    "EN": "Appointment Calendar",
+    "AR": "تقويم المواعيد",
+    "KU": "بەڕوارت مەوعید",
+    "DE": "Terminkalender",
+    "RU": "Календарь встреч",
+    "FA": "تقویم قراردهی"
+  },
+  "Randevular": {
+    "TR": "Randevular",
+    "EN": "Appointments",
+    "AR": "المواعيد",
+    "KU": "مەوعیدەکان",
+    "DE": "Termine",
+    "RU": "Встречи",
+    "FA": "قرارده‌ها"
+  },
+  "Raporlar": {
+    "TR": "Raporlar",
+    "EN": "Reports",
+    "AR": "تقارير",
+    "KU": "ڕاپۆرتەکان",
+    "DE": "BERICHTE",
+    "RU": "ОТЧЕТЫ",
+    "FA": "گزارش‌ها"
+  },
+  "Randevu Oluştur": {
+    "TR": "Randevu Oluştur",
+    "EN": "Create Appointment",
+    "AR": "إنشاء موعد",
+    "KU": "دروست کردنی مەوعید",
+    "DE": "Termin erstellen",
+    "RU": "Создать встречу",
+    "FA": "ایجاد قرار"
+  },
+  "Yeni Hizmet Oluştur": {
+    "TR": "Yeni Hizmet Oluştur",
+    "EN": "Create New Service",
+    "AR": "إنشاء خدمة جديدة",
+    "KU": "دروست کردنی خزمەتگوزاری نوێ",
+    "DE": "Neue Dienstleistung erstellen",
+    "RU": "Создать новую услугу",
+    "FA": "ایجاد خدمت جدید"
+  },
+  "Yeni Müşteri Oluştur": {
+    "TR": "Yeni Müşteri Oluştur",
+    "EN": "Create New Customer",
+    "AR": "إنشاء عميل جديد",
+    "KU": "دورست کردنی کڕیاری نوێ",
+    "DE": "Neuen Kunden erstellen",
+    "RU": "Создать нового клиента",
+    "FA": "ایجاد مشتری جدید"
+  },
+  "Ana Ekran": {
+    "TR": "Ana Ekran",
+    "EN": "Main Screen",
+    "AR": "الشاشة الرئيسية",
+    "KU": "شاشەی سەرەکی",
+    "DE": "Hauptbildschirm",
+    "RU": "Главный экран",
+    "FA": "صفحه اصلی"
+  },
+  "Randevu İşlemleri": {
+    "TR": "Randevu İşlemleri",
+    "EN": "Appointment Operations",
+    "AR": "عمليات المواعيد",
+    "KU": "کردارەکانی مەوعید",
+    "DE": "Terminoperationen",
+    "RU": "Операции с встречами",
+    "FA": "عملیات قرار"
+  },
+  "+ Randevu Oluştur": {
+    "TR": "+ Randevu Oluştur",
+    "EN": "+ Create Appointment",
+    "AR": "+ إنشاء موعد",
+    "KU": "+ دروست کردنی مەوعید",
+    "DE": "+ Termin erstellen",
+    "RU": "+ Создать встречу",
+    "FA": "+ ایجاد قرار"
+  },
+  "Liste Randevu": {
+    "TR": "Liste Randevu",
+    "EN": "List Appointments",
+    "AR": "قائمة المواعيد",
+    "KU": "لستی مەوعید",
+    "DE": "Liste der Termine",
+    "RU": "Список встреч",
+    "FA": "لیست قرارها"
+  },
+  "Özel Görünüm": {
+    "TR": "Özel Görünüm",
+    "EN": "Custom View",
+    "AR": "عرض مخصص",
+    "KU": "بینینی تایبەت",
+    "DE": "Benutzerdefinierte Ansicht",
+    "RU": "Пользовательский вид",
+    "FA": "نمایش سفارشی"
+  },
+  "Takvim Görünüm": {
+    "TR": "Takvim Görünüm",
+    "EN": "Calendar View",
+    "AR": "عرض التقويم",
+    "KU": "بینینی بەڕوار",
+    "DE": "Kalenderansicht",
+    "RU": "Вид календаря",
+    "FA": "نمایش تقویم"
+  },
+  "Müşteri İşlemleri": {
+    "TR": "Müşteri İşlemleri",
+    "EN": "Customer Operations",
+    "AR": "عمليات العملاء",
+    "KU": "کردای کڕیار",
+    "DE": "Kundenoperationen",
+    "RU": "Операции с клиентами",
+    "FA": "عملیات مشتری"
+  },
+  "Müşteri Listesi": {
+    "TR": "Müşteri Listesi",
+    "EN": "Customer List",
+    "AR": "قائمة العملاء",
+    "KU": "لیستی کڕیار",
+    "DE": "Kundenliste",
+    "RU": "Список клиентов",
+    "FA": "لیست مشتریان"
+  },
+  "+ Yeni Müşteri Oluştur": {
+    "TR": "+ Yeni Müşteri Oluştur",
+    "EN": "+ Create New Customer",
+    "AR": "+ إنشاء عميل جديد",
+    "KU": "+ دروستکردنی کڕیاری نوێ",
+    "DE": "+ Neuen Kunden erstellen",
+    "RU": "+ Создать нового клиента",
+    "FA": "+ ایجاد مشتری جدید"
+  },
+  "Excel ile Toplu Müşteri Oluştur": {
+    "TR": "Excel ile Toplu Müşteri Oluştur",
+    "EN": "Create Bulk Customers with Excel",
+    "AR": "إنشاء عملاء بالجملة باستخدام Excel",
+    "KU": "دروست کردنی کرێار بە کۆمەل لەرێی ئێکسل ",
+    "DE": "Massenkunden mit Excel erstellen",
+    "RU": "Создать массовых клиентов с помощью Excel",
+    "FA": "ایجاد مشتریان عمده با اکسل"
+  },
+  "Kayıp Müşteriler": {
+    "TR": "Kayıp Müşteriler",
+    "EN": "Lost Customers",
+    "AR": "العملاء المفقودين",
+    "KU": "کڕیارە ونبووەکان",
+    "DE": "Verlorene Kunden",
+    "RU": "Потерянные клиенты",
+    "FA": "مشتریان گمشده"
+  },
+  "Pasif Müşteriler": {
+    "TR": "Pasif Müşteriler",
+    "EN": "Passive Customers",
+    "AR": "العملاء السلبيين",
+    "KU": "کڕیارە ناچالاکەکان",
+    "DE": "Passive Kunden",
+    "RU": "Пассивные клиенты",
+    "FA": "مشتریان غیر فعال"
+  },
+  "Müşteri Yorumları": {
+    "TR": "Müşteri Yorumları",
+    "EN": "Customer Reviews",
+    "AR": "تقييمات العملاء",
+    "KU": "سەرنجەکانی کڕیار ",
+    "DE": "Kundenbewertungen",
+    "RU": "Отзывы клиентов",
+    "FA": "نظرات مشتری"
+  },
+  "Hizmet Yönetimi": {
+    "TR": "Hizmet Yönetimi",
+    "EN": "Service Management",
+    "AR": "إدارة الخدمات",
+    "KU": "بەڕێوەبردنی خزمەتگوزاری",
+    "DE": "Service Management",
+    "RU": "Управление услугами",
+    "FA": "مدیریت خدمات"
+  },
+  "Hizmet Listesi": {
+    "TR": "Hizmet Listesi",
+    "EN": "Service List",
+    "AR": "قائمة الخدمات",
+    "KU": "لیستی خزمەتگوزاری",
+    "DE": "Dienstleistungsliste",
+    "RU": "Список услуг",
+    "FA": "لیست خدمات"
+  },
+  "Hizmet Kategori ": {
+    "TR": "Hizmet Kategori ",
+    "EN": "Service Category",
+    "AR": "فئة الخدمة",
+    "KU": "هاوپۆلی خزمەتگوزاری",
+    "DE": "Dienstleistungskategorie",
+    "RU": "Категория услуги",
+    "FA": "دسته بندی خدمات"
+  },
+  "Hizmet": {
+    "TR": "Hizmet",
+    "EN": "Service",
+    "AR": "الخدمة",
+    "KU": "خزمەتگوزاری",
+    "DE": "Dienstleistung",
+    "RU": "Услуга",
+    "FA": "خدمت"
+  },
+  "Ürün": {
+    "TR": "Ürün",
+    "EN": "Product",
+    "AR": "المنتج",
+    "KU": "بەرهەم",
+    "DE": "Produkt",
+    "RU": "Продукт",
+    "FA": "محصول"
+  },
+  "Ürün - Stok İşlemleri": {
+    "TR": "Ürün - Stok İşlemleri",
+    "EN": "Product - Stock Operations",
+    "AR": "عمليات المنتجات - المخزون",
+    "KU": "بەرهەم-کرداری کۆگا",
+    "DE": "Produkt- und Lageroperationen",
+    "RU": "Операции с товарами - Склад",
+    "FA": "عملیات محصول - موجودی"
+  },
+  "Ürün Listesi": {
+    "TR": "Ürün Listesi",
+    "EN": "Product List",
+    "AR": "قائمة المنتجات",
+    "KU": "لیستی بەرهەم",
+    "DE": "Produktliste",
+    "RU": "Список товаров",
+    "FA": "لیست محصولات"
+  },
+  "+ Ürün Ekle": {
+    "TR": "+ Ürün Ekle",
+    "EN": "+ Add Product",
+    "AR": "+ إضافة منتج",
+    "KU": "+ زیاد کردنی بەرهەم",
+    "DE": "+ Produkt hinzufügen",
+    "RU": "+ Добавить товар",
+    "FA": "+ افزودن محصول"
+  },
+  "Alış Faturası": {
+    "TR": "Alış Faturası",
+    "EN": "Purchase Invoice",
+    "AR": "فاتورة الشراء",
+    "KU": "پسوولەی کڕین",
+    "DE": "Einkaufsrechnung",
+    "RU": "Счет на покупку",
+    "FA": "صورتحساب خرید"
+  },
+  "Kasa Yönetimi": {
+    "TR": "Kasa Yönetimi",
+    "EN": "Cash Management",
+    "AR": "إدارة النقد",
+    "KU": "بەرێوەبردنی خەزنە",
+    "DE": "Kassenmanagement",
+    "RU": "Управление наличными",
+    "FA": "مدیریت نقدی"
+  },
+  "Bakiye": {
+    "TR": "Bakiye",
+    "EN": "Balance",
+    "AR": "رصيد",
+    "KU": "هاوسەنگ",
+    "DE": "Guthaben",
+    "RU": "Баланс",
+    "FA": "تراز"
+  },
+  "Cari Hesap Bilgileri": {
+    "TR": "Cari Hesap Bilgileri",
+    "EN": "Current Account Information",
+    "AR": "معلومات الحساب الجاري",
+    "KU": "زانیاریەکانی حسابی جاری",
+    "DE": "Aktuelle Kontoinformationen",
+    "RU": "Информация по текущему счету",
+    "FA": "اطلاعات حساب جاری"
+  },
+  "Kodu": {
+    "TR": "Kodu",
+    "EN": "Code",
+    "AR": "الشفرة",
+    "KU": "کۆد",
+    "DE": "Code",
+    "RU": "Код",
+    "FA": "کد"
+  },
+  "Tarih": {
+    "TR": "Tarih",
+    "EN": "Date",
+    "AR": "تاريخ",
+    "KU": "بەڕوار",
+    "DE": "Datum",
+    "RU": "Дата",
+    "FA": "تاریخ"
+  },
+  "Fatura No.": {
+    "TR": "Fatura No.",
+    "EN": "Invoice Number",
+    "AR": "رقم الفاتورة",
+    "KU": "ژمارەی پسوولە",
+    "DE": "Rechnungsnummer",
+    "RU": "Номер счета",
+    "FA": "شماره فاکتور"
+  },
+  "Fatura Kar Tutarı": {
+    "TR": "Fatura Kar Tutarı",
+    "EN": "Invoice Profit Amount",
+    "AR": "مبلغ ربح الفاتورة",
+    "KU": "بڕی قازانجی پسوولە",
+    "DE": "Rechnungsgewinnbetrag",
+    "RU": "Сумма прибыли по счету",
+    "FA": "مبلغ سود فاکتور"
+  },
+  "Satış Fiyat Total": {
+    "TR": "Satış Fiyat Total",
+    "EN": "Total Sales Price",
+    "AR": "إجمالي سعر البيع",
+    "KU": "کۆی گشتی نرخی فرۆشتن",
+    "DE": "Gesamtpreis für Verkauf",
+    "RU": "Общая стоимость продаж",
+    "FA": "قیمت کل فروش"
+  },
+  "Vazgeç": {
+    "TR": "Vazgeç",
+    "EN": "Cancel",
+    "AR": "إلغاء",
+    "KU": "وازهێنان",
+    "DE": "Abbrechen",
+    "RU": "Отменить",
+    "FA": "لغو کردن"
+  },
+  "Kaydet": {
+    "TR": "Kaydet",
+    "EN": "Save",
+    "AR": "حفظ",
+    "KU": "خەزن بکە",
+    "DE": "Speichern",
+    "RU": "Сохранить",
+    "FA": "ذخیره"
+  },
+  "Alış Fiyat Total": {
+    "TR": "Alış Fiyat Total",
+    "EN": "Total Purchase Price",
+    "AR": "إجمالي سعر الشراء",
+    "KU": "کۆی گشتی نرخی کڕین",
+    "DE": "Gesamtpreis für Einkauf",
+    "RU": "Общая стоимость закупки",
+    "FA": "قیمت کل خرید"
+  },
+  "+ Ekle": {
+    "TR": "+ Ekle",
+    "EN": "+ Add",
+    "AR": "+ إضافة",
+    "KU": "+ زیاد بکە",
+    "DE": "+ Hinzufügen",
+    "RU": "+ Добавить",
+    "FA": "+ افزودن"
+  },
+  "Ara": {
+    "TR": "Ara",
+    "EN": "Search",
+    "AR": "ابحث",
+    "KU": "گەران",
+    "DE": "Suchen",
+    "RU": "Поиск",
+    "FA": "جستجو"
+  },
+  "Detay": {
+    "TR": "Detay",
+    "EN": "Detail",
+    "AR": "التفاصيل",
+    "KU": "وردەکاری",
+    "DE": "Detail",
+    "RU": "Деталь",
+    "FA": "جزئیات"
+  },
+  "Seç": {
+    "TR": "Seç",
+    "EN": "Select",
+    "AR": "اختر",
+    "KU": "هەڵبژێرە",
+    "DE": "Auswählen",
+    "RU": "Выбрать",
+    "FA": "انتخاب"
+  },
+  "+Ekle": {
+    "TR": "+Ekle",
+    "EN": "+ Add",
+    "AR": "+ إضافة",
+    "KU": "+ زیاد بکە",
+    "DE": "+ Hinzufügen",
+    "RU": "+ Добавить",
+    "FA": "+ افزودن"
+  },
+  "Kategori": {
+    "TR": "Kategori",
+    "EN": "Category",
+    "AR": "الفئة",
+    "KU": "هاوپۆل",
+    "DE": "Kategorie",
+    "RU": "Категория",
+    "FA": "دسته بندی"
+  },
+  "Adı": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "Имя",
+    "FA": "نام"
+  },
+  "Fiyat": {
+    "TR": "Fiyat",
+    "EN": "Price",
+    "AR": "السعر",
+    "KU": "نرخ",
+    "DE": "Preis",
+    "RU": "Цена",
+    "FA": "قیمت"
+  },
+  "Puan": {
+    "TR": "Puan",
+    "EN": "Points",
+    "AR": "النقاط",
+    "KU": "خاڵ",
+    "DE": "Punkte",
+    "RU": "Баллы",
+    "FA": "امتیاز"
+  },
+  "Dakika": {
+    "TR": "Dakika",
+    "EN": "Minute",
+    "AR": "الدقيقة",
+    "KU": "خولەک",
+    "DE": "Minute",
+    "RU": "Минута",
+    "FA": "دقیقه"
+  },
+  "Online": {
+    "TR": "Online",
+    "EN": "Online",
+    "AR": "عبر الإنترنت",
+    "KU": "ئۆنلاین",
+    "DE": "Online",
+    "RU": "Онлайн",
+    "FA": "آنلاین"
+  },
+  "Barkod": {
+    "TR": "Barkod",
+    "EN": "Barcode",
+    "AR": "الباركود",
+    "KU": "باڕکۆد",
+    "DE": "Barcode",
+    "RU": "Штрих-код",
+    "FA": "بارکد"
+  },
+  "Saat Kapatma": {
+    "TR": "Saat Kapatma",
+    "EN": "Closing Time",
+    "AR": "وقت الإغلاق",
+    "KU": "داخستنی کاتژمێر",
+    "DE": "Schließzeit",
+    "RU": "Время закрытия",
+    "FA": "زمان بسته شدن"
+  },
+  "Seçili Saate Randevu Oluştur": {
+    "TR": "Seçili Saate Randevu Oluştur",
+    "EN": "Create Appointment for Selected Time",
+    "AR": "إنشاء موعد للوقت المحدد",
+    "KU": "دروست کردنی مەوعید لەکاتی هەلبژێردڕاو",
+    "DE": "Termin für ausgewählte Zeit erstellen",
+    "RU": "Создать назначение на выбранное время",
+    "FA": "ایجاد وقت ملاقات برای زمان انتخاب شده"
+  },
+  "Boşalt": {
+    "TR": "Boşalt",
+    "EN": "Empty",
+    "AR": "إفراغ",
+    "KU": "بەتاڵ کردن",
+    "DE": "Leeren",
+    "RU": "Очистить",
+    "FA": "خالی کردن"
+  },
+  "Personel Adı": {
+    "TR": "Personel Adı",
+    "EN": "Staff Name",
+    "AR": "اسم الموظف",
+    "KU": "ناوی کارمەند",
+    "DE": "Mitarbeitername",
+    "RU": "Имя сотрудника",
+    "FA": "نام پرسنل"
+  },
+  "Müşteri Tel": {
+    "TR": "Müşteri Tel",
+    "EN": "Customer Phone",
+    "AR": "هاتف العميل",
+    "KU": "ژمارەی کڕیار",
+    "DE": "Kunden-Telefon",
+    "RU": "Телефон клиента",
+    "FA": "تلفن مشتری"
+  },
+  "Müşteri Adı": {
+    "TR": "Müşteri Adı",
+    "EN": "Customer Name",
+    "AR": "اسم العميل",
+    "KU": "ناوی کڕیار",
+    "DE": "Kundenname",
+    "RU": "Имя клиента",
+    "FA": "نام مشتری"
+  },
+  "Saat": {
+    "TR": "Saat",
+    "EN": "Time",
+    "AR": "الوقت",
+    "KU": "کات",
+    "DE": "Zeit",
+    "RU": "Время",
+    "FA": "زمان"
+  },
+  "Randevu Bilgi Notu": {
+    "TR": "Randevu Bilgi Notu",
+    "EN": "Appointment Information Note",
+    "AR": "ملاحظة معلومات الموعد",
+    "KU": "تێبینی زانیاری مەوعید",
+    "DE": "Hinweis zur Termininformation",
+    "RU": "Примечание к информации о назначении",
+    "FA": "یادداشت اطلاعات وقت ملاقات"
+  },
+  "Hizmete Kullanılacak Ürünler - İşlem Kodu": {
+    "TR": "Hizmete Kullanılacak Ürünler - İşlem Kodu",
+    "EN": "Products to be Used for Service - Transaction Code",
+    "AR": "المنتجات المراد استخدامها للخدمة - رمز العملية",
+    "KU": "ئەو بەرهەمانەی کە لە خزمەتگوزاریدا بەکار دەهێندرێت-کۆدی کڕدار ",
+    "DE": "Produkte für den Servicegebrauch - Transaktionscode",
+    "RU": "Продукты для использования в сервисе - код транзакции",
+    "FA": "محصولات برای استفاده در خدمات - کد تراکنش"
+  },
+  "FaturaNo:": {
+    "TR": "FaturaNo:",
+    "EN": "Invoice No:",
+    "AR": "رقم الفاتورة:",
+    "KU": "ژمارەی پسوولە:",
+    "DE": "Rechnungsnummer:",
+    "RU": "Номер счета:",
+    "FA": "شماره فاکتور:"
+  },
+  "Bilgi SMS' i Gönder": {
+    "TR": "Bilgi SMS' i Gönder",
+    "EN": "Send Information SMS",
+    "AR": "إرسال رسالة نصية بالمعلومات",
+    "KU": "SMS' a Agahî bibe",
+    "DE": "ناردنی زانیاری بە ئێس ئێم ئێس",
+    "RU": "Отправить информационное SMS",
+    "FA": "ارسال پیامک اطلاعات"
+  },
+  "Liste Toplam :": {
+    "TR": "Liste Toplam :",
+    "EN": "Total List:",
+    "AR": "القائمة الإجمالية:",
+    "KU": "لیستی کۆی گشتی:",
+    "DE": "Gesamtliste:",
+    "RU": "Общий список:",
+    "FA": "مجموع لیست:"
+  },
+  "Gelmeyen": {
+    "TR": "Gelmeyen",
+    "EN": "Not Arrived",
+    "AR": "لم يصل",
+    "KU": "نەهاتوو",
+    "DE": "Nicht angekommen",
+    "RU": "Не пришло",
+    "FA": "رسیده نشده"
+  },
+  "Bekleyen": {
+    "TR": "Bekleyen",
+    "EN": "Pending",
+    "AR": "قيد الانتظار",
+    "KU": "چاوەروانەکان",
+    "DE": "Ausstehend",
+    "RU": "В ожидании",
+    "FA": "در انتظار"
+  },
+  "Tamamlanan": {
+    "TR": "Tamamlanan",
+    "EN": "Completed",
+    "AR": "مكتمل",
+    "KU": "تەواو بوو",
+    "DE": "Abgeschlossen",
+    "RU": "Завершено",
+    "FA": "تکمیل شده"
+  },
+  "İşlem Oluştur": {
+    "TR": "İşlem Oluştur",
+    "EN": "Create Transaction",
+    "AR": "إنشاء عملية",
+    "KU": "درەست کردنی کڕدار",
+    "DE": "Transaktion erstellen",
+    "RU": "Создать транзакцию",
+    "FA": "ایجاد معامله"
+  },
+  "MÜŞTERİ KAYIT FORMU": {
+    "TR": "MÜŞTERİ KAYIT FORMU",
+    "EN": "CUSTOMER REGISTRATION FORM",
+    "AR": "نموذج تسجيل العميل",
+    "KU": "فۆری تۆماری کڕیار",
+    "DE": "KUNDENANMELDEFORMULAR",
+    "RU": "ФОРМА РЕГИСТРАЦИИ КЛИЕНТА",
+    "FA": "فرم ثبت نام مشتری"
+  },
+  "NOTLAR": {
+    "TR": "NOTLAR",
+    "EN": "NOTES",
+    "AR": "ملاحظات",
+    "KU": "تێبینیەکان",
+    "DE": "ANMERKUNGEN",
+    "RU": "ЗАМЕТКИ",
+    "FA": "یادداشت ها"
+  },
+  "DÜŞÜNCELER": {
+    "TR": "DÜŞÜNCELER",
+    "EN": "THOUGHTS",
+    "AR": "أفكار",
+    "KU": "بیرکردنەوەکان",
+    "DE": "GEDANKEN",
+    "RU": "МЫСЛИ",
+    "FA": "افکار"
+  },
+  "GEÇMİŞ \r\nAMELİYATLAR": {
+    "TR": "GEÇMİŞ \r\nAMELİYATLAR",
+    "EN": "PAST OPERATIONS",
+    "AR": "العمليات السابقة",
+    "KU": "نەشتەرگەریەکانی پێشوو",
+    "DE": "VERGANGENE OPERATIONEN",
+    "RU": "ПРОШЛЫЕ ОПЕРАЦИИ",
+    "FA": "عملیات گذشته"
+  },
+  "AİLE \r\nHASTALIKLARI": {
+    "TR": "AİLE \r\nHASTALIKLARI",
+    "EN": "FAMILY DISEASES",
+    "AR": "أمراض العائلة",
+    "KU": "نەخۆشی بۆماوەیی",
+    "DE": "FAMILIENKRANKHEITEN",
+    "RU": "СЕМЕЙНЫЕ ЗАБОЛЕВАНИЯ",
+    "FA": "بیماری‌های خانوادگی"
+  },
+  "KULLANDIĞI\r\nİLAÇLAR": {
+    "TR": "KULLANDIĞI\r\nİLAÇLAR",
+    "EN": "MEDICATIONS USED",
+    "AR": "الأدوية المستخدمة",
+    "KU": "دەرمانە بەکارهاتووەکان",
+    "DE": "VERWENDETE MEDIKAMENTE",
+    "RU": "ИСПОЛЬЗУЕМЫЕ ЛЕКАРСТВА",
+    "FA": "داروهای مصرفی"
+  },
+  "GEÇMİŞ HASTALIKLAR": {
+    "TR": "GEÇMİŞ HASTALIKLAR",
+    "EN": "PAST ILLNESSES",
+    "AR": "الأمراض السابقة",
+    "KU": "نەخۆشیەکانی ڕابردوو",
+    "DE": "VERGANGENE KRANKHEITEN",
+    "RU": "ПРОШЛЫЕ БОЛЕЗНИ",
+    "FA": "بیماری‌های گذشته"
+  },
+  "EŞ BİLGİLERİ": {
+    "TR": "EŞ BİLGİLERİ",
+    "EN": "SPOUSE INFORMATION",
+    "AR": "معلومات الزوج",
+    "KU": "زانیاری هاوسەری",
+    "DE": "EHEPARTNERINFORMATION",
+    "RU": "ИНФОРМАЦИЯ О СУПРУГЕ",
+    "FA": "اطلاعات همسر"
+  },
+  "Günsonu Raporu": {
+    "TR": "Günsonu Raporu",
+    "EN": "End of Day Report",
+    "AR": "تقرير نهاية اليوم",
+    "KU": "ڕاپۆرتی کۆتایی ڕۆژ",
+    "DE": "TAGESABSCHLUSS BERICHT",
+    "RU": "ЕЖЕДНЕВНЫЙ ОТЧЕТ",
+    "FA": "گزارش پایان روز"
+  },
+  "Ay Sonu Raporu": {
+    "TR": "Ay Sonu Raporu",
+    "EN": "End of Month Report",
+    "AR": "تقرير نهاية الشهر",
+    "KU": "ڕاپۆرتی کۆتایی مانگ",
+    "DE": "MONATSABSCHLUSSBERICHT",
+    "RU": "ЕЖЕМЕСЯЧНЫЙ ОТЧЕТ",
+    "FA": "گزارش پایان ماه"
+  },
+  "Stok Envanter Raporu": {
+    "TR": "Stok Envanter Raporu",
+    "EN": "Inventory Report",
+    "AR": "تقرير المخزون",
+    "KU": "ڕاپۆرتی کۆگا",
+    "DE": "LAGERBESTANDSBERICHT",
+    "RU": "ОТЧЕТ О НАЛИЧИИ",
+    "FA": "گزارش موجودی"
+  },
+  "Personel Bazlı Rapor": {
+    "TR": "Personel Bazlı Rapor",
+    "EN": "Staff-Based Report",
+    "AR": "تقرير مستند على الأفراد",
+    "KU": "ڕاپۆرتی بنەمای کارمەند",
+    "DE": "MITARBEITERBASIERTER BERICHT",
+    "RU": "Отчет на основе персонала",
+    "FA": "گزارش مبتنی بر پرسنل"
+  },
+  "<": {
+    "TR": "<",
+    "EN": "<",
+    "AR": "<",
+    "KU": "<",
+    "DE": "<",
+    "RU": "<",
+    "FA": "<"
+  },
+  "Günlük": {
+    "TR": "Günlük",
+    "EN": "Daily",
+    "AR": "يومي",
+    "KU": "ڕۆژانە",
+    "DE": "Täglich",
+    "RU": "Ежедневно",
+    "FA": "روزانه"
+  },
+  "Haftalık": {
+    "TR": "Haftalık",
+    "EN": "Weekly",
+    "AR": "أسبوعي",
+    "KU": "هەفتانە",
+    "DE": "Wöchentlich",
+    "RU": "Еженедельно",
+    "FA": "هفتگی"
+  },
+  "Aylık": {
+    "TR": "Aylık",
+    "EN": "Monthly",
+    "AR": "شهري",
+    "KU": "مانگانە",
+    "DE": "Monatlich",
+    "RU": "Ежемесячно",
+    "FA": "ماهانه"
+  },
+  "Extra Görünüm": {
+    "TR": "Extra Görünüm",
+    "EN": "Extra View",
+    "AR": "رؤية إضافية",
+    "KU": "بینینی زیاتر",
+    "DE": "Zusätzliche Ansicht",
+    "RU": "Дополнительный вид",
+    "FA": "نمای اضافی"
+  },
+  ">": {
+    "TR": ">",
+    "EN": ">",
+    "AR": ">",
+    "KU": ">",
+    "DE": ">",
+    "RU": ">",
+    "FA": ">"
+  },
+  "Cihaz - Personel Ekle": {
+    "TR": "Cihaz - Personel Ekle",
+    "EN": "Add Device - Staff",
+    "AR": "إضافة جهاز - موظف",
+    "KU": "ئامێر-زیادکردنی کارمەند",
+    "DE": "Gerät - Mitarbeiter hinzufügen",
+    "RU": "Добавить устройство - персонал",
+    "FA": "افزودن دستگاه - پرسنل"
+  },
+  "Pasif Müşteri": {
+    "TR": "Pasif Müşteri",
+    "EN": "Inactive Customer",
+    "AR": "عميل غير نشط",
+    "KU": "کڕیاری ناچالاک",
+    "DE": "Inaktiver Kunde",
+    "RU": "Неактивный клиент",
+    "FA": "مشتری غیرفعال"
+  },
+  "Kayıp Müşteri": {
+    "TR": "Kayıp Müşteri",
+    "EN": "Lost Customer",
+    "AR": "فقدان العميل",
+    "KU": "کڕیاری ونبوو",
+    "DE": "Verlorener Kunde",
+    "RU": "Потерянный клиент",
+    "FA": "مشتری گمشده"
+  },
+  "Excel Aktarım": {
+    "TR": "Excel Aktarım",
+    "EN": "Excel Transfer",
+    "AR": "نقل إكسل",
+    "KU": "گواستنەوەی  ئێکسل",
+    "DE": "Excel-Übertragung",
+    "RU": "Передача в Excel",
+    "FA": "انتقال اکسل"
+  },
+  "Yeni Müşteri": {
+    "TR": "Yeni Müşteri",
+    "EN": "New Customer",
+    "AR": "زبون جديد",
+    "KU": "کڕیاری نوێ",
+    "DE": "Neuer Kunde",
+    "RU": "Новый клиент",
+    "FA": "مشتری جدید"
+  },
+  "Hizmet Adı": {
+    "TR": "Hizmet Adı",
+    "EN": "Service Name",
+    "AR": "اسم الخدمة",
+    "KU": "ناوی خزمەتگوزاری",
+    "DE": "Dienstname",
+    "RU": "Название услуги",
+    "FA": "نام خدمت"
+  },
+  "Tamamla": {
+    "TR": "Tamamla",
+    "EN": "Complete",
+    "AR": "اكتمال",
+    "KU": "تەواو بکە",
+    "DE": "Abschließen",
+    "RU": "Завершить",
+    "FA": "تکمیل"
+  },
+  "Sil": {
+    "TR": "Sil",
+    "EN": "Delete",
+    "AR": "حذف",
+    "KU": "بسڕە",
+    "DE": "Löschen",
+    "RU": "Удалить",
+    "FA": "حذف"
+  },
+  "Alışlar": {
+    "TR": "Alışlar",
+    "EN": "Purchases",
+    "AR": "المشتريات",
+    "KU": "کڕین",
+    "DE": "Einkäufe",
+    "RU": "Покупки",
+    "FA": "خریدها"
+  },
+  "Ürün Adı": {
+    "TR": "Ürün Adı",
+    "EN": "Product Name",
+    "AR": "اسم المنتج",
+    "KU": "ناوی بەر‌هەم",
+    "DE": "Produktname",
+    "RU": "Название продукта",
+    "FA": "نام محصول"
+  },
+  "Barkod No": {
+    "TR": "Barkod No",
+    "EN": "Barcode No",
+    "AR": "رقم الباركود",
+    "KU": "ژمارەی کۆد",
+    "DE": "Barcode-Nummer",
+    "RU": "Номер штрих-кода",
+    "FA": "شماره بارکد"
+  },
+  "Yapılacak Açıklama": {
+    "TR": "Yapılacak Açıklama",
+    "EN": "Description to be Made",
+    "AR": "الوصف الذي يجب القيام به",
+    "KU": "ڕوونکردنەوە",
+    "DE": "Beschreibung zu machen",
+    "RU": "Описание для выполнения",
+    "FA": "توضیحات برای انجام"
+  },
+  "Toplu Sil": {
+    "TR": "Toplu Sil",
+    "EN": "Bulk Delete",
+    "AR": "حذف جماعي",
+    "KU": "سڕینەوەی بە کۆمەل",
+    "DE": "Massenlöschen",
+    "RU": "Массовое удаление",
+    "FA": "حذف گروهی"
+  },
+  "Düzenle": {
+    "TR": "Düzenle",
+    "EN": "Edit",
+    "AR": "تحرير",
+    "KU": "رێک بخە",
+    "DE": "Bearbeiten",
+    "RU": "Редактировать",
+    "FA": "ویرایش"
+  },
+  "Dil ": {
+    "TR": "Dil ",
+    "EN": "Language ",
+    "AR": "لغة ",
+    "KU": "زمان",
+    "DE": "Sprache ",
+    "RU": "Язык ",
+    "FA": "زبان "
+  },
+  "Şube": {
+    "TR": "Şube",
+    "EN": "Branch",
+    "AR": "فرع ",
+    "KU": "لق ",
+    "DE": "Filiale",
+    "RU": "Филиал ",
+    "FA": "شعبه "
+  },
+  "Parola": {
+    "TR": "Parola",
+    "EN": "Password",
+    "AR": "كلمة السر ",
+    "KU": "ژمارەی نهێنی ",
+    "DE": "Passwort",
+    "RU": "Пароль ",
+    "FA": "رمز عبور "
+  },
+  "Kullanıcı": {
+    "TR": "Kullanıcı",
+    "EN": "User",
+    "AR": "المستخدم ",
+    "KU": "بەکارهێنەر",
+    "DE": "Benutzer",
+    "RU": "Пользователь ",
+    "FA": "کاربر "
+  },
+  "Giriş Yap": {
+    "TR": "Giriş Yap",
+    "EN": "Login",
+    "AR": "تسجيل الدخول ",
+    "KU": "چوونەژوورەوە ",
+    "DE": "Anmelden",
+    "RU": "Вход ",
+    "FA": "ورود "
+  },
+  "Sms Yönetimi": {
+    "TR": "Sms Yönetimi",
+    "EN": "SMS Management",
+    "AR": "إدارة الرسائل القصيرة",
+    "KU": "بەڕیوەبردنی ئێس ئێم ئێس",
+    "DE": "SMS-Verwaltung",
+    "RU": "Управление SMS",
+    "FA": "مدیریت پیامک"
+  },
+  "Toplu Gönderim": {
+    "TR": "Toplu Gönderim",
+    "EN": "Bulk Send",
+    "AR": "إرسال جماعي",
+    "KU": "ناردنی بە کۆمەل",
+    "DE": "Massenversand",
+    "RU": "Массовая отправка",
+    "FA": "ارسال گروهی"
+  },
+  "Kişi Bazlı Gönderim": {
+    "TR": "Kişi Bazlı Gönderim",
+    "EN": "Individual Send",
+    "AR": "إرسال فردي",
+    "KU": "ناردن بە بنەمای کەسی",
+    "DE": "Individueller Versand",
+    "RU": "Индивидуальная отправка",
+    "FA": "ارسال فردی"
+  },
+  "Seçili Kişi Gönderim": {
+    "TR": "Seçili Kişi Gönderim",
+    "EN": "Selected Person Send",
+    "AR": "إرسال للشخص المحدد",
+    "KU": "ناردن بۆ کەسی هەڵبژێردراو",
+    "DE": "Senden an ausgewählte Person",
+    "RU": "Отправка выбранному человеку",
+    "FA": "ارسال به فرد انتخابی"
+  },
+  "Cari Hesaplar": {
+    "TR": "Cari Hesaplar",
+    "EN": "Current Accounts",
+    "AR": "الحسابات الجارية",
+    "KU": "حساب جاری",
+    "DE": "Aktuelle Konten",
+    "RU": "Текущие счета",
+    "FA": "حساب‌های جاری"
+  },
+  "Yapılacaklar Listesi": {
+    "TR": "Yapılacaklar Listesi",
+    "EN": "To-Do List",
+    "AR": "قائمة المهام",
+    "KU": "لیستی بۆ ئەنجام",
+    "DE": "To-Do-Liste",
+    "RU": "Список дел",
+    "FA": "لیست کارهای انجام شونده"
+  },
+  "Tüm Yapılacaklar": {
+    "TR": "Tüm Yapılacaklar",
+    "EN": "All To-Dos",
+    "AR": "جميع المهام",
+    "KU": "ئەنجامدانی هەموو شتێک",
+    "DE": "Alle Aufgaben",
+    "RU": "Все задачи",
+    "FA": "تمام کارها"
+  },
+  "+ Hatırlatma Oluştur": {
+    "TR": "+ Hatırlatma Oluştur",
+    "EN": "+ Create Reminder",
+    "AR": "+ إنشاء تذكير",
+    "KU": "+ دروست کردنی بەبیرهێنانەوە",
+    "DE": "+ Erinnerung erstellen",
+    "RU": "+ Создать напоминание",
+    "FA": "+ ایجاد یادآور"
+  },
+  "Sistem Ayarları": {
+    "TR": "Sistem Ayarları",
+    "EN": "System Settings",
+    "AR": "إعدادات النظام",
+    "KU": "رێکخستنی سیستەم",
+    "DE": "Systemeinstellungen",
+    "RU": "Настройки системы",
+    "FA": "تنظیمات سیستم"
+  },
+  "Kullanıcı İşlemleri": {
+    "TR": "Kullanıcı İşlemleri",
+    "EN": "User Operations",
+    "AR": "عمليات المستخدم",
+    "KU": "کڕدارەکانی بەکارهێنەر",
+    "DE": "Benutzeraktionen",
+    "RU": "Операции пользователя",
+    "FA": "عملیات کاربر"
+  },
+  "İşletme Ayarları": {
+    "TR": "İşletme Ayarları",
+    "EN": "Business Settings",
+    "AR": "إعدادات العمل",
+    "KU": "رێکخستنی بازرگانی",
+    "DE": "Unternehmenseinstellungen",
+    "RU": "Настройки бизнеса",
+    "FA": "تنظیمات کسب و کار"
+  },
+  "MüşteriAdı": {
+    "TR": "Müşteri Adı",
+    "EN": "Customer Name",
+    "AR": "اسم العميل",
+    "KU": "ناوی کڕیار",
+    "DE": "Kundenname",
+    "RU": "Имя клиента",
+    "FA": "نام مشتری"
+  },
+  "BaşlamaTarihi": {
+    "TR": "Başlama Tarihi",
+    "EN": "Start Date",
+    "AR": "تاريخ البدء",
+    "KU": "بەڕواری دەسپێک",
+    "DE": "Startdatum",
+    "RU": "Дата начала",
+    "FA": "تاریخ شروع"
+  },
+  "BaşSaat": {
+    "TR": "Baş Saat",
+    "EN": "Start Time",
+    "AR": "وقت البدء",
+    "KU": "کاتی دەستپێک",
+    "DE": "Startzeit",
+    "RU": "Время начала",
+    "FA": "زمان شروع"
+  },
+  "BitişTarihi": {
+    "TR": "Bitiş Tarihi",
+    "EN": "End Date",
+    "AR": "تاريخ الانتهاء",
+    "KU": "بەڕواری کۆتای هاتن",
+    "DE": "Enddatum",
+    "RU": "Дата окончания",
+    "FA": "تاریخ پایان"
+  },
+  "BitişSaat": {
+    "TR": "Bitiş Saat",
+    "EN": "End Time",
+    "AR": "وقت الانتهاء",
+    "KU": "کاتی کۆتای هاتن",
+    "DE": "Endzeit",
+    "RU": "Время окончания",
+    "FA": "زمان پایان"
+  },
+  "PersonelAdı": {
+    "TR": "Personel Adı",
+    "EN": "Staff Name",
+    "AR": "اسم الموظف",
+    "KU": "ناوی کارمەند",
+    "DE": "Mitarbeitername",
+    "RU": "Имя сотрудника",
+    "FA": "نام پرسنل"
+  },
+  "RandevuNotu": {
+    "TR": "Randevu Notu",
+    "EN": "Appointment Note",
+    "AR": "مذكرة الموعد",
+    "KU": "تێبینی مەوعید",
+    "DE": "Hinweis zur Termininformation",
+    "RU": "Примечание к информации о назначении",
+    "FA": "یادداشت وقت ملاقات"
+  },
+  "Müşteri No": {
+    "TR": "Müşteri No",
+    "EN": "Customer No",
+    "AR": "رقم العميل",
+    "KU": "ژمارەی کڕیار",
+    "DE": "Kundennummer",
+    "RU": "Номер клиента",
+    "FA": "شماره مشتری"
+  },
+  "Tarih Saat": {
+    "TR": "Tarih-Saat",
+    "EN": "Date Time",
+    "AR": "التاريخ والوقت",
+    "KU": "بەڕوار-کات",
+    "DE": "Datum Uhrzeit",
+    "RU": "Дата Время",
+    "FA": "تاریخ و زمان"
+  },
+  "Personel % Oranı": {
+    "TR": "Personel % Oranı",
+    "EN": "Staff % Ratio",
+    "AR": "نسبة الموظف %",
+    "KU": "رێژەی ٪ کارمەند",
+    "DE": "Personal % Verhältnis",
+    "RU": "Процент от сотрудника",
+    "FA": "درصد کارمند"
+  },
+  "% Alacak": {
+    "TR": "% Alacak",
+    "EN": "% Receivable",
+    "AR": "% المستحق",
+    "KU": " ٪ وەردەگرێت",
+    "DE": "% Forderung",
+    "RU": "% К получению",
+    "FA": "% قابل دریافت"
+  },
+  "PERSONEL": {
+    "TR": "PERSONEL",
+    "EN": "STAFF",
+    "AR": "الموظف",
+    "KU": "کارمەند",
+    "DE": "Personal",
+    "RU": "Сотрудник",
+    "FA": "کارمند"
+  },
+  "ADI": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "ИМЯ",
+    "FA": "نام"
+  },
+  "Adi": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "ИМЯ",
+    "FA": "نام"
+  },
+  "ADET": {
+    "TR": "ADET",
+    "EN": "QUANTITY",
+    "AR": "الكمية",
+    "KU": "دانە",
+    "DE": "MENGE",
+    "RU": "КОЛИЧЕСТВО",
+    "FA": "تعداد"
+  },
+  "FIYAT": {
+    "TR": "FIYAT",
+    "EN": "PRICE",
+    "AR": "السعر",
+    "KU": "نرخ",
+    "DE": "PREIS",
+    "RU": "ЦЕНА",
+    "FA": "قیمت"
+  },
+  "TOTAL": {
+    "TR": "TOTAL",
+    "EN": "TOTAL",
+    "AR": "المجموع",
+    "KU": "کۆی گشتی",
+    "DE": "GESAMT",
+    "RU": "ВСЕГО",
+    "FA": "مجموع"
+  },
+  "Randevu Bitir": {
+    "TR": "Randevu Bitir",
+    "EN": "Finish Appointment",
+    "AR": "إنهاء الموعد",
+    "KU": "کۆتای هێنانی مەوعید",
+    "DE": "Termin beenden",
+    "RU": "Завершить назначение",
+    "FA": "اتمام وقت ملاقات"
+  },
+  "P. Tamamla": {
+    "TR": "P. Tamamla",
+    "EN": "Complete Staff",
+    "AR": "اكتمل الموظف",
+    "KU": "کۆتایی هێنانی کارمەند",
+    "DE": "Personal abschließen",
+    "RU": "Завершить персонал",
+    "FA": "تکمیل پرسنل"
+  },
+  "Rapor Dizayn Modu Aktif": {
+    "TR": "Rapor Dizayn Modu Aktif",
+    "EN": "Report Design Mode Active",
+    "AR": "تصميم التقرير وضع تفعيل",
+    "KU": " مۆدی دیزاینی ڕاپۆرت چالاکە",
+    "DE": "Berichtsdesign-Modus aktiv",
+    "RU": "Режим дизайна отчета активен",
+    "FA": "حالت طراحی گزارش فعال"
+  },
+  "Total": {
+    "TR": "Total",
+    "EN": "Total",
+    "AR": "المجموع",
+    "KU": "کۆی گشتی",
+    "DE": "Gesamt",
+    "RU": "Итого",
+    "FA": "مجموع"
+  },
+  "Komisyon": {
+    "TR": "Komisyon",
+    "EN": "Commission",
+    "AR": "عمولة",
+    "KU": "رێژە",
+    "DE": "Provision",
+    "RU": "Комиссия",
+    "FA": "کمیسیون"
+  },
+  "Yenile": {
+    "TR": "Yenile",
+    "EN": "Refresh",
+    "AR": "تحديث",
+    "KU": "نوێکردنەوە",
+    "DE": "Aktualisieren",
+    "RU": "Обновить",
+    "FA": "به‌روزرسانی"
+  },
+  "Gelmedi": {
+    "TR": "Gelmedi",
+    "EN": "Did Not Come",
+    "AR": "لم يأت",
+    "KU": "نەهات",
+    "DE": "Nicht gekommen",
+    "RU": "Не пришел",
+    "FA": "نیاوی نه ئاوا"
+  },
+  "Müşteri Değiştir": {
+    "TR": "Müşteri Değiştir",
+    "EN": "Change Customer",
+    "AR": "تغيير العميل",
+    "KU": "گۆرینی کڕیار",
+    "DE": "Kunden ändern",
+    "RU": "Изменить клиента",
+    "FA": "گۆڕانکاری مووچی"
+  },
+  "F.Dizayn": {
+    "TR": "F.Dizayn",
+    "EN": "I. Design (Invoice Design)",
+    "AR": "تصميم الفاتورة",
+    "KU": "دیزاینی پسوولە",
+    "DE": "Rechnungsgestaltung",
+    "RU": "Дизайн (Дизайн счета)",
+    "FA": "طراحی (طراحی فاکتور)"
+  },
+  "Kullanılan Ürünler": {
+    "TR": "Kullanılan Ürünler",
+    "EN": "Used Products",
+    "AR": "المنتجات المستخدمة",
+    "KU": "ئەو بەرهەمانەی بەکارهاتوون",
+    "DE": "Verwendete Produkte",
+    "RU": "Используемые товары",
+    "FA": "محصولات استفاده‌شده"
+  },
+  "BARKOD": {
+    "TR": "BARKOD",
+    "EN": "BARCODE",
+    "AR": "الباركود",
+    "KU": "بارکۆد",
+    "DE": "BARKOD",
+    "RU": "ШТРИХ-КОД",
+    "FA": "بارکد"
+  },
+  "Excel": {
+    "TR": "Excel",
+    "EN": "Excel",
+    "AR": "Excel",
+    "KU": "ئێکسل",
+    "DE": "Excel",
+    "RU": "Excel",
+    "FA": "Excel"
+  },
+  "Yazdır": {
+    "TR": "Yazdır",
+    "EN": "Print",
+    "AR": "طباعة",
+    "KU": "چاپ کە",
+    "DE": "Drucken",
+    "RU": "Печать",
+    "FA": "چاپ"
+  },
+  "x": {
+    "TR": "x",
+    "EN": "x",
+    "AR": "x",
+    "KU": "x",
+    "DE": "x",
+    "RU": "x",
+    "FA": "x"
+  },
+  ".....": {
+    "TR": ".....",
+    "EN": ".....",
+    "AR": ".....",
+    "KU": ".....",
+    "DE": ".....",
+    "RU": ".....",
+    "FA": "....."
+  },
+  "Whatshapp": {
+    "TR": "Whatshapp",
+    "EN": "Whatshapp",
+    "AR": "Whatshapp",
+    "KU": "Whatshapp",
+    "DE": "Whatshapp",
+    "RU": "Whatshapp",
+    "FA": "Whatshapp"
+  },
+  "MÜŞTERİ BİLGİLERİNİ ARAYIN": {
+    "TR": "MÜŞTERİ BİLGİLERİNİ ARAYIN",
+    "EN": "CALL CUSTOMER INFORMATION",
+    "AR": "اتصل بمعلومات العميل",
+    "KU": "گەران بە دوای زانیاری کڕیار",
+    "DE": "KUNDENINFORMATION ANRUFEN",
+    "RU": "ЗВОНИТЬ ЗА ИНФОРМАЦИЕЙ О КЛИЕНТЕ",
+    "FA": "تماس با اطلاعات مشتری"
+  },
+  "Arama Kriteri: Telefon numarası,Adı Soyadı,Kimlik veya Passaport No": {
+    "TR": "Arama Kriteri: Telefon numarası,Adı Soyadı,Kimlik veya Passaport No",
+    "EN": "Search Criteria: Phone number, Name Surname, ID or Passport No",
+    "AR": "معيار البحث: رقم الهاتف ، الاسم واللقب ، الهوية أو رقم الجواز",
+    "KU": "پێوەرەکانی گەڕان: ژمارەی مۆبایل،ناو و نازناوی،ناسنامە یان ژمارەی پاسپۆرت",
+    "DE": "Suchkriterien: Telefonnummer, Name Nachname, ID oder Passnummer",
+    "RU": "Критерии поиска: номер телефона, имя фамилия, идентификационный номер или номер паспорта",
+    "FA": "معیارهای جستجو: شماره تلفن، نام و نام خانوادگی، شناسه یا شماره گذرنامه"
+  },
+  "PERSONEL ADI": {
+    "TR": "PERSONEL ADI",
+    "EN": "EMPLOYEE NAME",
+    "AR": "اسم الموظف",
+    "KU": "ناوی کارمەند",
+    "DE": "MITARBEITERNAME",
+    "RU": "ИМЯ СОТРУДНИКА",
+    "FA": "نام کارمند"
+  },
+  "Hoşgeldin": {
+    "TR": "Hoşgeldin",
+    "EN": "Welcome",
+    "AR": "مرحبًا ",
+    "KU": "بەخێربێن",
+    "DE": "Willkommen",
+    "RU": "Добро пожаловать",
+    "FA": "خوش آمدید"
+  },
+  "Müşteri No:": {
+    "TR": "Müşteri No:",
+    "EN": "Customer No:",
+    "AR": "رقم العميل:",
+    "KU": "ژمارەی کڕیار:",
+    "DE": "Kundennummer:",
+    "RU": "Номер клиента:",
+    "FA": "شماره مشتری:"
+  },
+  "Telefon": {
+    "TR": "Telefon",
+    "EN": "Phone",
+    "AR": "هاتف",
+    "KU": "ژمارەی مۆبایل",
+    "DE": "Telefon",
+    "RU": "Телефон",
+    "FA": "تلفن"
+  },
+  "Kaynak": {
+    "TR": "Kaynak",
+    "EN": "Source",
+    "AR": "المصدر",
+    "KU": "سەرچاوە",
+    "DE": "Quelle",
+    "RU": "Источник",
+    "FA": "منبع"
+  },
+  "Adres": {
+    "TR": "Adres",
+    "EN": "Address",
+    "AR": "العنوان",
+    "KU": "ناونیشان",
+    "DE": "Adresse",
+    "RU": "Адрес",
+    "FA": "آدرس"
+  },
+  "Kaynak Detay *": {
+    "TR": "Kaynak Detay *",
+    "EN": "Source Detail *",
+    "AR": "تفاصيل المصدر *",
+    "KU": "وردەکاری سەرچاوە *",
+    "DE": "Quellendetail *",
+    "RU": "Подробности источника *",
+    "FA": "جزئیات منبع *"
+  },
+  "Kaynak Alt Detay": {
+    "TR": "Kaynak Alt Detay",
+    "EN": "Source Subdetail",
+    "AR": "تفاصيل فرعية للمصدر",
+    "KU": "وردەکاری ژیرەوەی سەرچاوە",
+    "DE": "Quellensubdetail",
+    "RU": "Подробности подробности источника",
+    "FA": "زیرجزئیات منبع"
+  },
+  "Şehir *": {
+    "TR": "Şehir *",
+    "EN": "City *",
+    "AR": "مدينة *",
+    "KU": "شار *",
+    "DE": "Stadt *",
+    "RU": "Город *",
+    "FA": "شهر *"
+  },
+  "Ülke *": {
+    "TR": "Ülke *",
+    "EN": "Country *",
+    "AR": "بلد *",
+    "KU": "وڵات *",
+    "DE": "Land *",
+    "RU": "Страна *",
+    "FA": "کشور *"
+  },
+  "Kişisel Bilgiler": {
+    "TR": "Kişisel Bilgiler",
+    "EN": "Personal Information",
+    "AR": "معلومات شخصية",
+    "KU": "زانیاری کەسی",
+    "DE": "Persönliche Informationen",
+    "RU": "Личная информация",
+    "FA": "اطلاعات شخصی"
+  },
+  "Refarans Bilgileri": {
+    "TR": "Refarans Bilgileri",
+    "EN": "Reference Information",
+    "AR": "معلومات المرجع",
+    "KU": "زانیاری ڕێفەرانس",
+    "DE": "Referenzinformationen",
+    "RU": "Информация о ссылке",
+    "FA": "اطلاعات مرجع"
+  },
+  "Sorumlu Kişi *": {
+    "TR": "Sorumlu Kişi *",
+    "EN": "Responsible Person *",
+    "AR": "الشخص المسؤول *",
+    "KU": "کەسی بەرپرس*",
+    "DE": "Verantwortliche Person *",
+    "RU": "Ответственное лицо *",
+    "FA": "شخص مسئول *"
+  },
+  "Şube *": {
+    "TR": "Şube *",
+    "EN": "Branch *",
+    "AR": "فرع *",
+    "KU": "لق *",
+    "DE": "Filiale *",
+    "RU": "Филиал *",
+    "FA": "شعبه *"
+  },
+  "Bölge *": {
+    "TR": "Bölge *",
+    "EN": "Region *",
+    "AR": "منطقة *",
+    "KU": "ناوچە *",
+    "DE": "Region *",
+    "RU": "Регион *",
+    "FA": "منطقه *"
+  },
+  "Şirket *": {
+    "TR": "Şirket *",
+    "EN": "Company *",
+    "AR": "شركة *",
+    "KU": "کۆمپانیا *",
+    "DE": "Unternehmen *",
+    "RU": "Компания *",
+    "FA": "شرکت *"
+  },
+  "Ad ve Soyad": {
+    "TR": "Ad ve Soyad",
+    "EN": "First and Last Name",
+    "AR": "الاسم الأول والأخير",
+    "KU": "ناو ونازناو",
+    "DE": "Vorname und Nachname",
+    "RU": "Имя и фамилия",
+    "FA": "نام و نام خانوادگی"
+  },
+  "Müşteri Tipi": {
+    "TR": "Müşteri Tipi",
+    "EN": "Customer Type",
+    "AR": "نوع العميل",
+    "KU": "جۆری کڕیار",
+    "DE": "Kundentyp",
+    "RU": "Тип клиента",
+    "FA": "نوع مشتری"
+  },
+  "Profil Tipi": {
+    "TR": "Profil Tipi",
+    "EN": "Profile Type",
+    "AR": "نوع الملف الشخصي",
+    "KU": "جۆری پرۆفایل",
+    "DE": "Profiltyp",
+    "RU": "Тип профиля",
+    "FA": "نوع پروفایل"
+  },
+  ":": {
+    "TR": ":",
+    "EN": ":",
+    "AR": ":",
+    "KU": ":",
+    "DE": ":",
+    "RU": ":",
+    "FA": ":"
+  },
+  "Son Ziyaret Tarihi\t": {
+    "TR": "Son Ziyaret Tarihi\t",
+    "EN": "Last Visit Date\t",
+    "AR": "تاريخ الزيارة الأخيرة\t",
+    "KU": "کۆتا بەڕواری سەردان\t",
+    "DE": "Letztes Besuchsdatum\t",
+    "RU": "Дата последнего визита\t",
+    "FA": "تاریخ آخرین بازدید\t"
+  },
+  "Son Ziyaret Adresi": {
+    "TR": "Son Ziyaret Adresi",
+    "EN": "Last Visit Address",
+    "AR": "عنوان الزيارة الأخيرة",
+    "KU": "کۆتا ناونیشانی سەردان",
+    "DE": "Letzte Besuchsadresse",
+    "RU": "Адрес последнего визита",
+    "FA": "آدرس آخرین"
+  },
+  "Son İletişim Tarihi\t": {
+    "TR": "Son İletişim Tarihi\t",
+    "EN": "Last Communication Date\t",
+    "AR": "تاريخ آخر اتصال\t",
+    "KU": "کۆتا بەڕواری پەیوەندی\t",
+    "DE": "Letztes Kommunikationsdatum\t",
+    "RU": "Дата последнего общения\t",
+    "FA": "تاریخ آخرین ارتباط\t"
+  },
+  "Son İletişim Yöntemi": {
+    "TR": "Son İletişim Yöntemi",
+    "EN": "Last Communication Method",
+    "AR": "آخر طريقة اتصال",
+    "KU": "دوایین رێگای پەیوەندی",
+    "DE": "Letzte Kommunikationsmethode",
+    "RU": "Последний метод связи",
+    "FA": "آخرین روش ارتباط"
+  },
+  "Planlanmış İlk İletişim Tarihi": {
+    "TR": "Planlanmış İlk İletişim Tarihi",
+    "EN": "Planned First Communication Date",
+    "AR": "تاريخ أول اتصال مخطط له",
+    "KU": "پڵانی بەڕواری یەکەم پەیوەندی",
+    "DE": "Geplantes erstes Kommunikationsdatum",
+    "RU": "Запланированная дата первого контакта",
+    "FA": "تاریخ ارتباط اولین برنامه ریزی شده"
+  },
+  "Planlanmış İlk İletişim Yöntemi\t": {
+    "TR": "Planlanmış İlk İletişim Yöntemi\t",
+    "EN": "Planned First Communication Method\t",
+    "AR": "طريقة أول اتصال مخطط لها\t",
+    "KU": "پڵانی رێگای یەکەمی پەیوەندی\t",
+    "DE": "Geplante erste Kommunikationsmethode\t",
+    "RU": "Запланированный первый метод связи\t",
+    "FA": "روش ارتباط اولین برنامه ریزی شده\t"
+  },
+  "Yapılan Toplam Çağrı Sayısı\t": {
+    "TR": "Yapılan Toplam Çağrı Sayısı\t",
+    "EN": "Total Number of Calls Made\t",
+    "AR": "إجمالي عدد المكالمات التي تم إجراؤها\t",
+    "KU": "کۆی گشتی ژمارەی ئەو پەیوەندیانەی ئەنجام دراون\t",
+    "DE": "Gesamtanzahl der getätigten Anrufe\t",
+    "RU": "Общее количество сделанных вызовов\t",
+    "FA": "تعداد کل تماس‌های انجام شده\t"
+  },
+  "Yapılan Toplam Randevu Sayısı\t": {
+    "TR": "Yapılan Toplam Randevu Sayısı\t",
+    "EN": "Total Number of Appointments Made\t",
+    "AR": "إجمالي عدد المواعيد التي تم حجزها\t",
+    "KU": "کۆی گشتی ژمارەی ئەو مەوعیدانەی ئەنجام دراون\t",
+    "DE": "Gesamtanzahl der vereinbarten Termine\t",
+    "RU": "Общее количество сделанных записей\t",
+    "FA": "تعداد کل وقت‌های ملاقات انجام شده\t"
+  },
+  "Resim Yenile": {
+    "TR": "Resim Yenile",
+    "EN": "Refresh Image",
+    "AR": "تحديث الصورة",
+    "KU": "نوێکردنەوەی وێنە",
+    "DE": "Bild aktualisieren",
+    "RU": "Обновить изображение",
+    "FA": "تازه کردن تصویر"
+  },
+  "\"": {
+    "TR": "\"",
+    "EN": "\"",
+    "AR": "\"",
+    "KU": "\"",
+    "DE": "\"",
+    "RU": "\"",
+    "FA": "\""
+  },
+  "Müşteri Adı - No": {
+    "TR": "Müşteri Adı - No",
+    "EN": "Customer Name - No",
+    "AR": "اسم العميل - رقم",
+    "KU": "ناوی کڕیار - ژمارە",
+    "DE": "Kundenname - Nummer",
+    "RU": "Имя клиента - номер",
+    "FA": "نام مشتری - شماره"
+  },
+  "Kaydet [F2]": {
+    "TR": "Kaydet [F2]",
+    "EN": "Save [F2]",
+    "AR": "حفظ [F2]",
+    "KU": "خەزن بکە [F2]",
+    "DE": "Speichern [F2]",
+    "RU": "Сохранить [F2]",
+    "FA": "ذخیره [F2]"
+  },
+  "Teklif Oluştur [F3]": {
+    "TR": "Teklif Oluştur [F3]",
+    "EN": "Create Quote [F3]",
+    "AR": "إنشاء عرض [F3]",
+    "KU": "دروستکردنی ئۆفەر [F3]",
+    "DE": "Angebot erstellen [F3]",
+    "RU": "Создать предложение [F3]",
+    "FA": "ایجاد پیشنهاد [F3]"
+  },
+  "Cep Telefon *": {
+    "TR": "Cep Telefon *",
+    "EN": "Mobile Phone *",
+    "AR": "هاتف محمول *",
+    "KU": "ژمارەی مۆبایل *",
+    "DE": "Handy *",
+    "RU": "Мобильный телефон *",
+    "FA": "تلفن همراه *"
+  },
+  "Ad": {
+    "TR": "Ad",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "Имя",
+    "FA": "نام"
+  },
+  "Son Ziyaret Notu": {
+    "TR": "Son Ziyaret Notu",
+    "EN": "Last Visit Note",
+    "AR": "ملاحظة آخر زيارة",
+    "KU": "تێبینی کۆتا سەردان",
+    "DE": "Letzte Besuchsnote",
+    "RU": "Примечание к последнему визиту",
+    "FA": "یادداشت آخرین بازدید"
+  },
+  "Son İletişim Tipi\t": {
+    "TR": "Son İletişim Tipi\t",
+    "EN": "Last Communication Type\t",
+    "AR": "نوع آخر اتصال\t",
+    "KU": "دوا جۆری پەیوەندی\t",
+    "DE": "Letzter Kommunikationstyp\t",
+    "RU": "Тип последнего общения\t",
+    "FA": "نوع آخرین ارتباط\t"
+  },
+  "Son İletişim Sağlayan Personel": {
+    "TR": "Son İletişim Sağlayan Personel",
+    "EN": "Person Providing Last Communication",
+    "AR": "الشخص الذي قدم آخر اتصال",
+    "KU": "دوا پەیوەندی کارمەند",
+    "DE": "Person, die die letzte Kommunikation bereitgestellt hat",
+    "RU": "Сотрудник, предоставивший последний контакт",
+    "FA": "کارمند فراهم‌کننده آخرین ارتباط"
+  },
+  "...": {
+    "TR": "...",
+    "EN": "...",
+    "AR": "...",
+    "KU": "...",
+    "DE": "...",
+    "RU": "...",
+    "FA": "..."
+  },
+  "E-Posta": {
+    "TR": "E-Posta",
+    "EN": "Email",
+    "AR": "البريد الإلكتروني",
+    "KU": "ئیمەیل",
+    "DE": "E-Mail",
+    "RU": "Электронная почта",
+    "FA": "ایمیل"
+  },
+  "Iletisim Tercihi": {
+    "TR": "Iletisim Tercihi",
+    "EN": "Communication Preference",
+    "AR": "تفضيلات الاتصال",
+    "KU": "هەڵبژاردنی پەیوەندی",
+    "DE": "Kommunikationspräferenz",
+    "RU": "Предпочтение в общении",
+    "FA": "ترجیحات ارتباط"
+  },
+  "Ne sekilde iletisim kurulacak?": {
+    "TR": "Ne sekilde iletisim kurulacak?",
+    "EN": "How often will communication be established?",
+    "AR": "كم مرة سيتم إقامة اتصال؟",
+    "KU": "بە چ جۆرێک پەیوەندی دەبەسترێت؟",
+    "DE": "Wie oft wird Kommunikation hergestellt?",
+    "RU": "Как часто будет устанавливаться связь?",
+    "FA": "چقدر اغلب ارتباط برقرار خواهد شد؟"
+  },
+  "Tercih Edilen iletisim Dil": {
+    "TR": "Tercih Edilen iletisim Dil",
+    "EN": "Preferred Communication Language",
+    "AR": "اللغة المفضلة للاتصال",
+    "KU": "زمانی هەلبژێردراوی پەیوەندی",
+    "DE": "Bevorzugte Kommunikationssprache",
+    "RU": "Предпочтительный язык общения",
+    "FA": "زبان ترجیحی برای ارتباط"
+  },
+  "Aciklama": {
+    "TR": "Aciklama",
+    "EN": "Description",
+    "AR": "الوصف",
+    "KU": "روونکردنەوە",
+    "DE": "Beschreibung",
+    "RU": "Описание",
+    "FA": "توضیح"
+  },
+  "Iletisim Bilgileri": {
+    "TR": "Iletisim Bilgileri",
+    "EN": "Contact Information",
+    "AR": "معلومات الاتصال",
+    "KU": "زانیاری پەیوەندی",
+    "DE": "Kontaktinformationen",
+    "RU": "Контактная информация",
+    "FA": "اطلاعات تماس"
+  },
+  "Kimlik No:": {
+    "TR": "Kimlik No:",
+    "EN": "ID Number:",
+    "AR": "رقم الهوية:",
+    "KU": "ژمارەی ناسنامە:",
+    "DE": "Ausweisnummer:",
+    "RU": "Идентификационный номер:",
+    "FA": "شماره شناسنامه:"
+  },
+  "KimlikNo": {
+    "TR": "Kimlik No",
+    "EN": "ID Number",
+    "AR": "رقم الهوية",
+    "KU": "ژمارەی ناسنامە",
+    "DE": "Ausweisnummer",
+    "RU": "Идентификационный номер",
+    "FA": "شماره شناسنامه:"
+  },
+  "Passaport No:": {
+    "TR": "Passaport No:",
+    "EN": "Passport Number:",
+    "AR": "رقم جواز السفر:",
+    "KU": "ژمارەی پاسپۆرت:",
+    "DE": "Reisepassnummer:",
+    "RU": "Номер паспорта:",
+    "FA": "شماره پاسپورت:"
+  },
+  "Baba Adi": {
+    "TR": "Baba Adi",
+    "EN": "Father's Name",
+    "AR": "اسم الأب",
+    "KU": "ناوی باوک:",
+    "DE": "Name des Vaters",
+    "RU": "Имя отца",
+    "FA": "نام پدر"
+  },
+  "Anne Adi": {
+    "TR": "Anne Adı",
+    "EN": "Mother's Name",
+    "AR": "اسم الأم",
+    "KU": "ناوی دایک",
+    "DE": "Name der Mutter",
+    "RU": "Имя матери",
+    "FA": "نام مادر"
+  },
+  "Meslek Unv": {
+    "TR": "Meslek Unv",
+    "EN": "Occupation Title",
+    "AR": "عنوان الوظيفة",
+    "KU": "ناونیشانی پیشە",
+    "DE": "Berufsbezeichnung",
+    "RU": "Название профессии",
+    "FA": "عنوان شغلی"
+  },
+  "Meslek": {
+    "TR": "Meslek",
+    "EN": "Occupation",
+    "AR": "المهنة",
+    "KU": "پیشە",
+    "DE": "Beruf",
+    "RU": "Профессия",
+    "FA": "شغل"
+  },
+  "Dogum Yeri": {
+    "TR": "Dogum Yeri",
+    "EN": "Place of Birth",
+    "AR": "مكان الولادة",
+    "KU": "شوێنی لە دایک بوون",
+    "DE": "Geburtsort",
+    "RU": "Место рождения",
+    "FA": "محل تولد"
+  },
+  "Medeni Durumu": {
+    "TR": "Medeni Durumu",
+    "EN": "Marital Status",
+    "AR": "الحالة الاجتماعية",
+    "KU": "باری خێزانداری",
+    "DE": "Familienstand",
+    "RU": "Семейное положение",
+    "FA": "وضعیت تاهل"
+  },
+  "Cinsiyet": {
+    "TR": "Cinsiyet",
+    "EN": "Gender",
+    "AR": "الجنس",
+    "KU": "رەگەز",
+    "DE": "Geschlecht",
+    "RU": "Пол",
+    "FA": "جنسیت"
+  },
+  "Adres 3": {
+    "TR": "Adres 3",
+    "EN": "Address 3",
+    "AR": "العنوان 3",
+    "KU": "ناونیشان 3",
+    "DE": "Adresse 3",
+    "RU": "Адрес 3",
+    "FA": "آدرس 3"
+  },
+  "Adres 2": {
+    "TR": "Adres 2",
+    "EN": "Address 2",
+    "AR": "العنوان 2",
+    "KU": "ناونیشان 2",
+    "DE": "Adresse 2",
+    "RU": "Адрес 2",
+    "FA": "آدرس 2"
+  },
+  "+ Not Ekle": {
+    "TR": "+ Not Ekle",
+    "EN": "+ Add Note",
+    "AR": "+ إضافة مذكرة",
+    "KU": "+ تێبینی زیاد بکە",
+    "DE": "+ Notiz hinzufügen",
+    "RU": "+ Добавить заметку",
+    "FA": "+ افزودن یادداشت"
+  },
+  "Hatirlatma Tarihi": {
+    "TR": "Hatirlatma Tarihi",
+    "EN": "Reminder Date",
+    "AR": "تاريخ التذكير",
+    "KU": "بەڕواری بەبیر هێنانەوە",
+    "DE": "Erinnerungsdatum",
+    "RU": "Дата напоминания",
+    "FA": "تاریخ یادآوری"
+  },
+  "Aktivite Aciklamasi": {
+    "TR": "Aktivite Aciklamasi",
+    "EN": "Activity Description",
+    "AR": "وصف النشاط",
+    "KU": "ڕوونکردنەوەی چاڵاکی",
+    "DE": "Aktivitätsbeschreibung",
+    "RU": "Описание деятельности",
+    "FA": "توضیحات فعالیت"
+  },
+  "Aktivite Turu": {
+    "TR": "Aktivite Turu",
+    "EN": "Activity Type",
+    "AR": "نوع النشاط",
+    "KU": "جۆری چاڵاکی",
+    "DE": "Aktivitätstyp",
+    "RU": "Тип деятельности",
+    "FA": "نوع فعالیت"
+  },
+  "+ Aktivite Ekle": {
+    "TR": "+ Aktivite Ekle",
+    "EN": "+ Add Activity",
+    "AR": "+ إضافة نشاط",
+    "KU": "+ چاڵاکی زیاد بکە",
+    "DE": "+ Aktivität hinzufügen",
+    "RU": "+ Добавить деятельность",
+    "FA": "+ افزودن فعالیت"
+  },
+  "+ Dosya Ekle": {
+    "TR": "+ Dosya Ekle",
+    "EN": "+ Add File",
+    "AR": "+ إضافة ملف",
+    "KU": "+ فایل زیاد بکە",
+    "DE": "+ Datei hinzufügen",
+    "RU": "+ Добавить файл",
+    "FA": "+ افزودن فایل"
+  },
+  "Dosya Sec": {
+    "TR": "Dosya Sec",
+    "EN": "Select From File",
+    "AR": "اختيار من الملف",
+    "KU": "فایل هەڵبژێرە",
+    "DE": "Aus Datei auswählen",
+    "RU": "Выбрать из файла",
+    "FA": "انتخاب از فایل"
+  },
+  "Belge Adi": {
+    "TR": "Belge Adi",
+    "EN": "Document Name",
+    "AR": "اسم المستند",
+    "KU": " ناوی بەڵگەنامە",
+    "DE": "Dokumentenname",
+    "RU": "Название документа",
+    "FA": "نام سند"
+  },
+  "...............................": {
+    "TR": "...............................",
+    "EN": "...............................",
+    "AR": "...............................",
+    "KU": "...............................",
+    "DE": "...............................",
+    "RU": "...............................",
+    "FA": "..............................."
+  },
+  "Teklifi Kaydet": {
+    "TR": "Teklifi Kaydet",
+    "EN": "Save Quote",
+    "AR": "حفظ العرض",
+    "KU": "ئۆفەرەکە خەزن بکە",
+    "DE": "Angebot speichern",
+    "RU": "Сохранить предложение",
+    "FA": "ذخیره پیشنهاد"
+  },
+  "Taksitlendir": {
+    "TR": "Taksitlendir",
+    "EN": "Installment",
+    "AR": "تقسيط",
+    "KU": "بیەک بە قست",
+    "DE": "Ratenzahlung",
+    "RU": "Рассрочка",
+    "FA": "تقسیط"
+  },
+  "Taksit Sayisi & Min Taksit Tutarı Bul": {
+    "TR": "Taksit Sayisi & Min Taksit Tutarı Bul",
+    "EN": "Find Installment Number & Min Installment Amount",
+    "AR": "العثور على عدد الأقساط والحد الأدنى للقسط",
+    "KU": "ژمارەی قست & دۆزینەوەی کەمترین بڕی قست",
+    "DE": "Ratenzahlungszahl und Mindestbetrag finden",
+    "RU": "Найти количество платежей и минимальную сумму платежа",
+    "FA": "یافتن تعداد اقساط و حداقل مبلغ قسط"
+  },
+  "Indirim tutari": {
+    "TR": "Indirim tutari",
+    "EN": "Discount Amount",
+    "AR": "مبلغ الخصم",
+    "KU": "بڕی داشکاندن",
+    "DE": "Rabattbetrag",
+    "RU": "Сумма скидки",
+    "FA": "مبلغ تخفیف"
+  },
+  "İndirim tutari": {
+    "TR": "Indirim tutari",
+    "EN": "Discount Amount",
+    "AR": "مبلغ الخصم",
+    "KU": "بڕی داشکاندن",
+    "DE": "Rabattbetrag",
+    "RU": "Сумма скидки",
+    "FA": "مبلغ تخفیف"
+  },
+  "Taksit Sayisi": {
+    "TR": "Taksit Sayisi",
+    "EN": "Number of Installments",
+    "AR": "عدد الأقساط",
+    "KU": "ژمارەی قیست",
+    "DE": "Anzahl der Raten",
+    "RU": "Количество платежей",
+    "FA": "تعداد اقساط"
+  },
+  "Taksit Tutarı": {
+    "TR": "Taksit Tutarı",
+    "EN": "Installment Amount",
+    "AR": "مبلغ القسط",
+    "KU": "بڕی قیست",
+    "DE": "Ratenbetrag",
+    "RU": "Сумма платежа",
+    "FA": "مبلغ اقساط"
+  },
+  "Taksit Sayısı": {
+    "TR": "Taksit Sayısı",
+    "EN": "Number of Installments",
+    "AR": "عدد الأقساط",
+    "KU": "ژمارەی قیست",
+    "DE": "Anzahl der Raten",
+    "RU": "Количество платежей",
+    "FA": "تعداد اقساط"
+  },
+  "Teslimat Ayı": {
+    "TR": "Teslimat Ayı",
+    "EN": "Delivery Month",
+    "AR": "شهر التسليم",
+    "KU": "مانگی گەیاندن",
+    "DE": "Liefermonat",
+    "RU": "Месяц поставки",
+    "FA": "ماه تحویل"
+  },
+  "Toplam Ödeme": {
+    "TR": "Toplam Ödeme",
+    "EN": "Total Payment",
+    "AR": "المجموع الكلي للدفع",
+    "KU": "کۆی پارەدان",
+    "DE": "Gesamtbetrag",
+    "RU": "Общая сумма платежа",
+    "FA": "مجموع پرداختی"
+  },
+  "Kalan": {
+    "TR": "Kalan",
+    "EN": "Remaining",
+    "AR": "المتبقي",
+    "KU": "ماوە",
+    "DE": "Verbleibend",
+    "RU": "Остаток",
+    "FA": "مانده"
+  },
+  "İlk Ödeme Toplam": {
+    "TR": "İlk Ödeme Toplam",
+    "EN": "Initial Payment Total",
+    "AR": "إجمالي المبلغ الأولي",
+    "KU": "کۆی پارەدانی یەکەم",
+    "DE": "Gesamtbetrag der ersten Zahlung",
+    "RU": "Общая сумма первого платежа",
+    "FA": "مجموع پرداخت اولیه"
+  },
+  "Sözleşme Bedeli": {
+    "TR": "Sözleşme Bedeli",
+    "EN": "Contract Amount",
+    "AR": "مبلغ العقد",
+    "KU": "بەهای گرێبەست",
+    "DE": "Vertragsbetrag",
+    "RU": "Сумма контракта",
+    "FA": "مبلغ قرارداد"
+  },
+  "Peşinat Tutarı": {
+    "TR": "Peşinat Tutarı",
+    "EN": "Down Payment Amount",
+    "AR": "مبلغ الدفعة الأولى",
+    "KU": "کۆی پارەی پێشەکی",
+    "DE": "Anzahlungsbetrag",
+    "RU": "Сумма первого взноса",
+    "FA": "مبلغ پیش پرداخت"
+  },
+  "Finansman Bedeli": {
+    "TR": "Finansman Bedeli",
+    "EN": "Finance Amount",
+    "AR": "مبلغ التمويل",
+    "KU": "بەهای ژمێریاری",
+    "DE": "Finanzbetrag",
+    "RU": "Финансовая сумма",
+    "FA": "مبلغ تأمین مالی"
+  },
+  "Max Ay": {
+    "TR": "Max Ay",
+    "EN": "Max Month",
+    "AR": "الحد الأقصى للشهر",
+    "KU": "زۆرترین مانگ",
+    "DE": "Maximaler Monat",
+    "RU": "Максимальный месяц",
+    "FA": "حداکثر ماه"
+  },
+  "Başlangıç Gün": {
+    "TR": "Başlangıç Gün",
+    "EN": "Start Day",
+    "AR": "يوم البداية",
+    "KU": "رۆژی دەستپێکردن",
+    "DE": "Starttag",
+    "RU": "Начальный день",
+    "FA": "روز شروع"
+  },
+  "% Oran": {
+    "TR": "% Oran",
+    "EN": "Percentage Rate",
+    "AR": "نسبة الفائدة",
+    "KU": "٪ ریژە",
+    "DE": "Prozentsatz",
+    "RU": "Процентная ставка",
+    "FA": "نرخ درصدی"
+  },
+  "Finansman Tipi": {
+    "TR": "Finansman Tipi",
+    "EN": "Finance Type",
+    "AR": "نوع التمويل",
+    "KU": "جۆری ژمێریار",
+    "DE": "Finanzierungstyp",
+    "RU": "Тип финансирования",
+    "FA": "نوع تأمین مالی"
+  },
+  "$ - iqd": {
+    "TR": "$ - iqd",
+    "EN": "$ - iqd",
+    "AR": "$ - iqd",
+    "KU": "$ - دینار",
+    "DE": "$ - iqd",
+    "RU": "$ - iqd",
+    "FA": "$ - iqd"
+  },
+  "Profiller": {
+    "TR": "Profiller",
+    "EN": "Profiles",
+    "AR": "الملفات الشخصية",
+    "KU": "پڕۆفایلەکان",
+    "DE": "Profile",
+    "RU": "Профили",
+    "FA": "پروفایل‌ها"
+  },
+  "Aktiviteler": {
+    "TR": "Aktiviteler",
+    "EN": "Activities",
+    "AR": "الأنشطة",
+    "KU": "چاڵاکیەکان",
+    "DE": "Aktivitäten",
+    "RU": "Мероприятия",
+    "FA": "فعالیت‌ها"
+  },
+  "Üyelikler": {
+    "TR": "Üyelikler",
+    "EN": "Memberships",
+    "AR": "العضويات",
+    "KU": "ئەندامیەتی",
+    "DE": "Mitgliedschaften",
+    "RU": "Членства",
+    "FA": "عضویت‌ها"
+  },
+  "Teklifler": {
+    "TR": "Teklifler",
+    "EN": "Quotations",
+    "AR": "العروض",
+    "KU": "ئۆفەرەکان",
+    "DE": "Angebote",
+    "RU": "Предложения",
+    "FA": "پیشنهادات"
+  },
+  "Oran": {
+    "TR": "Oran",
+    "EN": "Rate",
+    "AR": "النسبة",
+    "KU": "ڕێژە",
+    "DE": "Bewertung",
+    "RU": "Ставка",
+    "FA": "نرخ"
+  },
+  "Max Gün": {
+    "TR": "Max Gün",
+    "EN": "Max Day",
+    "AR": "أقصى يوم",
+    "KU": "زۆرترین ڕۆژ",
+    "DE": "Maximaler Tag",
+    "RU": "Максимальный день",
+    "FA": "حداکثر روز"
+  },
+  "Logo Kod": {
+    "TR": "Logo Kod",
+    "EN": "Logo Code",
+    "AR": "رمز الشعار",
+    "KU": "کۆدی لۆگۆ",
+    "DE": "Logo-Code",
+    "RU": "Код логотипа",
+    "FA": "کد لوگو"
+  },
+  "Ana Kaynak:": {
+    "TR": "Ana Kaynak:",
+    "EN": "Main Source:",
+    "AR": "المصدر الرئيسي:",
+    "KU": "سەرچاوەی سەرەکی:",
+    "DE": "Hauptquelle:",
+    "RU": "Основной источник:",
+    "FA": "منبع اصلی:"
+  },
+  "+": {
+    "TR": "+",
+    "EN": "+",
+    "AR": "+",
+    "KU": "+",
+    "DE": "+",
+    "RU": "+",
+    "FA": "+"
+  },
+  "ŞİRKET": {
+    "TR": "ŞİRKET",
+    "EN": "COMPANY",
+    "AR": "شركة",
+    "KU": "کۆمپانیا",
+    "DE": "UNTERNEHMEN",
+    "RU": "КОМПАНИЯ",
+    "FA": "شرکت"
+  },
+  "ŞUBE": {
+    "TR": "ŞUBE",
+    "EN": "BRANCH",
+    "AR": "فرع",
+    "KU": "لق",
+    "DE": "ZWEIG",
+    "RU": "ФИЛИАЛ",
+    "FA": "شعبه"
+  },
+  "BÖLGE": {
+    "TR": "BÖLGE",
+    "EN": "REGION",
+    "AR": "منطقة",
+    "KU": "ناوچە",
+    "DE": "REGION",
+    "RU": "РЕГИОН",
+    "FA": "ناحیه"
+  },
+  "CALL CUSTOMER INFORMATION": {
+    "TR": "MÜŞTERİ BİLGİLERİNİ ARAYIN",
+    "EN": "CALL CUSTOMER INFORMATION",
+    "AR": "استدعاء معلومات العميل",
+    "KU": "گەران لە زنایاری کڕیار",
+    "DE": "KUNDENINFORMATION ANRUFEN",
+    "RU": "ВЫЗОВ ИНФОРМАЦИИ О КЛИЕНТЕ",
+    "FA": "تماس با اطلاعات مشتری"
+  },
+  "İletişim Tercihi": {
+    "TR": "İletişim Tercihi",
+    "EN": "Communication Preference",
+    "AR": "تفضيلات الاتصال",
+    "KU": "هەڵبژاردنی پەیوەندی",
+    "DE": "Kommunikationspräferenz",
+    "RU": "Предпочтение связи",
+    "FA": "ترجیحات ارتباطی"
+  },
+  "Ne sekilde iletişim kurulacak?": {
+    "TR": "Ne sekilde iletişim kurulacak?",
+    "EN": "How often will communication be established?",
+    "AR": "كم مرة سيتم تأسيس الاتصال؟",
+    "KU": "بە چ شێوەک پەیوەندی پێوە دەکرێت؟",
+    "DE": "Wie oft wird die Kommunikation hergestellt?",
+    "RU": "Как часто будет устанавливаться связь?",
+    "FA": "چقدر اغلب ارتباط برقرار خواهد شد؟"
+  },
+  "Tercih Edilen iletişim Dil": {
+    "TR": "Tercih Edilen iletişim Dil",
+    "EN": "Preferred communication language",
+    "AR": "لغة الاتصال المفضلة",
+    "KU": "زمانی هەلبژێردراوی پەیوەندی",
+    "DE": "Bevorzugte Kommunikationssprache",
+    "RU": "Предпочтительный язык общения",
+    "FA": "زبان ارتباط ترجیحی"
+  },
+  "Açıklama": {
+    "TR": "Açıklama",
+    "EN": "Description",
+    "AR": "وصف",
+    "KU": "ڕوونکردنەوە",
+    "DE": "Beschreibung",
+    "RU": "Описание",
+    "FA": "توضیحات"
+  },
+  "İletişim Bilgileri": {
+    "TR": "İletişim Bilgileri",
+    "EN": "Contact Information",
+    "AR": "معلومات الاتصال",
+    "KU": "زانیاریەکانی پەیوەندی",
+    "DE": "Kontaktinformationen",
+    "RU": "Контактная информация",
+    "FA": "اطلاعات تماس"
+  },
+  "Baba Adı": {
+    "TR": "Baba Adı",
+    "EN": "Father's Name",
+    "AR": "اسم الأب",
+    "KU": "ناوی باوک",
+    "DE": "Vaters Name",
+    "RU": "Имя отца",
+    "FA": "نام پدر"
+  },
+  "Meslek Ünv": {
+    "TR": "Meslek Ünv",
+    "EN": "Occupation Title",
+    "AR": "لقب الوظيفة",
+    "KU": "ناونیشانی پیشە",
+    "DE": "Berufsbezeichnung",
+    "RU": "Должность",
+    "FA": "عنوان شغلی"
+  },
+  "Doğum Yeri": {
+    "TR": "Doğum Yeri",
+    "EN": "Place of Birth",
+    "AR": "مكان الميلاد",
+    "KU": "شوێنی لەدایک بوون",
+    "DE": "Geburtsort",
+    "RU": "Место рождения",
+    "FA": "محل تولد"
+  },
+  "Hatırlatma Tarihi": {
+    "TR": "Hatırlatma Tarihi",
+    "EN": "Reminder Date",
+    "AR": "تاريخ التذكير",
+    "KU": "بەڕواری بەبیرهێنانەوە",
+    "DE": "Erinnerungsdatum",
+    "RU": "Дата напоминания",
+    "FA": "تاریخ یادآوری"
+  },
+  "Aktivite Açıklaması": {
+    "TR": "Aktivite Açıklaması",
+    "EN": "Activity Description",
+    "AR": "وصف النشاط",
+    "KU": "ڕوونکردنەوەی چاڵاکی",
+    "DE": "Aktivitätsbeschreibung",
+    "RU": "Описание активности",
+    "FA": "توضیحات فعالیت"
+  },
+  "Aktivite Türü": {
+    "TR": "Aktivite Türü",
+    "EN": "Activity Type",
+    "AR": "نوع النشاط",
+    "KU": "جۆری چاڵاکی",
+    "DE": "Aktivitätstyp",
+    "RU": "Тип активности",
+    "FA": "نوع فعالیت"
+  },
+  "Dosya Seç": {
+    "TR": "Dosya Seç",
+    "EN": "Select File",
+    "AR": "اختيار الملف",
+    "KU": "فایل  هەڵبژێرە",
+    "DE": "Datei auswählen",
+    "RU": "Выбрать файл",
+    "FA": "انتخاب فایل"
+  },
+  "Select From File": {
+    "TR": "Dosya Seç",
+    "EN": "Select From File",
+    "AR": "اختيار من الملف",
+    "KU": "هەڵبژاردنی فایل",
+    "DE": "Datei auswählen",
+    "RU": "Выбрать из файла",
+    "FA": "انتخاب از فایل"
+  },
+  "Belge Adı": {
+    "TR": "Belge Adı",
+    "EN": "Document Name",
+    "AR": "اسم المستند",
+    "KU": "ناوی بەڵگەنامە",
+    "DE": "Dokumentenname",
+    "RU": "Имя документа",
+    "FA": "نام سند"
+  },
+  "Taksit Sayısı & Min Taksit Tutarı Bul": {
+    "TR": "Taksit Sayısı & Min Taksit Tutarı Bul",
+    "EN": "Find Installment Number & Min Installment Amount",
+    "AR": "العثور على رقم الأقساط والحد الأدنى للقسط",
+    "KU": "ژمارەی قیست&دۆزینەوەی کەمترین بڕی قیست",
+    "DE": "Anzahl der Raten und Mindestbetrag finden",
+    "RU": "Найти количество платежей и минимальную сумму платежа",
+    "FA": "یافتن تعداد اقساط و حداقل مبلغ اقساط"
+  },
+  "Profil İşlemleri": {
+    "TR": "Profil İşlemleri",
+    "EN": "Profile Operations",
+    "AR": "عمليات الملف الشخصي",
+    "KU": "کردارەکانی پرۆفایل",
+    "DE": "Profiloperationen",
+    "RU": "Операции с профилем",
+    "FA": "عملیات پروفایل"
+  },
+  "PROFIL OLUŞTUR": {
+    "TR": "PROFİL OLUŞTUR",
+    "EN": "CREATE PROFILE",
+    "AR": "إنشاء ملف شخصي",
+    "KU": "درووست کردنی کارمەند",
+    "DE": "PROFIL ERSTELLEN",
+    "RU": "СОЗДАТЬ ПРОФИЛЬ",
+    "FA": "ایجاد پروفایل"
+  },
+  "TÜM PROFİLLER": {
+    "TR": "TÜM PROFİLLER",
+    "EN": "ALL PROFILES",
+    "AR": "كل الملفات الشخصية",
+    "KU": "هەموو پرۆفایلەکان",
+    "DE": "ALLE PROFILE",
+    "RU": "ВСЕ ПРОФИЛИ",
+    "FA": "همه پروفایل‌ها"
+  },
+  "BUGÜN OLUŞTURULAN": {
+    "TR": "BUGÜN OLUŞTURULAN",
+    "EN": "CREATED TODAY",
+    "AR": "تم إنشاؤها اليوم",
+    "KU": "درووست بووەکانی ئەمرۆ",
+    "DE": "HEUTE ERSTELLT",
+    "RU": "СОЗДАНО СЕГОДНЯ",
+    "FA": "امروز ایجاد شده"
+  },
+  "Aktivite İşlemleri": {
+    "TR": "Aktivite İşlemleri",
+    "EN": "Activity Operations",
+    "AR": "عمليات النشاط",
+    "KU": "کردارەکانی چاڵاکی",
+    "DE": "Aktivitätsoperationen",
+    "RU": "ОПЕРАЦИИ ПО АКТИВНОСТИ",
+    "FA": "عملیات فعالیت"
+  },
+  "BUGÜN AKTİVİTELER": {
+    "TR": "BUGÜN AKTİVİTELER",
+    "EN": "TODAY'S ACTIVITIES",
+    "AR": "أنشطة اليوم",
+    "KU": "چاڵاکیەکانی ئەمرۆ",
+    "DE": "AKTIVITÄTEN HEUTE",
+    "RU": "АКТИВНОСТИ СЕГОДНЯ",
+    "FA": "فعالیت‌های امروز"
+  },
+  "BU HAFTA AKTİVİTELER": {
+    "TR": "BU HAFTA AKTİVİTELER",
+    "EN": "THIS WEEK'S ACTIVITIES",
+    "AR": "أنشطة هذا الأسبوع",
+    "KU": "چاڵاکیەکانی ئەم هەفتە",
+    "DE": "AKTIVITÄTEN DIESER WOCHE",
+    "RU": "АКТИВНОСТИ НА ЭТОЙ НЕДЕЛЕ",
+    "FA": "فعالیت‌های این هفته"
+  },
+  "BU AY AKTİVİTELER": {
+    "TR": "BU AY AKTİVİTELER",
+    "EN": "THIS MONTH'S ACTIVITIES",
+    "AR": "أنشطة هذا الشهر",
+    "KU": "چاڵاکیەکانی ئەم مانگە",
+    "DE": "AKTIVITÄTEN DIESES MONATS",
+    "RU": "АКТИВНОСТИ В ЭТОМ МЕСЯЦЕ",
+    "FA": "فعالیت‌های این ماه"
+  },
+  "TÜM AKTİVİTELER": {
+    "TR": "TÜM AKTİVİTELER",
+    "EN": "ALL ACTIVITIES",
+    "AR": "كل الأنشطة",
+    "KU": "گشت چاڵاکیەکان",
+    "DE": "ALLE AKTIVITÄTEN",
+    "RU": "ВСЕ АКТИВНОСТИ",
+    "FA": "همه فعالیت‌ها"
+  },
+  "Üyelik İşlemleri": {
+    "TR": "Üyelik İşlemleri",
+    "EN": "Membership Operations",
+    "AR": "عمليات العضوية",
+    "KU": "کردارەانی ئەندامیەتی",
+    "DE": "Mitgliedschaftsoperationen",
+    "RU": "ОПЕРАЦИИ ПО ЧЛЕНСТВУ",
+    "FA": "عملیات عضویت"
+  },
+  "ÜYELİKLER": {
+    "TR": "ÜYELİKLER",
+    "EN": "MEMBERSHIPS",
+    "AR": "العضويات",
+    "KU": "ئەندامیەتی",
+    "DE": "MITGLIEDSCHAFTEN",
+    "RU": "ЧЛЕНСТВА",
+    "FA": "عضویت‌ها"
+  },
+  "TAHSİLAT BEKLEYEN ÜYELİKLER": {
+    "TR": "TAHSİLAT BEKLEYEN ÜYELİKLER",
+    "EN": "COLLECTION PENDING MEMBERSHIPS",
+    "AR": "عضويات قيد الانتظار للتحصيل",
+    "KU": "ئەندامانەی چاوەروانی پارە وەرگرتنن",
+    "DE": "SAMMLUNG AUSSTEHENDE MITGLIEDSCHAFTEN",
+    "RU": "ОЖИДАЮЩИЕ ЧЛЕНСТВА ВЗЫСКАНИЯ",
+    "FA": "عضویت‌های در انتظار تحصیل"
+  },
+  "ALINAN TAHSİLATLAR": {
+    "TR": "ALINAN TAHSİLATLAR",
+    "EN": "RECEIVED COLLECTIONS",
+    "AR": "المجموعات المستلمة",
+    "KU": "پاڕەوەرگرتنەکان",
+    "DE": "ERHALTENE SAMMLUNGEN",
+    "RU": "ПОЛУЧЕННЫЕ КОЛЛЕКЦИИ",
+    "FA": "تحصیلات دریافت شده"
+  },
+  "ASIL MÜŞTERİ [LOGO] GEÇİŞ ONAYI": {
+    "TR": "ASIL MÜŞTERİ [LOGO] GEÇİŞ ONAYI",
+    "EN": "MAIN CUSTOMER [LOGO] TRANSITION APPROVAL",
+    "AR": "موافقة العميل الرئيسي [LOGO] على الانتقال",
+    "KU": "کڕیاری سەرەکی [لۆگۆ] پشتڕاستکردنەوەی  چوون",
+    "DE": "HAUPTKUNDE [LOGO] ÜBERGANGSGENEHMIGUNG",
+    "RU": "ОСНОВНОЙ ЗАКАЗЧИК [LOGO] ОДОБРЕНИЕ ПЕРЕХОДА",
+    "FA": "تأیید گذر مشتری اصلی [LOGO]"
+  },
+  "BEKLEYEN & DOKUMAN TAKİBİ": {
+    "TR": "BEKLEYEN & DOKÜMAN TAKİBİ",
+    "EN": "PENDING & DOCUMENT TRACKING",
+    "AR": "تتبع الانتظار والوثائق",
+    "KU": " چاوەروان&چاودێری بەڵگەنامە ",
+    "DE": "AUSSTEHENDE & DOKUMENTENVERFOLGUNG",
+    "RU": "ОЖИДАЮЩИЕ И ОТСЛЕЖИВАНИЕ ДОКУМЕНТОВ",
+    "FA": "در انتظار و پیگیری اسناد"
+  },
+  "TAKSİT YAKLAŞANLAR": {
+    "TR": "TAKSİT YAKLAŞANLAR",
+    "EN": "UPCOMING INSTALLMENTS",
+    "AR": "الأقساط القادمة",
+    "KU": "قیستە نزیک بووەکان",
+    "DE": "KOMMENDE RATENZAHLUNGEN",
+    "RU": "ПРИБЛИЖАЮЩИЕСЯ ИНСТАЛЛЯЦИИ",
+    "FA": "اقساط آتی"
+  },
+  "BUGÜN TAHSİLATLAR": {
+    "TR": "BUGÜN TAHSİLATLAR",
+    "EN": "TODAY'S COLLECTIONS",
+    "AR": "تحصيل اليوم",
+    "KU": "پارەوەرگرتنی ئەمرۆ",
+    "DE": "HEUTIGE SAMMLUNGEN",
+    "RU": "СЕГОДНЯШНИЕ СБОРЫ",
+    "FA": "تحصیلات امروز"
+  },
+  "GÜNLÜK ÖZET": {
+    "TR": "GÜNLÜK ÖZET",
+    "EN": "DAILY SUMMARY",
+    "AR": "ملخص يومي",
+    "KU": "پوختەی ڕۆژ",
+    "DE": "TÄGLICHE ZUSAMMENFASSUNG",
+    "RU": "ЕЖЕДНЕВНЫЙ ОБЗОР",
+    "FA": "خلاصه روزانه"
+  },
+  "BUGÜN ÜYELİĞE GEÇENLER": {
+    "TR": "BUGÜN ÜYELİĞE GEÇENLER",
+    "EN": "TODAY'S NEW MEMBERSHIPS",
+    "AR": "العضويات الجديدة لهذا اليوم",
+    "KU": "ئەمرۆ ئەندامیەتیان ئەنجام داوە",
+    "DE": "NEUE MITGLIEDSCHAFTEN HEUTE",
+    "RU": "НОВЫЕ ЧЛЕНСТВА СЕГОДНЯ",
+    "FA": "عضویت‌های جدید امروز"
+  },
+  "ARANMAYI BEKLEYEN": {
+    "TR": "ARANMAYI BEKLEYEN",
+    "EN": "AWAITING CALLS",
+    "AR": "انتظار المكالمات",
+    "KU": " لە چاوەروانی پەیوەندیدان",
+    "DE": "AUSSTEHENDE ANRUFE",
+    "RU": "В ОЖИДАНИИ ЗВОНКОВ",
+    "FA": "در انتظار تماس"
+  },
+  "Şirket Tanım İşlemleri": {
+    "TR": "Şirket Tanım İşlemleri",
+    "EN": "Company Description Operations",
+    "AR": "عمليات وصف الشركة",
+    "KU": "کردارەکانی ناساندنی کۆمپانیا",
+    "DE": "FIRMENBESCHREIBUNGSOPERATIONEN",
+    "RU": "ОПЕРАЦИИ ПО ОПИСАНИЮ КОМПАНИИ",
+    "FA": "عملیات توضیح شرکت"
+  },
+  "KULLANICI İŞLEMLERİ": {
+    "TR": "KULLANICI İŞLEMLERİ",
+    "EN": "USER OPERATIONS",
+    "AR": "عمليات المستخدم",
+    "KU": "کرداری بەکارهێنەر",
+    "DE": "BENUTZEROPERATIONEN",
+    "RU": "ОПЕРАЦИИ ПОЛЬЗОВАТЕЛЯ",
+    "FA": "عملیات کاربر"
+  },
+  "ORAN İŞLEMLERİ": {
+    "TR": "ORAN İŞLEMLERİ",
+    "EN": "RATIO OPERATIONS",
+    "AR": "عمليات النسبة",
+    "KU": "کڕداری رێژەیی",
+    "DE": "RATIOPERATIONEN",
+    "RU": "ОПЕРАЦИИ СООТНОШЕНИЯ",
+    "FA": "عملیات نسبت"
+  },
+  "ÜYELİK TANIM İŞLEMLERİ": {
+    "TR": "ÜYELİK TANIM İŞLEMLERİ",
+    "EN": "MEMBERSHIP DEFINITION OPERATIONS",
+    "AR": "عمليات تعريف العضوية",
+    "KU": "کردارەکانی ناساندنی ئەندام",
+    "DE": "MITGLIEDSCHAFTSDEFINITIONSBETRIEBE",
+    "RU": "ОПЕРАЦИИ ОПРЕДЕЛЕНИЯ ЧЛЕНСТВА",
+    "FA": "عملیات تعریف عضویت"
+  },
+  "REFERANS KAYNAKLARI": {
+    "TR": "REFERANS KAYNAKLARI",
+    "EN": "REFERENCE SOURCES",
+    "AR": "مصادر الإحالة",
+    "KU": "سەرچاوەکانی رێفەرانس",
+    "DE": "REFERENZQUELLEN",
+    "RU": "ИСТОЧНИКИ ССЫЛОК",
+    "FA": "منابع مرجع"
+  },
+  "WHATSHAPP ENTEGRASYON": {
+    "TR": "WHATSHAPP ENTEGRASYON",
+    "EN": "WHATSAPP INTEGRATION",
+    "AR": "تكامل WHATSAPP",
+    "KU": " Whatsapp بەستەری",
+    "DE": "WHATSAPP-INTEGRATION",
+    "RU": "ИНТЕГРАЦИЯ WHATSAPP",
+    "FA": "ادغام واتساپ"
+  },
+  "Görev Takip": {
+    "TR": "Görev Takip",
+    "EN": "Task Tracking",
+    "AR": "تتبع المهام",
+    "KU": "چاودێری ئەرک",
+    "DE": "AUFGABENVERFOLGUNG",
+    "RU": "СЛЕДИТЬ ЗА ЗАДАЧАМИ",
+    "FA": "پیگیری وظایف"
+  },
+  "AKTİVİTE TAKİP": {
+    "TR": "AKTİVİTE TAKİP",
+    "EN": "ACTIVITY TRACKING",
+    "AR": "تتبع النشاط",
+    "KU": "چاودێری چاڵاکی",
+    "DE": "AKTIVITÄTENVERFOLGUNG",
+    "RU": "СЛЕДИТЬ ЗА АКТИВНОСТЬЮ",
+    "FA": "پیگیری فعالیت"
+  },
+  "BU HAFTA TESLİMATLAR": {
+    "TR": "BU HAFTA TESLİMATLAR",
+    "EN": "DELIVERIES THIS WEEK",
+    "AR": "تسليمات هذا الأسبوع",
+    "KU": "وەرگرتنەکانی ئەم هەفتە",
+    "DE": "LIEFERUNGEN DIESER WOCHE",
+    "RU": "ДОСТАВКИ НА ЭТОЙ НЕДЕЛЕ",
+    "FA": "تحویل‌های این هفته"
+  },
+  "ŞUBE BOLGE TANIMLARI": {
+    "TR": "ŞUBE & BÖLGE TANIMLARI",
+    "EN": "BRANCH & REGION DEFINITIONS",
+    "AR": "تعريفات الفرع والمنطقة",
+    "KU": "لق&پێناسەکانی ناوچە",
+    "DE": "NIEDERLASSUNGS- UND REGIONSBESCHREIBUNGEN",
+    "RU": "ФИЛИАЛ И ОПИСАНИЯ РЕГИОНА",
+    "FA": "تعریفات شعبه و منطقه"
+  },
+  "kategori": {
+    "TR": "Kategori",
+    "EN": "Category",
+    "AR": "الفئة",
+    "KU": "پۆل",
+    "DE": "Kategorie",
+    "RU": "Категория",
+    "FA": "دسته بندی"
+  },
+  "adi": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "Имя",
+    "FA": "نام"
+  },
+  "fiyat": {
+    "TR": "Fiyat",
+    "EN": "Price",
+    "AR": "السعر",
+    "KU": "نرخ",
+    "DE": "Preis",
+    "RU": "Цена",
+    "FA": "قیمت"
+  },
+  "dolar": {
+    "TR": "Dolar",
+    "EN": "Dollar",
+    "AR": "الدولار",
+    "KU": "Dolar",
+    "DE": "Dollar",
+    "RU": "Доллар",
+    "FA": "دلار"
+  },
+  "puan": {
+    "TR": "Puan",
+    "EN": "Rating",
+    "AR": "التقييم",
+    "KU": "Puan",
+    "DE": "Bewertung",
+    "RU": "Рейтинг",
+    "FA": "امتیاز"
+  },
+  "dakika": {
+    "TR": "Dakika",
+    "EN": "Minute",
+    "AR": "الدقيقة",
+    "KU": "خولەک",
+    "DE": "Minute",
+    "RU": "Минута",
+    "FA": "دقیقه"
+  },
+  "online": {
+    "TR": "Online",
+    "EN": "Online",
+    "AR": "عبر الإنترنت",
+    "KU": "ئۆنلاین",
+    "DE": "Online",
+    "RU": "Онлайн",
+    "FA": "آنلاین"
+  },
+  "barkod": {
+    "TR": "Barkod",
+    "EN": "Barcode",
+    "AR": "الباركود",
+    "KU": "بارکۆد",
+    "DE": "Barcode",
+    "RU": "Штрих-код",
+    "FA": "بارکد"
+  },
+  "Toptancı": {
+    "TR": "Toptancı",
+    "EN": "Wholesaler",
+    "AR": "تاجر جملة",
+    "KU": "فراوانکەر",
+    "DE": "Großhändler",
+    "RU": "Оптовик",
+    "FA": "عمده فروش"
+  },
+  "Toptancı Kodu": {
+    "TR": "Toptancı Kodu",
+    "EN": "Wholesaler Code",
+    "AR": "كود التاجر جملة",
+    "KU": "کۆدی فراوانکەر",
+    "DE": "Großhandelscode",
+    "RU": "Код оптовика",
+    "FA": "کد عمده فروش"
+  },
+  "tarih": {
+    "TR": "Tarih",
+    "EN": "Date",
+    "AR": "التاريخ",
+    "KU": "ڕووداو",
+    "DE": "Datum",
+    "RU": "Дата",
+    "FA": "تاریخ"
+  },
+  "BelgeNo": {
+    "TR": "Belge No",
+    "EN": "Document Number",
+    "AR": "رقم الوثيقة",
+    "KU": "ژمارەی ناوەڕاست",
+    "DE": "Dokumentennummer",
+    "RU": "Номер документа",
+    "FA": "شماره سند"
+  },
+  "+Yeni Alış": {
+    "TR": "Yeni Alış",
+    "EN": "New Purchase",
+    "AR": "شراء جديد",
+    "KU": "کڕینی نوێ",
+    "DE": "Neuer Einkauf",
+    "RU": "Новая покупка",
+    "FA": "خرید جدید"
+  },
+  "UrunAdi": {
+    "TR": "Ürün Adı",
+    "EN": "Product Name",
+    "AR": "اسم المنتج",
+    "KU": "ناوی کاڵا",
+    "DE": "Produktname",
+    "RU": "Наименование товара",
+    "FA": "نام محصول"
+  },
+  "Adet": {
+    "TR": "Adet",
+    "EN": "Quantity",
+    "AR": "الكمية",
+    "KU": "ژمارە",
+    "DE": "Menge",
+    "RU": "Количество",
+    "FA": "تعداد"
+  },
+  "AlisFiyat": {
+    "TR": "Alış Fiyatı",
+    "EN": "Purchase Price",
+    "AR": "سعر الشراء",
+    "KU": "نرخی کڕین",
+    "DE": "Einkaufspreis",
+    "RU": "Цена покупки",
+    "FA": "قیمت خرید"
+  },
+  "SatisFiyat": {
+    "TR": "Satış Fiyatı",
+    "EN": "Selling Price",
+    "AR": "سعر البيع",
+    "KU": "نرخی فراوانی",
+    "DE": "Verkaufspreis",
+    "RU": "Цена продажи",
+    "FA": "قیمت فروش"
+  },
+  "SonKullanmaTarihi": {
+    "TR": "Son Kullanma Tarihi",
+    "EN": "Expiration Date",
+    "AR": "تاريخ الانتهاء",
+    "KU": "ڕووداوی کۆتایی",
+    "DE": "Verfallsdatum",
+    "RU": "Срок годности",
+    "FA": "تاریخ انقضا"
+  },
+  "prim": {
+    "TR": "Prim",
+    "EN": "Bonus",
+    "AR": "مكافأة",
+    "KU": "بۆنوس",
+    "DE": "Bonus",
+    "RU": "Бонус",
+    "FA": "پاداش"
+  },
+  "tel": {
+    "TR": "Tel",
+    "EN": "Phone",
+    "AR": "الهاتف",
+    "KU": "تلەفۆن",
+    "DE": "Telefon",
+    "RU": "Телефон",
+    "FA": "تلفن"
+  },
+  "sifre": {
+    "TR": "Şifre",
+    "EN": "Password",
+    "AR": "كلمة السر",
+    "KU": "وشەی نهێنی",
+    "DE": "Passwort",
+    "RU": "Пароль",
+    "FA": "رمز عبور"
+  },
+  "unvan": {
+    "TR": "Ünvan",
+    "EN": "Title",
+    "AR": "اللقب",
+    "KU": "ناونیشان",
+    "DE": "Titel",
+    "RU": "Звание",
+    "FA": "عنوان"
+  },
+  "brans": {
+    "TR": "Branş",
+    "EN": "Branch",
+    "AR": "الفرع",
+    "KU": "شاخە",
+    "DE": "Branche",
+    "RU": "Отрасль",
+    "FA": "شاخه"
+  },
+  "dogumtarihi": {
+    "TR": "Doğum Tarihi",
+    "EN": "Date of Birth",
+    "AR": "تاريخ الميلاد",
+    "KU": "ڕووداوی لە دایکبوون",
+    "DE": "Geburtsdatum",
+    "RU": "Дата рождения",
+    "FA": "تاریخ تولد"
+  },
+  "mail": {
+    "TR": "Mail",
+    "EN": "Email",
+    "AR": "البريد الإلكتروني",
+    "KU": "ئیمەیل",
+    "DE": "E-Mail",
+    "RU": "Электронная почта",
+    "FA": "ایمیل"
+  },
+  "il": {
+    "TR": "İl",
+    "EN": "Province",
+    "AR": "المحافظة",
+    "KU": "پارێزگا",
+    "DE": "Bundesland",
+    "RU": "Область",
+    "FA": "استان"
+  },
+  "ilce": {
+    "TR": "İlçe",
+    "EN": "District",
+    "AR": "المنطقة",
+    "KU": "ناوچه",
+    "DE": "Bezirk",
+    "RU": "Район",
+    "FA": "شهرستان"
+  },
+  "mahalle": {
+    "TR": "Mahalle",
+    "EN": "Neighborhood",
+    "AR": "الحي",
+    "KU": "ماڵێ",
+    "DE": "Nachbarschaft",
+    "RU": "Квартал",
+    "FA": "محله"
+  },
+  "sokak": {
+    "TR": "Sokak",
+    "EN": "Street",
+    "AR": "الشارع",
+    "KU": "کۆچە",
+    "DE": "Straße",
+    "RU": "Улица",
+    "FA": "خیابان"
+  },
+  "aciklama": {
+    "TR": "Açıklama",
+    "EN": "Description",
+    "AR": "الوصف",
+    "KU": "پسپۆڕ",
+    "DE": "Beschreibung",
+    "RU": "Описание",
+    "FA": "توضیحات"
+  },
+  "ResourceID": {
+    "TR": "Kaynak Kimliği",
+    "EN": "Resource ID",
+    "AR": "معرف المورد",
+    "KU": "ناسنامەی خاکەستر",
+    "DE": "Ressourcen-ID",
+    "RU": "Идентификатор ресурса",
+    "FA": "شناسه منبع"
+  },
+  "ResourceName": {
+    "TR": "Kaynak Adı",
+    "EN": "Resource Name",
+    "AR": "اسم المورد",
+    "KU": "ناوی خاکەستر",
+    "DE": "Ressourcenname",
+    "RU": "Имя ресурса",
+    "FA": "نام منبع"
+  },
+  "Color": {
+    "TR": "Renk",
+    "EN": "Color",
+    "AR": "اللون",
+    "KU": "ڕەنگ",
+    "DE": "Farbe",
+    "RU": "Цвет",
+    "FA": "رنگ"
+  },
+  "Image": {
+    "TR": "Resim",
+    "EN": "Image",
+    "AR": "الصورة",
+    "KU": "وێنە",
+    "DE": "Bild",
+    "RU": "Изображение",
+    "FA": "تصویر"
+  },
+  "CustomField1": {
+    "TR": "Özel Alan 1",
+    "EN": "Custom Field 1",
+    "AR": "حقل مخصص 1",
+    "KU": "شارەزایی تایبەتی 1",
+    "DE": "Benutzerdefiniertes Feld 1",
+    "RU": "Пользовательское поле 1",
+    "FA": "فیلد سفارشی 1"
+  },
+  "Sık Kullanılanlar": {
+    "TR": "Sık Kullanılanlar",
+    "EN": "Favorites",
+    "AR": "المفضلة",
+    "KU": "کارپەکانی خۆشەویست",
+    "DE": "Favoriten",
+    "RU": "Избранное",
+    "FA": "موارد دلخواه"
+  },
+  "Dolar": {
+    "TR": "Dolar",
+    "EN": "Dollar",
+    "AR": "دولار",
+    "KU": "دۆلار",
+    "DE": "Dollar",
+    "RU": "Доллар",
+    "FA": "دلار"
+  },
+  "Product List": {
+    "TR": "Ürün Listesi",
+    "EN": "Product List",
+    "AR": "قائمة المنتجات",
+    "KU": "لیستی بەرهەمەکان",
+    "DE": "Produktliste",
+    "RU": "Список продуктов",
+    "FA": "فهرست محصولات"
+  },
+  "Ürün Ara": {
+    "TR": "Ürün Ara",
+    "EN": "Search Product",
+    "AR": "ابحث عن منتج",
+    "KU": "گەڕان بۆ بەرهەم",
+    "DE": "Produkt suchen",
+    "RU": "Поиск продукта",
+    "FA": "جستجوی محصول"
+  },
+  "Sipariş Toplam \r\n0,00": {
+    "TR": "Sipariş Toplam \r\n0,00",
+    "EN": "Order Total \r\n0.00",
+    "AR": "إجمالي الطلب \r\n0.00",
+    "KU": "کۆی داوا \r\n0.00",
+    "DE": "Bestellsumme \r\n0,00",
+    "RU": "Итог заказа \r\n0,00",
+    "FA": "جمع سفارش \r\n0.00"
+  },
+  "Ödenen \r\n00,00": {
+    "TR": "Ödenen \r\n00,00",
+    "EN": "Paid \r\n00.00",
+    "AR": "مدفوع \r\n00.00",
+    "KU": "پارەدراو \r\n00.00",
+    "DE": "Bezahlt \r\n00,00",
+    "RU": "Оплачено \r\n00,00",
+    "FA": "پرداخت شده \r\n00.00"
+  },
+  "Para Üstü \r\n 00,00": {
+    "TR": "Para Üstü \r\n 00,00",
+    "EN": "Change \r\n00.00",
+    "AR": "الباقي \r\n00.00",
+    "KU": "گەڕاندنەوەی پارە \r\n00.00",
+    "DE": "Wechselgeld \r\n00,00",
+    "RU": "Сдача \r\n00,00",
+    "FA": "باقی‌مانده \r\n00.00"
+  },
+  "Ödeme Al": {
+    "TR": "Ödeme Al",
+    "EN": "Receive Payment",
+    "AR": "استلام الدفع",
+    "KU": "وەرگرتنی پارە",
+    "DE": "Zahlung erhalten",
+    "RU": "Принять оплату",
+    "FA": "دریافت پرداختی"
+  },
+  "İade Al": {
+    "TR": "İade Al",
+    "EN": "Refund",
+    "AR": "استرداد",
+    "KU": "وەرگرتنی گەڕاندنەوە",
+    "DE": "Erstattung",
+    "RU": "Возврат",
+    "FA": "بازپرداخت"
+  },
+  "Personel": {
+    "TR": "Personel",
+    "EN": "Staff",
+    "AR": "الموظفون",
+    "KU": "کارمەندان",
+    "DE": "Mitarbeiter",
+    "RU": "Персонал",
+    "FA": "کارکنان"
+  },
+  "total": {
+    "TR": "Toplam",
+    "EN": "Total",
+    "AR": "الإجمالي",
+    "KU": "کۆ",
+    "DE": "Gesamt",
+    "RU": "Итого",
+    "FA": "کل"
+  },
+  "İptal": {
+    "TR": "İptal",
+    "EN": "Cancel",
+    "AR": "إلغاء",
+    "KU": "هەڵوەشاندنەوە",
+    "DE": "Abbrechen",
+    "RU": "Отмена",
+    "FA": "لغو"
+  },
+  "Yazdır && Kapat": {
+    "TR": "Yazdır && Kapat",
+    "EN": "Print && Close",
+    "AR": "طباعة && إغلاق",
+    "KU": "چاپ && داخستن",
+    "DE": "Drucken && Schließen",
+    "RU": "Печать && Закрыть",
+    "FA": "چاپ && بستن"
+  },
+  "Kaydet && Kapat": {
+    "TR": "Kaydet && Kapat",
+    "EN": "Save && Close",
+    "AR": "حفظ && إغلاق",
+    "KU": "پاشەکەوت && داخستن",
+    "DE": "Speichern && Schließen",
+    "RU": "Сохранить && Закрыть",
+    "FA": "ذخیره && بستن"
+  },
+  "KASA SEÇ": {
+    "TR": "KASA SEÇ",
+    "EN": "Select Cash Register",
+    "AR": "اختر الصندوق",
+    "KU": "ژوورەوە کابینە",
+    "DE": "Kasse auswählen",
+    "RU": "Выбрать кассу",
+    "FA": "انتخاب صندوق"
+  },
+  "USD": {
+    "TR": "USD",
+    "EN": "USD",
+    "AR": "USD",
+    "KU": "USD",
+    "DE": "USD",
+    "RU": "USD",
+    "FA": "USD"
+  },
+  "IQD": {
+    "TR": "IQD",
+    "EN": "IQD",
+    "AR": "IQD",
+    "KU": "IQD",
+    "DE": "IQD",
+    "RU": "IQD",
+    "FA": "IQD"
+  },
+  "Günlük Kur": {
+    "TR": "Günlük Kur",
+    "EN": "Daily Exchange Rate",
+    "AR": "سعر الصرف اليومي",
+    "KU": "ڕێژەی گەڕەکی ڕۆژانە",
+    "DE": "Täglicher Wechselkurs",
+    "RU": "Ежедневный курс обмена",
+    "FA": "نرخ ارز روزانه"
+  },
+  "İndirim": {
+    "TR": "İndirim",
+    "EN": "Discount",
+    "AR": "خصم",
+    "KU": "داشکاندن",
+    "DE": "Rabatt",
+    "RU": "Скидка",
+    "FA": "تخفیف"
+  },
+  "Ödeme Tutarı": {
+    "TR": "Ödeme Tutarı",
+    "EN": "Payment Amount",
+    "AR": "مبلغ الدفع",
+    "KU": "بڕی پارە",
+    "DE": "Zahlungsbetrag",
+    "RU": "Сумма оплаты",
+    "FA": "مبلغ پرداخت"
+  },
+  "Hepsi": {
+    "TR": "Hepsi",
+    "EN": "All",
+    "AR": "الكل",
+    "KU": "هەموو",
+    "DE": "Alle",
+    "RU": "Все",
+    "FA": "همه"
+  },
+
+  "MUHASEBE": {
+    "TR": "Muhasebe",
+    "EN": "Accounting",
+    "AR": "المحاسبة",
+    "KU": "ژمێریاری",
+    "DE": "Buchhaltung",
+    "RU": "Бухгалтерия",
+    "FA": "حسابداری"
+  },
+  "Satış İşlemleri": {
+    "TR": "Satış İşlemleri",
+    "EN": "Sales Transactions",
+    "AR": "عمليات المبيعات",
+    "KU": "کردەوەکانی فرۆشتن",
+    "DE": "Verkaufsprozesse",
+    "RU": "Операции продаж",
+    "FA": "فرآیندهای فروش"
+  },
+  "Parakende Satış": {
+    "TR": "Parakende Satış",
+    "EN": "Retail Sales",
+    "AR": "مبيعات التجزئة",
+    "KU": "فرۆشتنی خشتە",
+    "DE": "Einzelhandelsverkauf",
+    "RU": "Розничная продажа",
+    "FA": "فروش خرده‌فروشی"
+  },
+  "Satış Faturası": {
+    "TR": "Satış Faturası",
+    "EN": "Sales Invoice",
+    "AR": "فاتورة المبيعات",
+    "KU": "فاکتۆری فرۆشتن",
+    "DE": "Rechnung für Verkäufe",
+    "RU": "Счет-фактура",
+    "FA": "فاکتور فروش"
+  },
+  "İade İşlemleri": {
+    "TR": "İade İşlemleri",
+    "EN": "Return Transactions",
+    "AR": "عمليات الإرجاع",
+    "KU": "کردەوەکانی گەڕاندنەوە",
+    "DE": "Rückgabeprozesse",
+    "RU": "Операции возврата",
+    "FA": "فرآیندهای بازگشت"
+  },
+  "Ürün İşlemleri": {
+    "TR": "Ürün İşlemleri",
+    "EN": "Product Transactions",
+    "AR": "عمليات المنتجات",
+    "KU": "کردەوەکانی بەرهەم",
+    "DE": "Produktprozesse",
+    "RU": "Операции с продуктами",
+    "FA": "فرآیندهای محصول"
+  },
+  "Ürünler": {
+    "TR": "Ürünler",
+    "EN": "Products",
+    "AR": "المنتجات",
+    "KU": "بەرهەمەکان",
+    "DE": "Produkte",
+    "RU": "Продукты",
+    "FA": "محصولات"
+  },
+  "Ürün Grupları": {
+    "TR": "Ürün Grupları",
+    "EN": "Product Groups",
+    "AR": "مجموعات المنتجات",
+    "KU": "گروپەکانى بەرهەم",
+    "DE": "Produktgruppen",
+    "RU": "Группы продуктов",
+    "FA": "گروه‌های محصول"
+  },
+  "Ürün Özel Kodlar": {
+    "TR": "Ürün Özel Kodlar",
+    "EN": "Product Custom Codes",
+    "AR": "أكواد المنتجات الخاصة",
+    "KU": "کۆدە تایبەتی بەرهەمەکان",
+    "DE": "Produktspezifische Codes",
+    "RU": "Индивидуальные коды продуктов",
+    "FA": "کدهای خاص محصولات"
+  },
+  "Ürün Birim Setleri": {
+    "TR": "Ürün Birim Setleri",
+    "EN": "Product Unit Sets",
+    "AR": "مجموعات الوحدات للمنتجات",
+    "KU": "کۆمەڵە دانەی بەرهەم",
+    "DE": "Produkteinheitensätze",
+    "RU": "Наборы единиц продукции",
+    "FA": "مجموعه‌های واحد محصول"
+  },
+  "Alış İşlemleri": {
+    "TR": "Alış İşlemleri",
+    "EN": "Purchase Transactions",
+    "AR": "عمليات الشراء",
+    "KU": "کردەوەکانى کرین",
+    "DE": "Kaufprozesse",
+    "RU": "Операции покупки",
+    "FA": "فرآیندهای خرید"
+  },
+  "Alışlar": {
+    "TR": "Alışlar",
+    "EN": "Purchases",
+    "AR": "المشتريات",
+    "KU": "کرینەکان",
+    "DE": "Einkäufe",
+    "RU": "Закупки",
+    "FA": "خریدها"
+  },
+  "Alış Faturası Oluştur": {
+    "TR": "Alış Faturası Oluştur",
+    "EN": "Create Purchase Invoice",
+    "AR": "إنشاء فاتورة شراء",
+    "KU": "دروستکردنى فاکتۆری کرین",
+    "DE": "Einkaufsrechnung erstellen",
+    "RU": "Создать счет на покупку",
+    "FA": "ایجاد فاکتور خرید"
+  },
+  "Raporlar": {
+    "TR": "Raporlar",
+    "EN": "Reports",
+    "AR": "التقارير",
+    "KU": "راپۆرتەکان",
+    "DE": "Berichte",
+    "RU": "Отчеты",
+    "FA": "گزارش‌ها"
+  },
+  "Satış Raporu": {
+    "TR": "Satış Raporu",
+    "EN": "Sales Report",
+    "AR": "تقرير المبيعات",
+    "KU": "راپۆرتى فرۆشتن",
+    "DE": "Verkaufsbericht",
+    "RU": "Отчет о продажах",
+    "FA": "گزارش فروش"
+  },
+  "Günlük Ciro": {
+    "TR": "Günlük Ciro",
+    "EN": "Daily Turnover",
+    "AR": "الإيرادات اليومية",
+    "KU": "دیارەوەی رۆژانە",
+    "DE": "Täglicher Umsatz",
+    "RU": "Дневной оборот",
+    "FA": "گردش مالی روزانه"
+  },
+  "Haftalık Rapor": {
+    "TR": "Haftalık Rapor",
+    "EN": "Weekly Report",
+    "AR": "التقرير الأسبوعي",
+    "KU": "راپۆرتى هەفتانە",
+    "DE": "Wöchentlicher Bericht",
+    "RU": "Еженедельный отчет",
+    "FA": "گزارش هفتگی"
+  },
+  "Aylık Ciro": {
+    "TR": "Aylık Ciro",
+    "EN": "Monthly Turnover",
+    "AR": "الإيرادات الشهرية",
+    "KU": "دیارەوەی مانگانه",
+    "DE": "Monatlicher Umsatz",
+    "RU": "Ежемесячный оборот",
+    "FA": "گردش مالی ماهانه"
+  },
+  "Yıllık Rapor": {
+    "TR": "Yıllık Rapor",
+    "EN": "Annual Report",
+    "AR": "التقرير السنوي",
+    "KU": "راپۆرتى ساڵانە",
+    "DE": "Jahresbericht",
+    "RU": "Годовой отчет",
+    "FA": "گزارش سالانه"
+  },
+  "Envanter Raporları": {
+    "TR": "Envanter Raporları",
+    "EN": "Inventory Reports",
+    "AR": "تقارير المخزون",
+    "KU": "راپۆرتەکانى کەلەپوور",
+    "DE": "Bestandsberichte",
+    "RU": "Отчеты по запасам",
+    "FA": "گزارش‌های موجودی"
+  },
+  "Müşteri Yönetimi": {
+    "TR": "Müşteri Yönetimi",
+    "EN": "Customer Management",
+    "AR": "إدارة العملاء",
+    "KU": "بەڕێوەبردنى کڕیارەکان",
+    "DE": "Kundenverwaltung",
+    "RU": "Управление клиентами",
+    "FA": "مدیریت مشتریان"
+  },
+  "Müşteriler": {
+    "TR": "Müşteriler",
+    "EN": "Customers",
+    "AR": "العملاء",
+    "KU": "کڕیارەکان",
+    "DE": "Kunden",
+    "RU": "Клиенты",
+    "FA": "مشتریان"
+  },
+  "Kullanıcı Tanımları": {
+    "TR": "Kullanıcı Tanımları",
+    "EN": "User Definitions",
+    "AR": "تعريفات المستخدم",
+    "KU": "دیاریکردنەکانی بەکارهێنەر",
+    "DE": "Benutzerdefinitionen",
+    "RU": "Определения пользователей",
+    "FA": "تعاریف کاربر"
+  },
+  "Kullanıcılar": {
+    "TR": "Kullanıcılar",
+    "EN": "Users",
+    "AR": "المستخدمون",
+    "KU": "بەکارهێنەران",
+    "DE": "Benutzer",
+    "RU": "Пользователи",
+    "FA": "کاربران"
+  },
+  "Kullanıcı Tanımlama": {
+    "TR": "Kullanıcı Tanımlama",
+    "EN": "Define User",
+    "AR": "تحديد المستخدم",
+    "KU": "دیاری کردنى بەکارهێنەر",
+    "DE": "Benutzer definieren",
+    "RU": "Определить пользователя",
+    "FA": "تعریف کاربر"
+  },
+  "Kasa İşlemleri": {
+    "TR": "Kasa İşlemleri",
+    "EN": "Cash Register Transactions",
+    "AR": "عمليات الصندوق",
+    "KU": "کردەوەکانی سندوق",
+    "DE": "Kassenvorgänge",
+    "RU": "Операции кассы",
+    "FA": "فرآیندهای صندوق"
+  },
+  "Bağlantı Parametreleri": {
+    "TR": "Bağlantı Parametreleri",
+    "EN": "Connection Parameters",
+    "AR": "معلمات الاتصال",
+    "KU": "پارامێترەکانى پەیوەندیکردن",
+    "DE": "Verbindungsparameter",
+    "RU": "Параметры подключения",
+    "FA": "پارامترهای اتصال"
+  },
+  "Sistem Parametreleri": {
+    "TR": "Sistem Parametreleri",
+    "EN": "System Parameters",
+    "AR": "معلمات النظام",
+    "KU": "پارامێترەکانى سیستەم",
+    "DE": "Systemparameter",
+    "RU": "Параметры системы",
+    "FA": "پارامترهای سیستم"
+  },
+  "Sipariş Toplamı": {
+  "TR": "Sipariş Toplamı",
+  "EN": "Order Total",
+  "AR": "إجمالي الطلب",
+  "KU": "کۆی داواکردن",
+  "DE": "Bestellsumme",
+  "RU": "Общая сумма заказа",
+  "FA": "جمع سفارش"
+},
+"Ödenen": {
+  "TR": "Ödenen",
+  "EN": "Paid",
+  "AR": "تم الدفع",
+  "KU": "پارەی داوە",
+  "DE": "Bezahlt",
+  "RU": "Оплачено",
+  "FA": "پرداخت شده"
+},
+"Para Üstü": {
+  "TR": "Para Üstü",
+  "EN": "Change",
+  "AR": "الباقي",
+  "KU": "گۆڕاوەی پارە",
+  "DE": "Wechselgeld",
+  "RU": "Сдача",
+  "FA": "باقی‌مانده پول"
+},
+"Nakit Kapat": {
+  "TR": "Nakit Kapat",
+  "EN": "Close Cash",
+  "AR": "إغلاق نقدي",
+  "KU": "داخستنەوەی پارەی نەخت",
+  "DE": "Kasse schließen",
+  "RU": "Закрыть наличные",
+  "FA": "بستن نقدی"
+}
+
+
+}
+
