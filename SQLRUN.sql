@@ -1,2 +1,2 @@
-INSERT INTO Kullanici (adi, goruntuleme)
+INSERT INTO Kullanici (adi, goruntule)
 VALUES ('FERHATNAS', 'EVET');
