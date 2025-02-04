@@ -3519,7 +3519,1750 @@
   "RU": "Закрыть наличные",
   "FA": "بستن نقدی"
 }
-
-
+,
+  "GOLD": {
+    "TR": "GOLD",
+    "EN": "GOLD",
+    "AR": "جولد",
+    "KU": "گۆلد",
+    "DE": "Gold",
+    "RU": "ГОЛД",
+    "FA": "گلد"
+  },
+  "Satış İşlemleri": {
+    "TR": "Satış İşlemleri",
+    "EN": "Sales Operations",
+    "AR": "عمليات البيع",
+    "KU": "کارگێڕی فرۆشتن",
+    "DE": "Verkaufsprozesse",
+    "RU": "Операции продаж",
+    "FA": "فرآیندهای فروش"
+  },
+  "Parakende Satış": {
+    "TR": "Parakende Satış",
+    "EN": "Retail Sales",
+    "AR": "مبيعات التجزئة",
+    "KU": "فرۆشتنی پارەکه‌ندە",
+    "DE": "Einzelhandelsverkauf",
+    "RU": "Розничная продажа",
+    "FA": "فروش خرده فروشی"
+  },
+  "Satış Faturaları": {
+    "TR": "Satış Faturaları",
+    "EN": "Sales Invoices",
+    "AR": "فواتير المبيعات",
+    "KU": "فاکتۆری فرۆشتن",
+    "DE": "Verkaufsrechnungen",
+    "RU": "Счета-фактуры по продажам",
+    "FA": "فاکتورهای فروش"
+  },
+  "Raporlar": {
+    "TR": "Raporlar",
+    "EN": "Reports",
+    "AR": "تقارير",
+    "KU": "ڕاپۆرتەکان",
+    "DE": "Berichte",
+    "RU": "Отчеты",
+    "FA": "گزارش‌ها"
+  },
+  "Satış Raporu": {
+    "TR": "Satış Raporu",
+    "EN": "Sales Report",
+    "AR": "تقرير المبيعات",
+    "KU": "ڕاپۆرتی فرۆشتن",
+    "DE": "Verkaufsbericht",
+    "RU": "Отчет о продажах",
+    "FA": "گزارش فروش"
+  },
+  "Karlılık Raporu": {
+    "TR": "Karlılık Raporu",
+    "EN": "Profitability Report",
+    "AR": "تقرير الربحية",
+    "KU": "ڕاپۆرتی قازانج",
+    "DE": "Rentabilitätsbericht",
+    "RU": "Отчет о прибыльности",
+    "FA": "گزارش سودآوری"
+  },
+  "Transfer Raporları": {
+    "TR": "Transfer Raporları",
+    "EN": "Transfer Reports",
+    "AR": "تقارير التحويل",
+    "KU": "ڕاپۆرتەکانی گواستنەوە",
+    "DE": "Transferberichte",
+    "RU": "Отчеты о переводе",
+    "FA": "گزارش‌های انتقال"
+  },
+  "Şube Bakiye Raporu": {
+    "TR": "Şube Bakiye Raporu",
+    "EN": "Branch Balance Report",
+    "AR": "تقرير رصيد الفرع",
+    "KU": "ڕاپۆرتی بەلانسی شۆبە",
+    "DE": "Filialbestandsbericht",
+    "RU": "Отчет о балансе филиала",
+    "FA": "گزارش مانده شعبه"
+  },
+  "Ürün İşlemleri": {
+    "TR": "Ürün İşlemleri",
+    "EN": "Product Operations",
+    "AR": "عمليات المنتج",
+    "KU": "کارگێڕی کاڵا",
+    "DE": "Produktvorgänge",
+    "RU": "Операции с продуктами",
+    "FA": "فرآیندهای محصول"
+  },
+  "Ürünler": {
+    "TR": "Ürünler",
+    "EN": "Products",
+    "AR": "منتجات",
+    "KU": "کاڵاکان",
+    "DE": "Produkte",
+    "RU": "Товары",
+    "FA": "محصولات"
+  },
+  "Ürün Tanımlama": {
+    "TR": "Ürün Tanımlama",
+    "EN": "Product Definition",
+    "AR": "تحديد المنتج",
+    "KU": "ناساندنی کاڵا",
+    "DE": "Produktdefinition",
+    "RU": "Определение продукта",
+    "FA": "تعریف محصول"
+  },
+  "Alış İşlemleri": {
+    "TR": "Alış İşlemleri",
+    "EN": "Purchase Operations",
+    "AR": "عمليات الشراء",
+    "KU": "کارگێڕی کڕین",
+    "DE": "Einkaufsvorgänge",
+    "RU": "Операции по покупке",
+    "FA": "فرآیندهای خرید"
+  },
+  "Alışlar (Yeni)": {
+    "TR": "Alışlar (Yeni)",
+    "EN": "Purchases (New)",
+    "AR": "مشتريات (جديدة)",
+    "KU": "کڕین (نوێ)",
+    "DE": "Einkäufe (Neu)",
+    "RU": "Покупки (Новые)",
+    "FA": "خریدها (جدید)"
+  },
+  "Alışlar (Eski)": {
+    "TR": "Alışlar (Eski)",
+    "EN": "Purchases (Old)",
+    "AR": "مشتريات (قديمة)",
+    "KU": "کڕین (کۆن)",
+    "DE": "Einkäufe (Alt)",
+    "RU": "Покупки (Старые)",
+    "FA": "خریدها (قدیمی)"
+  },
+  "Alış işlemi yap": {
+    "TR": "Alış işlemi yap",
+    "EN": "Make a Purchase Transaction",
+    "AR": "قم بعملية شراء",
+    "KU": "کارگێڕی کڕین بکە",
+    "DE": "Einen Einkaufsvorgang durchführen",
+    "RU": "Совершить покупку",
+    "FA": "انجام فرآیند خرید"
+  },
+  "Personel Alış": {
+    "TR": "Personel Alış",
+    "EN": "Staff Purchase",
+    "AR": "شراء الموظف",
+    "KU": "کڕینی کارمەندان",
+    "DE": "Mitarbeitereinkauf",
+    "RU": "Покупка сотрудника",
+    "FA": "خرید کارمندان"
+  },
+  "Transfer İşlemleri": {
+    "TR": "Transfer İşlemleri",
+    "EN": "Transfer Operations",
+    "AR": "عمليات التحويل",
+    "KU": "کارگێڕی گواستنەوە",
+    "DE": "Transferprozesse",
+    "RU": "Операции перевода",
+    "FA": "فرآیندهای انتقال"
+  },
+  "Transfer Faturaları": {
+    "TR": "Transfer Faturaları",
+    "EN": "Transfer Invoices",
+    "AR": "فواتير التحويل",
+    "KU": "فاکتۆری گواستنەوە",
+    "DE": "Transferrechnungen",
+    "RU": "Счета-фактуры перевода",
+    "FA": "فاکتورهای انتقال"
+  },
+  "Cari Hesap İşlemleri": {
+    "TR": "Cari Hesap İşlemleri",
+    "EN": "Current Account Operations",
+    "AR": "عمليات الحساب الجاري",
+    "KU": "کارگێڕی حیسابی جێگیر",
+    "DE": "Vorgänge auf laufendem Konto",
+    "RU": "Операции по текущему счету",
+    "FA": "فرآیندهای حساب جاری"
+  },
+  "Müşteri Hesapları": {
+    "TR": "Müşteri Hesapları",
+    "EN": "Customer Accounts",
+    "AR": "حسابات العملاء",
+    "KU": "حیسابەکانی مەشتەری",
+    "DE": "Kundenkonten",
+    "RU": "Клиентские счета",
+    "FA": "حساب‌های مشتری"
+  },
+  "Toptancı Hesapları": {
+    "TR": "Toptancı Hesapları",
+    "EN": "Wholesaler Accounts",
+    "AR": "حسابات تاجر الجملة",
+    "KU": "حیسابەکانی کۆمەسەر",
+    "DE": "Großhandelskonten",
+    "RU": "Оптовые счета",
+    "FA": "حساب‌های عمده فروشی"
+  },
+  "Dövizci Hesapları": {
+    "TR": "Dövizci Hesapları",
+    "EN": "Currency Exchange Accounts",
+    "AR": "حسابات الصرافة",
+    "KU": "حیسابەکانی گۆڕینی دراو",
+    "DE": "Wechselstuben-Konten",
+    "RU": "Счета обменника валют",
+    "FA": "حساب‌های صرافی"
+  },
+  "Atölye Hesapları": {
+    "TR": "Atölye Hesapları",
+    "EN": "Workshop Accounts",
+    "AR": "حسابات الورشة",
+    "KU": "حیسابەکانی ئەتۆلیە",
+    "DE": "Werkstattkonten",
+    "RU": "Счета мастерской",
+    "FA": "حساب‌های کارگاه"
+  },
+  "Şube Hesapları": {
+    "TR": "Şube Hesapları",
+    "EN": "Branch Accounts",
+    "AR": "حسابات الفرع",
+    "KU": "حیسابەکانی شۆبە",
+    "DE": "Filialkonten",
+    "RU": "Счета филиала",
+    "FA": "حساب‌های شعبه"
+  },
+  "DAIMOND": {
+    "TR": "DAIMOND",
+    "EN": "DAIMOND",
+    "AR": "دايموند",
+    "KU": "دایمۆند",
+    "DE": "DAIMOND",
+    "RU": "ДАЙМОНД",
+    "FA": "دایموند"
+  },
+  "Sayım İşlemleri": {
+    "TR": "Sayım İşlemleri",
+    "EN": "Counting Operations",
+    "AR": "عمليات الجرد",
+    "KU": "کارگێڕی پێوان",
+    "DE": "Zählvorgänge",
+    "RU": "Операции подсчета",
+    "FA": "فرآیندهای شمارش"
+  },
+  "Kasa İşlemleri": {
+    "TR": "Kasa İşlemleri",
+    "EN": "Cash Operations",
+    "AR": "عمليات الصندوق",
+    "KU": "کارگێڕی سندوق",
+    "DE": "Kassenvorgänge",
+    "RU": "Кассовые операции",
+    "FA": "فرآیندهای صندوق"
+  },
+  "Kasalar": {
+    "TR": "Kasalar",
+    "EN": "Cash Registers",
+    "AR": "صناديق",
+    "KU": "سندوقەکان",
+    "DE": "Kassen",
+    "RU": "Кассы",
+    "FA": "صندوق‌ها"
+  },
+  "Şubeler Arası Para Transferi": {
+    "TR": "Şubeler Arası Para Transferi",
+    "EN": "Inter-branch Money Transfer",
+    "AR": "تحويل الأموال بين الفروع",
+    "KU": "گواستنەوەی پارە لە نێوان شۆبەکان",
+    "DE": "Geldtransfer zwischen Filialen",
+    "RU": "Денежный перевод между филиалами",
+    "FA": "انتقال پول بین شعب"
+  },
+  "Gider İşlemi": {
+    "TR": "Gider İşlemi",
+    "EN": "Expense Transaction",
+    "AR": "عملية المصاريف",
+    "KU": "کارگێڕی خەرج",
+    "DE": "Ausgabenbuchung",
+    "RU": "Операция расхода",
+    "FA": "عملیات هزینه"
+  },
+  "Müşteri Yönetimi": {
+    "TR": "Müşteri Yönetimi",
+    "EN": "Customer Management",
+    "AR": "إدارة العملاء",
+    "KU": "بەرێوەبردنی مەشتەری",
+    "DE": "Kundenverwaltung",
+    "RU": "Управление клиентами",
+    "FA": "مدیریت مشتری"
+  },
+  "Müşteriler": {
+    "TR": "Müşteriler",
+    "EN": "Customers",
+    "AR": "العملاء",
+    "KU": "مەشتەریان",
+    "DE": "Kunden",
+    "RU": "Клиенты",
+    "FA": "مشتریان"
+  },
+  "Yeni Müşteri": {
+    "TR": "Yeni Müşteri",
+    "EN": "New Customer",
+    "AR": "عميل جديد",
+    "KU": "مەشتەری نوێ",
+    "DE": "Neuer Kunde",
+    "RU": "Новый клиент",
+    "FA": "مشتری جدید"
+  },
+  "Personel İşlemleri": {
+    "TR": "Personel İşlemleri",
+    "EN": "Staff Operations",
+    "AR": "عمليات الموظفين",
+    "KU": "کارگێڕی کارمەندان",
+    "DE": "Mitarbeiterprozesse",
+    "RU": "Операции с персоналом",
+    "FA": "فرآیندهای پرسنل"
+  },
+  "Personeller": {
+    "TR": "Personeller",
+    "EN": "Staff",
+    "AR": "الموظفون",
+    "KU": "کارمەندان",
+    "DE": "Personal",
+    "RU": "Персонал",
+    "FA": "پرسنل"
+  },
+  "Personel Tanımlama": {
+    "TR": "Personel Tanımlama",
+    "EN": "Staff Definition",
+    "AR": "تحديد الموظفين",
+    "KU": "ناساندنی کارمەند",
+    "DE": "Mitarbeiterdefinition",
+    "RU": "Определение персонала",
+    "FA": "تعریف پرسنل"
+  },
+  "Ayarlar": {
+    "TR": "Ayarlar",
+    "EN": "Settings",
+    "AR": "الإعدادات",
+    "KU": "ڕێکخستنەکان",
+    "DE": "Einstellungen",
+    "RU": "Настройки",
+    "FA": "تنظیمات"
+  }
+,
+  "Cari Adı": {
+    "TR": "Cari Adı",
+    "EN": "Customer Name",
+    "AR": "اسم العميل",
+    "KU": "ناوی مەشتەری",
+    "DE": "Kundenname",
+    "RU": "Имя клиента",
+    "FA": "نام مشتری"
+  },
+  "Barcode And Qty": {
+    "TR": "Barkod ve Miktar",
+    "EN": "Barcode and Quantity",
+    "AR": "الباركود والكمية",
+    "KU": "باركۆد و بڕ",
+    "DE": "Barcode und Menge",
+    "RU": "Штрих-код и количество",
+    "FA": "بارکد و تعداد"
+  },
+  "Product Code": {
+    "TR": "Ürün Kodu",
+    "EN": "Product Code",
+    "AR": "كود المنتج",
+    "KU": "كۆدی کاڵا",
+    "DE": "Produktcode",
+    "RU": "Код товара",
+    "FA": "کد محصول"
+  },
+  "Product Name": {
+    "TR": "Ürün Adı",
+    "EN": "Product Name",
+    "AR": "اسم المنتج",
+    "KU": "ناوی کاڵا",
+    "DE": "Produktname",
+    "RU": "Наименование товара",
+    "FA": "نام محصول"
+  },
+  "Amount": {
+    "TR": "Adet / Miktar",
+    "EN": "Quantity / Amount",
+    "AR": "العدد / الكمية",
+    "KU": "ژمارە / بڕ",
+    "DE": "Anzahl / Menge",
+    "RU": "Количество",
+    "FA": "تعداد / مقدار"
+  },
+  "Gram": {
+    "TR": "Gram",
+    "EN": "Gram",
+    "AR": "غرام",
+    "KU": "گرەم",
+    "DE": "Gramm",
+    "RU": "Грамм",
+    "FA": "گرم"
+  },
+  "K": {
+    "TR": "Ayar (K)",
+    "EN": "K (Carat)",
+    "AR": "عيار (K)",
+    "KU": "ک (عیار)",
+    "DE": "K (Karat)",
+    "RU": "К (Карат)",
+    "FA": "عیار (K)"
+  },
+  "Wages": {
+    "TR": "İşçilik",
+    "EN": "Wages / Labor",
+    "AR": "أجرة العمل",
+    "KU": "کرێکاری",
+    "DE": "Lohn / Arbeitskosten",
+    "RU": "Оплата труда",
+    "FA": "اجرت"
+  },
+  "SGRM": {
+    "TR": "S. Gram (Ek Gram)",
+    "EN": "S. Gram (Extra Gram)",
+    "AR": "غرام إضافي",
+    "KU": "گرەم زیادە",
+    "DE": "Zusätzliche Gramm",
+    "RU": "Доп. граммы",
+    "FA": "گرم اضافی"
+  },
+  "SPrice": {
+    "TR": "Satış Fiyatı",
+    "EN": "Sale Price",
+    "AR": "سعر البيع",
+    "KU": "نرخی فرۆشتن",
+    "DE": "Verkaufspreis",
+    "RU": "Цена продажи",
+    "FA": "قیمت فروش"
+  },
+  "Total S Price": {
+    "TR": "Toplam Satış Fiyatı",
+    "EN": "Total Sale Price",
+    "AR": "إجمالي سعر البيع",
+    "KU": "کۆی نرخی فرۆشتن",
+    "DE": "Gesamtverkaufspreis",
+    "RU": "Итоговая цена продажи",
+    "FA": "مجموع قیمت فروش"
+  },
+  "Price": {
+    "TR": "Fiyat",
+    "EN": "Price",
+    "AR": "السعر",
+    "KU": "نرخ",
+    "DE": "Preis",
+    "RU": "Цена",
+    "FA": "قیمت"
+  },
+  "Total": {
+    "TR": "Toplam",
+    "EN": "Total",
+    "AR": "الإجمالي",
+    "KU": "کۆ",
+    "DE": "Summe",
+    "RU": "Итого",
+    "FA": "مجموع"
+  },
+  "List Total": {
+    "TR": "Liste Toplam",
+    "EN": "List Total",
+    "AR": "إجمالي القائمة",
+    "KU": "کۆی لیست",
+    "DE": "Listengesamt",
+    "RU": "Общая сумма списка",
+    "FA": "مجموع لیست"
+  },
+  "Wages Total": {
+    "TR": "İşçilik Toplamı",
+    "EN": "Wages Total",
+    "AR": "إجمالي أجور العمل",
+    "KU": "کۆی کرێکاری",
+    "DE": "Summe Arbeitskosten",
+    "RU": "Общая оплата труда",
+    "FA": "مجموع اجرت"
+  },
+  "Gram Total": {
+    "TR": "Gram Toplamı",
+    "EN": "Gram Total",
+    "AR": "إجمالي الغرام",
+    "KU": "کۆی گرەم",
+    "DE": "Gesamtgramm",
+    "RU": "Общее количество граммов",
+    "FA": "مجموع گرم"
+  },
+  "Iqd to Usd": {
+    "TR": "IQD -> USD",
+    "EN": "IQD to USD",
+    "AR": "تحويل الدينار العراقي إلى دولار",
+    "KU": "دووڵە عێراقی بۆ دۆلاری ئەمریکی",
+    "DE": "Umrechnung IQD in USD",
+    "RU": "Иракский динар в доллары США",
+    "FA": "تبدیل دینار عراق به دلار"
+  },
+  "Total S": {
+    "TR": "Toplam S",
+    "EN": "Total S",
+    "AR": "إجمالي S",
+    "KU": "کۆی S",
+    "DE": "Gesamt S",
+    "RU": "Общий S",
+    "FA": "مجموع S"
+  },
+  "Amount Total": {
+    "TR": "Toplam Miktar",
+    "EN": "Amount Total",
+    "AR": "إجمالي الكمية",
+    "KU": "کۆی بڕ",
+    "DE": "Gesamtmenge",
+    "RU": "Общее количество",
+    "FA": "مجموع مقدار"
+  },
+  "Cancel Invoice": {
+    "TR": "Faturayı İptal Et",
+    "EN": "Cancel Invoice",
+    "AR": "إلغاء الفاتورة",
+    "KU": "هەڵوەشاندنەوەی فاکتۆرە",
+    "DE": "Rechnung stornieren",
+    "RU": "Отменить счет",
+    "FA": "لغو فاکتور"
+  },
+  "Select Delete": {
+    "TR": "Seç & Sil",
+    "EN": "Select & Delete",
+    "AR": "اختر واحذف",
+    "KU": "دیاریکردن و سڕینەوە",
+    "DE": "Auswählen & Löschen",
+    "RU": "Выбрать и удалить",
+    "FA": "انتخاب و حذف"
+  },
+  "Return Process": {
+    "TR": "İade İşlemi",
+    "EN": "Return Process",
+    "AR": "عملية الإرجاع",
+    "KU": "کارگێڕی گەڕاندنەوە",
+    "DE": "Rückgabevorgang",
+    "RU": "Операция возврата",
+    "FA": "فرآیند بازگشت"
+  },
+  "Get Payment": {
+    "TR": "Ödeme Al",
+    "EN": "Get Payment",
+    "AR": "استلم الدفع",
+    "KU": "وەرگرتنی پارە",
+    "DE": "Zahlung erhalten",
+    "RU": "Получить оплату",
+    "FA": "دریافت پرداخت"
+  },
+  "Capture From Camera": {
+    "TR": "Kameradan Çek",
+    "EN": "Capture from Camera",
+    "AR": "التقاط من الكاميرا",
+    "KU": "وەشاندن لە کەمێراوە",
+    "DE": "Von Kamera aufnehmen",
+    "RU": "Сделать снимок с камеры",
+    "FA": "گرفتن عکس با دوربین"
+  },
+  "Select From File": {
+    "TR": "Dosyadan Seç",
+    "EN": "Select from File",
+    "AR": "اختر من ملف",
+    "KU": "هەڵبژاردن لە پەڕگەوە",
+    "DE": "Aus Datei auswählen",
+    "RU": "Выбрать из файла",
+    "FA": "انتخاب از فایل"
+  },
+  "Kategori": {
+    "TR": "Kategori",
+    "EN": "Category",
+    "AR": "الفئة",
+    "KU": "هاوپۆل",
+    "DE": "Kategorie",
+    "RU": "Категория",
+    "FA": "دسته‌بندی"
+  },
+  "Minimum Sales": {
+    "TR": "Asgari Satış",
+    "EN": "Minimum Sales",
+    "AR": "الحد الأدنى للمبيعات",
+    "KU": "کەمترین فرۆشتن",
+    "DE": "Mindestverkauf",
+    "RU": "Минимальные продажи",
+    "FA": "حداقل فروش"
+  },
+  "Adet/Gram": {
+    "TR": "Adet/Gram",
+    "EN": "Unit/Gram",
+    "AR": "الوحدة/غرام",
+    "KU": "دانە/گرەم",
+    "DE": "Stück/Gramm",
+    "RU": "Штука/Грамм",
+    "FA": "تعداد/گرم"
+  },
+  "Nizbe": {
+    "TR": "Nizbe (Oran)",
+    "EN": "Nizbe (Rate)",
+    "AR": "نسبة (معدل)",
+    "KU": "نیزبە (ڕێژە)",
+    "DE": "Quote/Verhältnis",
+    "RU": "Доля/Процент",
+    "FA": "نسبه (نرخ)"
+  },
+  "Set Gram": {
+    "TR": "Set Gram",
+    "EN": "Set Gram",
+    "AR": "تحديد الغرام",
+    "KU": "دانانی گرەم",
+    "DE": "Gramm festlegen",
+    "RU": "Установить граммы",
+    "FA": "تنظیم گرم"
+  },
+  "Explanation": {
+    "TR": "Açıklama",
+    "EN": "Explanation",
+    "AR": "شرح",
+    "KU": "ڕوونکردنەوە",
+    "DE": "Erläuterung",
+    "RU": "Пояснение",
+    "FA": "توضیح"
+  },
+  "Barcode": {
+    "TR": "Barkod",
+    "EN": "Barcode",
+    "AR": "باركود",
+    "KU": "باركۆد",
+    "DE": "Barcode",
+    "RU": "Штрих-код",
+    "FA": "بارکد"
+  },
+  "Şube / Depo": {
+    "TR": "Şube / Depo",
+    "EN": "Branch / Depot",
+    "AR": "الفرع / المخزن",
+    "KU": "شۆبە / دەپو",
+    "DE": "Filiale / Lager",
+    "RU": "Филиал / Склад",
+    "FA": "شعبه / انبار"
+  },
+  "Barkodsuz": {
+    "TR": "Barkodsuz",
+    "EN": "No Barcode",
+    "AR": "بدون باركود",
+    "KU": "بێ باركۆد",
+    "DE": "Ohne Barcode",
+    "RU": "Без штрих-кода",
+    "FA": "بدون بارکد"
+  },
+  "Silinenler": {
+    "TR": "Silinenler",
+    "EN": "Deleted Items",
+    "AR": "العناصر المحذوفة",
+    "KU": "وشانراوەکان",
+    "DE": "Gelöschte Elemente",
+    "RU": "Удаленные элементы",
+    "FA": "موارد حذف‌شده"
+  },
+  "Yeni Ürün Ekle": {
+    "TR": "Yeni Ürün Ekle",
+    "EN": "Add New Product",
+    "AR": "أضف منتج جديد",
+    "KU": "زیادکردنی کاڵای نوێ",
+    "DE": "Neues Produkt hinzufügen",
+    "RU": "Добавить новый товар",
+    "FA": "افزودن محصول جدید"
+  },
+  "Seçilen Barkodları Yazdır": {
+    "TR": "Seçilen Barkodları Yazdır",
+    "EN": "Print Selected Barcodes",
+    "AR": "اطبع الباركودات المختارة",
+    "KU": "چاپکردنی بارکۆدە هەڵبژێردراوەکان",
+    "DE": "Ausgewählte Barcodes drucken",
+    "RU": "Распечатать выбранные штрих-коды",
+    "FA": "چاپ بارکدهای انتخابی"
+  },
+  "Etiket Tasarla": {
+    "TR": "Etiket Tasarla",
+    "EN": "Design Label",
+    "AR": "صمم ملصق",
+    "KU": "دیزاینکردنی تاگ",
+    "DE": "Etikett gestalten",
+    "RU": "Дизайн этикетки",
+    "FA": "طراحی برچسب"
+  },
+  "Seçilen Ürünü Güncelle": {
+    "TR": "Seçilen Ürünü Güncelle",
+    "EN": "Update Selected Product",
+    "AR": "تحديث المنتج المختار",
+    "KU": "نوێ کردنەوەی کاڵای هەڵبژێردراو",
+    "DE": "Ausgewähltes Produkt aktualisieren",
+    "RU": "Обновить выбранный товар",
+    "FA": "به‌روزرسانی محصول انتخابی"
+  },
+  "Ürün Kimden Alınmış": {
+    "TR": "Ürün Kimden Alınmış",
+    "EN": "Product Acquired From Whom",
+    "AR": "المنتج مأخوذ من من؟",
+    "KU": "کاڵا لە کێوە وەرگیراوە؟",
+    "DE": "Von wem wurde das Produkt erworben?",
+    "RU": "У кого был приобретен товар?",
+    "FA": "محصول از چه کسی گرفته شده؟"
+  },
+  "Malzeme Haraketler": {
+    "TR": "Malzeme Hareketler",
+    "EN": "Material Movements",
+    "AR": "حركات المواد",
+    "KU": "جوولانی مادەکان",
+    "DE": "Materialbewegungen",
+    "RU": "Движения материалов",
+    "FA": "حرکت مواد"
+  },
+  "Eski Sayfa": {
+    "TR": "Eski Sayfa",
+    "EN": "Old Page",
+    "AR": "الصفحة القديمة",
+    "KU": "لاپەڕەی کۆن",
+    "DE": "Alte Seite",
+    "RU": "Старая страница",
+    "FA": "صفحه قدیمی"
+  },
+  "İkinci El Ürünler": {
+    "TR": "İkinci El Ürünler",
+    "EN": "Second-hand Products",
+    "AR": "منتجات مستعملة",
+    "KU": "کاڵاکانی دەستی دوو",
+    "DE": "Gebrauchte Produkte",
+    "RU": "Подержанные товары",
+    "FA": "محصولات دست دوم"
+  },
+  "Seçilen Ürünleri Transfer Fişi Oluştur": {
+    "TR": "Seçilen Ürünleri Transfer Fişi Oluştur",
+    "EN": "Generate Transfer Slip for Selected Products",
+    "AR": "إنشاء إيصال تحويل للمنتجات المختارة",
+    "KU": "بەرهەمێ هەڵبژێردراو بۆ سلیپی گواستنەوە دروست بکە",
+    "DE": "Überweisungsschein für ausgewählte Produkte erstellen",
+    "RU": "Создать накладную передачи для выбранных товаров",
+    "FA": "ایجاد رسید انتقال برای محصولات انتخابی"
+  },
+  "Seçilen Ürünleri Alış Fişi Oluştur": {
+    "TR": "Seçilen Ürünleri Alış Fişi Oluştur",
+    "EN": "Generate Purchase Slip for Selected Products",
+    "AR": "إنشاء إيصال شراء للمنتجات المختارة",
+    "KU": "بەرهەمێ هەڵبژێردراو بۆ سلیپی کڕین دروست بکە",
+    "DE": "Einkaufsbeleg für ausgewählte Produkte erstellen",
+    "RU": "Создать приходный ордер для выбранных товаров",
+    "FA": "ایجاد رسید خرید برای محصولات انتخابی"
+  },
+  "Alış Faturası Olmayanları Tespit Et": {
+    "TR": "Alış Faturası Olmayanları Tespit Et",
+    "EN": "Identify Items Without Purchase Invoices",
+    "AR": "تحديد العناصر التي ليس لديها فاتورة شراء",
+    "KU": "دۆزینەوەی ئەو شتانی فاکتۆری کڕین نییە",
+    "DE": "Artikel ohne Einkaufsrechnung ermitteln",
+    "RU": "Определить товары без счетов на покупку",
+    "FA": "شناسایی اقلام بدون فاکتور خرید"
+  },
+  "Has Düzelt": {
+    "TR": "Has Düzelt",
+    "EN": "Correct Alloy/Has",
+    "AR": "تصحيح السبيكة",
+    "KU": "چاککردنی حاص",
+    "DE": "Legierung korrigieren",
+    "RU": "Исправить сплав",
+    "FA": "اصلاح عیار"
+  },
+  "GELEN TRANSFERLER": {
+    "TR": "Gelen Transferler",
+    "EN": "Arrived Transfers",
+    "AR": "التحويلات الواردة",
+    "KU": "گواستنەوەکانی هاتوو",
+    "DE": "Eingegangene Überweisungen",
+    "RU": "Поступившие переводы",
+    "FA": "انتقالات دریافتی"
+  },
+  "GELEN ÖDEMELER": {
+    "TR": "Gelen Ödemeler",
+    "EN": "Arrived Payments",
+    "AR": "المدفوعات الواردة",
+    "KU": "پارەدانەکانی هاتوو",
+    "DE": "Eingegangene Zahlungen",
+    "RU": "Поступившие платежи",
+    "FA": "پرداخت‌های دریافتی"
+  },
+  "Ana Şube": {
+    "TR": "Ana Şube",
+    "EN": "Main Branch",
+    "AR": "الفرع الرئيسي",
+    "KU": "شۆبەی سەرەکی",
+    "DE": "Hauptfiliale",
+    "RU": "Главный филиал",
+    "FA": "شعبه اصلی"
+  },
+  "Transfer Edilen": {
+    "TR": "Transfer Edilen",
+    "EN": "Transferred",
+    "AR": "تم تحويله",
+    "KU": "گواستراو",
+    "DE": "Übertragen",
+    "RU": "Переведено",
+    "FA": "منتقل شده"
+  },
+  "Rapor Oluştur": {
+    "TR": "Rapor Oluştur",
+    "EN": "Create Report",
+    "AR": "إنشاء تقرير",
+    "KU": "دروستکردنی ڕاپۆر",
+    "DE": "Bericht erstellen",
+    "RU": "Создать отчет",
+    "FA": "ایجاد گزارش"
+  },
+  "Total S": {
+    "TR": "Toplam S",
+    "EN": "Total S",
+    "AR": "إجمالي S",
+    "KU": "کۆی S",
+    "DE": "Gesamt S",
+    "RU": "Общий S",
+    "FA": "مجموع S"
+  },
+  "İşçilik Total": {
+    "TR": "İşçilik Toplamı",
+    "EN": "Wage Total",
+    "AR": "إجمالي أجور العمل",
+    "KU": "کۆی کرێکاری",
+    "DE": "Gesamtlohn",
+    "RU": "Общая оплата труда",
+    "FA": "مجموع اجرت"
+  },
+  "Has Total": {
+    "TR": "Has Toplam",
+    "EN": "Has Total",
+    "AR": "إجمالي السبيكة",
+    "KU": "کۆی حاص",
+    "DE": "Gesamtlegierung",
+    "RU": "Общая сплав",
+    "FA": "مجموع عیار"
+  },
+  "Miktar Total": {
+    "TR": "Miktar Toplam",
+    "EN": "Quantity Total",
+    "AR": "إجمالي الكمية",
+    "KU": "کۆی بڕ",
+    "DE": "Gesamtmenge",
+    "RU": "Общее количество",
+    "FA": "مجموع مقدار"
+  },
+  "GİDEN TRANSFERLER": {
+    "TR": "Giden Transferler",
+    "EN": "Outgoing Transfers",
+    "AR": "التحويلات الصادرة",
+    "KU": "گواستنەوەکانی دەرچوون",
+    "DE": "Ausgehende Überweisungen",
+    "RU": "Исходящие переводы",
+    "FA": "انتقالات خروجی"
+  },
+  "Hangi Şubeden Gönderilecek": {
+    "TR": "Hangi Şubeden Gönderilecek",
+    "EN": "Which Branch Will Be Sent From",
+    "AR": "من أي فرع سيتم الإرسال",
+    "KU": "لە کام شۆبە ئەمە دەگات؟",
+    "DE": "Von welcher Filiale wird gesendet",
+    "RU": "Из какого филиала будет отправлено",
+    "FA": "از کدام شعبه ارسال خواهد شد"
+  },
+  "Teslim Alacak Şube": {
+    "TR": "Teslim Alacak Şube",
+    "EN": "Receiving Branch",
+    "AR": "الفرع المستلم",
+    "KU": "شۆبەی وەربەگیر",
+    "DE": "Empfangende Filiale",
+    "RU": "Принимающий филиал",
+    "FA": "شعبه دریافت‌کننده"
+  },
+  "Min Satış": {
+    "TR": "Asgari Satış",
+    "EN": "Min Sales",
+    "AR": "الحد الأدنى للمبيعات",
+    "KU": "کەمترین فرۆشتن",
+    "DE": "Mindestverkauf",
+    "RU": "Минимальные продажи",
+    "FA": "حداقل فروش"
+  },
+  "TRANSFER FİŞİ OLUŞTUR": {
+    "TR": "Transfer Fişi Oluştur",
+    "EN": "Create Transfer Slip",
+    "AR": "أنشئ إيصال تحويل",
+    "KU": "دروستکردنی سلیپی گواستنەوە",
+    "DE": "Überweisungsschein erstellen",
+    "RU": "Создать накладную перевода",
+    "FA": "ایجاد رسید انتقال"
+  },
+  "Seç": {
+    "TR": "Seç",
+    "EN": "Select",
+    "AR": "اختر",
+    "KU": "هەڵبژێرە",
+    "DE": "Auswählen",
+    "RU": "Выбрать",
+    "FA": "انتخاب"
+  },
+  "Detay": {
+    "TR": "Detay",
+    "EN": "Detail",
+    "AR": "تفاصيل",
+    "KU": "وردەکاری",
+    "DE": "Details",
+    "RU": "Детали",
+    "FA": "جزئیات"
+  },
+  "Ara": {
+    "TR": "Ara",
+    "EN": "Search",
+    "AR": "ابحث",
+    "KU": "گه‌ڕان",
+    "DE": "Suchen",
+    "RU": "Поиск",
+    "FA": "جستجو"
+  },
+  "+ Ekle": {
+    "TR": "+ Ekle",
+    "EN": "+ Add",
+    "AR": "إضافة +",
+    "KU": "+ زیادکردن",
+    "DE": "+ Hinzufügen",
+    "RU": "+ Добавить",
+    "FA": "+ افزودن"
+  },
+  "Adı": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "Имя",
+    "FA": "نام"
+  },
+  "Soyad": {
+    "TR": "Soyadı",
+    "EN": "Last Name",
+    "AR": "اللقب",
+    "KU": "نازناو",
+    "DE": "Nachname",
+    "RU": "Фамилия",
+    "FA": "نام خانوادگی"
+  },
+  "Tel": {
+    "TR": "Tel",
+    "EN": "Phone",
+    "AR": "هاتف",
+    "KU": "تەلەفۆن",
+    "DE": "Telefon",
+    "RU": "Телефон",
+    "FA": "تلفن"
+  },
+  "Tel 2": {
+    "TR": "Tel 2",
+    "EN": "Phone 2",
+    "AR": "هاتف 2",
+    "KU": "تەلەفۆنی ٢",
+    "DE": "Telefon 2",
+    "RU": "Телефон 2",
+    "FA": "تلفن 2"
+  },
+  "Grubu": {
+    "TR": "Grubu",
+    "EN": "Group",
+    "AR": "مجموعة",
+    "KU": "گروپ",
+    "DE": "Gruppe",
+    "RU": "Группа",
+    "FA": "گروه"
+  },
+  "Şube": {
+    "TR": "Şube",
+    "EN": "Branch",
+    "AR": "فرع",
+    "KU": "شۆبە",
+    "DE": "Filiale",
+    "RU": "Филиал",
+    "FA": "شعبه"
+  },
+  "Adres": {
+    "TR": "Adres",
+    "EN": "Address",
+    "AR": "عنوان",
+    "KU": "ناونیشان",
+    "DE": "Adresse",
+    "RU": "Адрес",
+    "FA": "نشانی"
+  },
+  "Mail": {
+    "TR": "E-posta",
+    "EN": "Email",
+    "AR": "البريد الإلكتروني",
+    "KU": "ئیمێل",
+    "DE": "E-Mail",
+    "RU": "Эл. почта",
+    "FA": "ایمیل"
+  },
+  "KODU": {
+    "TR": "Kodu",
+    "EN": "Code",
+    "AR": "الرمز",
+    "KU": "کۆد",
+    "DE": "Code",
+    "RU": "Код",
+    "FA": "کد"
+  },
+  "ADI": {
+    "TR": "Adı",
+    "EN": "Name",
+    "AR": "الاسم",
+    "KU": "ناو",
+    "DE": "Name",
+    "RU": "Имя",
+    "FA": "نام"
+  },
+  "TEL1": {
+    "TR": "Tel 1",
+    "EN": "Phone 1",
+    "AR": "هاتف 1",
+    "KU": "تەلەفۆن ١",
+    "DE": "Telefon 1",
+    "RU": "Телефон 1",
+    "FA": "تلفن 1"
+  },
+  "GRUBU": {
+    "TR": "Grubu",
+    "EN": "Group",
+    "AR": "مجموعة",
+    "KU": "گروپ",
+    "DE": "Gruppe",
+    "RU": "Группа",
+    "FA": "گروه"
+  },
+  "DİNARKALAN": {
+    "TR": "Dinar Kalan",
+    "EN": "Dinar Balance",
+    "AR": "رصيد الدينار",
+    "KU": "ماوەی دینار",
+    "DE": "Dinarbestand",
+    "RU": "Остаток в дин. (IQD)",
+    "FA": "مانده دینار"
+  },
+  "DOLARKALAN": {
+    "TR": "Dolar Kalan",
+    "EN": "Dollar Balance",
+    "AR": "رصيد الدولار",
+    "KU": "ماوەی دۆلار",
+    "DE": "Dollarbestand",
+    "RU": "Остаток в долл. (USD)",
+    "FA": "مانده دلار"
+  },
+  "GRAMKALAN": {
+    "TR": "Gram Kalan",
+    "EN": "Gram Balance",
+    "AR": "رصيد الغرام",
+    "KU": "ماوەی گرەم",
+    "DE": "Gramm-Bestand",
+    "RU": "Остаток в граммах",
+    "FA": "مانده گرم"
+  }
+,
+  "Gram Total": {
+    "TR": "Gram Toplamı",
+    "EN": "Gram Total",
+    "AR": "إجمالي الغرام",
+    "KU": "کۆی گرەم",
+    "DE": "Gesamtgramm",
+    "RU": "Общее количество граммов",
+    "FA": "مجموع گرم"
+  },
+  "Wages Total": {
+    "TR": "İşçilik Toplamı",
+    "EN": "Wages Total",
+    "AR": "إجمالي أجور العمل",
+    "KU": "کۆی کرێکاری",
+    "DE": "Gesamtarbeitslohn",
+    "RU": "Общая оплата труда",
+    "FA": "مجموع اجرت"
+  },
+  "Total S": {
+    "TR": "Toplam S",
+    "EN": "Total S",
+    "AR": "إجمالي S",
+    "KU": "کۆی S",
+    "DE": "Gesamt S",
+    "RU": "Общий S",
+    "FA": "مجموع S"
+  },
+  "Total S Price": {
+    "TR": "Toplam S Fiyatı",
+    "EN": "Total S Price",
+    "AR": "إجمالي سعر S",
+    "KU": "کۆی نرخی S",
+    "DE": "Gesamtpreis S",
+    "RU": "Итоговая цена S",
+    "FA": "مجموع قیمت S"
+  },
+  "Has": {
+    "TR": "Has (Saflık)",
+    "EN": "Has (Purity)",
+    "AR": "هاس (نقاوة)",
+    "KU": "حاص (بڕیاشتن)",
+    "DE": "Has (Reinheit)",
+    "RU": "Чистота (Has)",
+    "FA": "حَس (درصد خلوص)"
+  },
+  "Amount Total": {
+    "TR": "Toplam Miktar",
+    "EN": "Amount Total",
+    "AR": "إجمالي الكمية",
+    "KU": "کۆی بڕ",
+    "DE": "Gesamtmenge",
+    "RU": "Общее количество",
+    "FA": "مجموع مقدار"
+  },
+  "TAMAMLANMIŞ SAYIMLAR": {
+    "TR": "Tamamlanmış Sayımlar",
+    "EN": "Completed Counts",
+    "AR": "الجرد المكتمل",
+    "KU": "ڕۆژێنانی تەواوكراو",
+    "DE": "Abgeschlossene Zählungen",
+    "RU": "Завершенные подсчеты",
+    "FA": "شمارش‌های تکمیل‌شده"
+  },
+  "SAYIM FİŞİ OLUŞTUR": {
+    "TR": "Sayım Fişi Oluştur",
+    "EN": "Create Counting Slip",
+    "AR": "أنشئ إيصال الجرد",
+    "KU": "دروستکردنی سلیپی ژمێردن",
+    "DE": "Zählschein erstellen",
+    "RU": "Создать лист подсчета",
+    "FA": "ایجاد رسید شمارش"
+  },
+  "İşlem Paneli": {
+    "TR": "İşlem Paneli",
+    "EN": "Transaction Panel",
+    "AR": "لوحة العمليات",
+    "KU": "پەنجەڕەی کارگێڕی",
+    "DE": "Transaktionsbereich",
+    "RU": "Панель операций",
+    "FA": "پنل عملیات"
+  },
+  "Şube Seçiniz": {
+    "TR": "Şube Seçiniz",
+    "EN": "Select Branch",
+    "AR": "اختر الفرع",
+    "KU": "شۆبە هەڵبژێرە",
+    "DE": "Filiale auswählen",
+    "RU": "Выберите филиал",
+    "FA": "انتخاب شعبه"
+  },
+  "Transfer Tutarı($)": {
+    "TR": "Transfer Tutarı ($)",
+    "EN": "Transfer Amount ($)",
+    "AR": "قيمة التحويل ($)",
+    "KU": "بری گواستنەوە ($)",
+    "DE": "Überweisungsbetrag ($)",
+    "RU": "Сумма перевода ($)",
+    "FA": "مبلغ انتقال ($)"
+  },
+  "Transfer Tutarı(Iqd)": {
+    "TR": "Transfer Tutarı (IQD)",
+    "EN": "Transfer Amount (IQD)",
+    "AR": "قيمة التحويل (دينار عراقي)",
+    "KU": "بری گواستنەوە (دینار عێراقی)",
+    "DE": "Überweisungsbetrag (IQD)",
+    "RU": "Сумма перевода (IQD)",
+    "FA": "مبلغ انتقال (دینار عراق)"
+  },
+  "GRAM (Grm)": {
+    "TR": "Gram (Gr)",
+    "EN": "Gram (Gr)",
+    "AR": "غرام (غم)",
+    "KU": "گرەم (Gr)",
+    "DE": "Gramm (Gr)",
+    "RU": "Грамм (Gr)",
+    "FA": "گرم (Gr)"
+  },
+  "Nizbe": {
+    "TR": "Nizbe (Oran)",
+    "EN": "Nizbe (Rate)",
+    "AR": "نسبة (معدل)",
+    "KU": "نیزبە (ڕێژە)",
+    "DE": "Nizbe (Verhältnis)",
+    "RU": "Низбе (Ставка)",
+    "FA": "نسبه (نرخ)"
+  },
+  "Açıklama": {
+    "TR": "Açıklama",
+    "EN": "Explanation",
+    "AR": "شرح",
+    "KU": "ڕوونکردنەوە",
+    "DE": "Erläuterung",
+    "RU": "Пояснение",
+    "FA": "توضیح"
+  },
+  "Kategori Bazlı Gider Raporu": {
+    "TR": "Kategori Bazlı Gider Raporu",
+    "EN": "Category-Based Expense Report",
+    "AR": "تقرير المصاريف حسب الفئة",
+    "KU": "ڕاپۆرتی بەڕێوەبردنی خەرجەکان بۆ هاوپۆل",
+    "DE": "Kategoriebasierter Ausgabenbericht",
+    "RU": "Отчет о расходах по категориям",
+    "FA": "گزارش هزینه‌ها بر اساس دسته‌بندی"
+  },
+  "GİDER ADI": {
+    "TR": "Gider Adı",
+    "EN": "Expense Name",
+    "AR": "اسم المصروف",
+    "KU": "ناوی خەرج",
+    "DE": "Kostenbezeichnung",
+    "RU": "Наименование расхода",
+    "FA": "نام هزینه"
+  },
+  "PERSONEL SEÇ": {
+    "TR": "Personel Seç",
+    "EN": "Select Staff",
+    "AR": "اختر الموظف",
+    "KU": "کارمەند هەڵبژێرە",
+    "DE": "Mitarbeiter auswählen",
+    "RU": "Выбрать сотрудника",
+    "FA": "انتخاب پرسنل"
+  },
+  "DİNAR": {
+    "TR": "Dinar",
+    "EN": "Dinar (IQD)",
+    "AR": "دينار عراقي",
+    "KU": "دینار (IQD)",
+    "DE": "Dinar (IQD)",
+    "RU": "Иракский динар",
+    "FA": "دینار"
+  },
+  "DOLAR": {
+    "TR": "Dolar",
+    "EN": "Dollar (USD)",
+    "AR": "دولار",
+    "KU": "دۆلار (USD)",
+    "DE": "US-Dollar (USD)",
+    "RU": "Доллар (USD)",
+    "FA": "دلار"
+  },
+  "GİDER AÇIKLAMA": {
+    "TR": "Gider Açıklama",
+    "EN": "Expense Explanation",
+    "AR": "شرح المصاريف",
+    "KU": "ڕوونکردنەوەی خەرج",
+    "DE": "Kostenbeschreibung",
+    "RU": "Описание расходов",
+    "FA": "توضیح هزینه"
+  },
+  "+ Ekle": {
+    "TR": "+ Ekle",
+    "EN": "+ Add",
+    "AR": "+ أضف",
+    "KU": "+ زیادکردن",
+    "DE": "+ Hinzufügen",
+    "RU": "+ Добавить",
+    "FA": "+ افزودن"
+  },
+  "Kullanıcılar": {
+    "TR": "Kullanıcılar",
+    "EN": "Users",
+    "AR": "المستخدمون",
+    "KU": "بەکارھێنەران",
+    "DE": "Benutzer",
+    "RU": "Пользователи",
+    "FA": "کاربران"
+  },
+  "Parola": {
+    "TR": "Parola",
+    "EN": "Password",
+    "AR": "كلمة المرور",
+    "KU": "تێپەڕەوشە",
+    "DE": "Passwort",
+    "RU": "Пароль",
+    "FA": "رمز عبور"
+  },
+  "Şirket": {
+    "TR": "Şirket",
+    "EN": "Company",
+    "AR": "الشركة",
+    "KU": "کۆمپانیا",
+    "DE": "Firma",
+    "RU": "Компания",
+    "FA": "شرکت"
+  },
+  "Bölge": {
+    "TR": "Bölge",
+    "EN": "Region",
+    "AR": "منطقة",
+    "KU": "ناحیە / هەرێم",
+    "DE": "Region",
+    "RU": "Регион",
+    "FA": "منطقه"
+  },
+  "Departman": {
+    "TR": "Departman",
+    "EN": "Department",
+    "AR": "القسم",
+    "KU": "بەش",
+    "DE": "Abteilung",
+    "RU": "Отдел",
+    "FA": "بخش"
+  },
+  "Yetki": {
+    "TR": "Yetki",
+    "EN": "Authority",
+    "AR": "صلاحية",
+    "KU": "دەسەڵات",
+    "DE": "Befugnis",
+    "RU": "Полномочие",
+    "FA": "دسترسی / صلاحیت"
+  }
+,
+  "GENEL": {
+    "TR": "GENEL",
+    "EN": "GENERAL",
+    "AR": "عام",
+    "KU": "گشتی",
+    "DE": "Allgemein",
+    "RU": "Общее",
+    "FA": "عمومی"
+  },
+  "BİLGİ": {
+    "TR": "BİLGİ",
+    "EN": "INFORMATION",
+    "AR": "معلومات",
+    "KU": "زانیاری",
+    "DE": "Information",
+    "RU": "Информация",
+    "FA": "اطلاعات"
+  },
+  "ALIS": {
+    "TR": "Alış",
+    "EN": "Purchase",
+    "AR": "شراء",
+    "KU": "کڕین",
+    "DE": "Einkauf",
+    "RU": "Покупка",
+    "FA": "خرید"
+  },
+  "SATIS": {
+    "TR": "Satış",
+    "EN": "Sale",
+    "AR": "بيع",
+    "KU": "فرۆشتن",
+    "DE": "Verkauf",
+    "RU": "Продажа",
+    "FA": "فروش"
+  },
+  "NIZBE": {
+    "TR": "Nizbe (Oran)",
+    "EN": "Rate (Nizbe)",
+    "AR": "نسبة (نيزبة)",
+    "KU": "نیزبە (ڕێژە)",
+    "DE": "Satz (Nizbe)",
+    "RU": "Ставка (Nizbe)",
+    "FA": "نرخ (نیزبه)"
+  },
+  "ACIKLAMA": {
+    "TR": "Açıklama",
+    "EN": "Explanation",
+    "AR": "شرح",
+    "KU": "ڕوونکردنەوە",
+    "DE": "Erläuterung",
+    "RU": "Пояснение",
+    "FA": "توضیح"
+  }
+,
+  "Sayım işlemleri": {
+    "TR": "Sayım İşlemleri",
+    "EN": "Counting Operations",
+    "AR": "عمليات الجرد",
+    "KU": "کارگێڕی پێوان",
+    "DE": "Zählvorgänge",
+    "RU": "Операции подсчета",
+    "FA": "فرآیندهای شمارش"
+  },
+  "PRODUCT CODE": {
+    "TR": "Ürün Kodu",
+    "EN": "Product Code",
+    "AR": "كود المنتج",
+    "KU": "کۆدی کاڵا",
+    "DE": "Produktcode",
+    "RU": "Код товара",
+    "FA": "کد محصول"
+  },
+  "PRODUCT NAME": {
+    "TR": "Ürün Adı",
+    "EN": "Product Name",
+    "AR": "اسم المنتج",
+    "KU": "ناوی کاڵا",
+    "DE": "Produktname",
+    "RU": "Наименование товара",
+    "FA": "نام محصول"
+  },
+  "AMOUNT": {
+    "TR": "Miktar / Adet",
+    "EN": "Amount / Quantity",
+    "AR": "الكمية / العدد",
+    "KU": "بڕ / ژمارە",
+    "DE": "Menge / Anzahl",
+    "RU": "Количество",
+    "FA": "مقدار / تعداد"
+  },
+  "GRAM": {
+    "TR": "Gram",
+    "EN": "Gram",
+    "AR": "غرام",
+    "KU": "گرەم",
+    "DE": "Gramm",
+    "RU": "Грамм",
+    "FA": "گرم"
+  },
+  "Ayar (K)": {
+    "TR": "Ayar (K)",
+    "EN": "Carat (K)",
+    "AR": "عيار (K)",
+    "KU": "عیار (K)",
+    "DE": "Karat (K)",
+    "RU": "Карат (K)",
+    "FA": "عیار (K)"
+  },
+  "WAGES": {
+    "TR": "İşçilik",
+    "EN": "Wages / Labor",
+    "AR": "أجرة العمل",
+    "KU": "کرێکاری",
+    "DE": "Arbeitskosten",
+    "RU": "Оплата труда",
+    "FA": "اجرت"
+  },
+  "S. Gram (Ek Gram)": {
+    "TR": "S. Gram (Ek Gram)",
+    "EN": "S. Gram (Extra Gram)",
+    "AR": "غرام إضافي",
+    "KU": "گرەم زیادە",
+    "DE": "Zusätzliche Gramm",
+    "RU": "Доп. граммы",
+    "FA": "گرم اضافه"
+  },
+  "SPRICE": {
+    "TR": "Satış Fiyatı",
+    "EN": "Sale Price",
+    "AR": "سعر البيع",
+    "KU": "نرخی فرۆشتن",
+    "DE": "Verkaufspreis",
+    "RU": "Цена продажи",
+    "FA": "قیمت فروش"
+  },
+  "TOTAL S PRICE": {
+    "TR": "Toplam Satış Fiyatı",
+    "EN": "Total Sale Price",
+    "AR": "إجمالي سعر البيع",
+    "KU": "کۆی نرخی فرۆشتن",
+    "DE": "Gesamtverkaufspreis",
+    "RU": "Итоговая цена продажи",
+    "FA": "مجموع قیمت فروش"
+  },
+  "PRICE": {
+    "TR": "Fiyat",
+    "EN": "Price",
+    "AR": "السعر",
+    "KU": "نرخ",
+    "DE": "Preis",
+    "RU": "Цена",
+    "FA": "قیمت"
+  },
+  "TOTAL": {
+    "TR": "Toplam",
+    "EN": "Total",
+    "AR": "الإجمالي",
+    "KU": "کۆ",
+    "DE": "Summe",
+    "RU": "Итого",
+    "FA": "مجموع"
+  },
+  "List Total:": {
+    "TR": "Liste Toplam:",
+    "EN": "List Total:",
+    "AR": "إجمالي القائمة:",
+    "KU": "کۆی لیست:",
+    "DE": "Listengesamt:",
+    "RU": "Общая сумма списка:",
+    "FA": "مجموع لیست:"
+  },
+  "Wages Total:": {
+    "TR": "İşçilik Toplamı:",
+    "EN": "Wages Total:",
+    "AR": "إجمالي أجور العمل:",
+    "KU": "کۆی کرێکاری:",
+    "DE": "Summe Arbeitskosten:",
+    "RU": "Общая оплата труда:",
+    "FA": "مجموع اجرت:"
+  },
+  "Gram Total:": {
+    "TR": "Gram Toplamı:",
+    "EN": "Gram Total:",
+    "AR": "إجمالي الغرام:",
+    "KU": "کۆی گرەم:",
+    "DE": "Gesamtgramm:",
+    "RU": "Общее количество граммов:",
+    "FA": "مجموع گرم:"
+  },
+  "IQD -> USD": {
+    "TR": "IQD -> USD",
+    "EN": "IQD -> USD",
+    "AR": "تحويل الدينار العراقي إلى دولار",
+    "KU": "گۆڕینی دیناری عێراق بۆ دۆلار",
+    "DE": "IQD in USD umrechnen",
+    "RU": "Иракский динар в долл. США",
+    "FA": "تبدیل دینار عراق به دلار"
+  },
+  "Total S:": {
+    "TR": "Toplam S:",
+    "EN": "Total S:",
+    "AR": "إجمالي S:",
+    "KU": "کۆی S:",
+    "DE": "Gesamt S:",
+    "RU": "Общий S:",
+    "FA": "مجموع S:"
+  },
+  "Total S Price:": {
+    "TR": "Toplam S Fiyatı:",
+    "EN": "Total S Price:",
+    "AR": "إجمالي سعر S:",
+    "KU": "کۆی نرخی S:",
+    "DE": "Gesamt S Preis:",
+    "RU": "Итоговая цена S:",
+    "FA": "مجموع قیمت S:"
+  },
+  "Amount Total:": {
+    "TR": "Toplam Miktar:",
+    "EN": "Amount Total:",
+    "AR": "إجمالي الكمية:",
+    "KU": "کۆی بڕ:",
+    "DE": "Gesamtmenge:",
+    "RU": "Общее количество:",
+    "FA": "مجموع مقدار:"
+  }
+,
+  "Cancel İnvoice": {
+    "TR": "Faturayı İptal Et",
+    "EN": "Cancel Invoice",
+    "AR": "إلغاء الفاتورة",
+    "KU": "هەڵوەشاندنەوەی فاکتۆرە",
+    "DE": "Rechnung stornieren",
+    "RU": "Отменить счет",
+    "FA": "لغو فاکتور"
+  }
+,
+  "Fatura Bilgisi": {
+    "TR": "Fatura Bilgisi",
+    "EN": "Invoice Info",
+    "AR": "معلومات الفاتورة",
+    "KU": "زانیاری فاکتۆر",
+    "DE": "Rechnungsinformationen",
+    "RU": "Информация о счете",
+    "FA": "اطلاعات فاکتور"
+  },
+  "Müşteri Adı": {
+    "TR": "Müşteri Adı",
+    "EN": "Customer Name",
+    "AR": "اسم العميل",
+    "KU": "ناوی مەشتەری",
+    "DE": "Kundenname",
+    "RU": "Имя клиента",
+    "FA": "نام مشتری"
+  },
+  "Fatura No": {
+    "TR": "Fatura No",
+    "EN": "Invoice No",
+    "AR": "رقم الفاتورة",
+    "KU": "ژمارەی فاکتۆر",
+    "DE": "Rechnungsnummer",
+    "RU": "Номер счета-фактуры",
+    "FA": "شماره فاکتور"
+  },
+  "Fatura Tarihi": {
+    "TR": "Fatura Tarihi",
+    "EN": "Invoice Date",
+    "AR": "تاريخ الفاتورة",
+    "KU": "بەرواری فاکتۆر",
+    "DE": "Rechnungsdatum",
+    "RU": "Дата счета-фактуры",
+    "FA": "تاریخ فاکتور"
+  },
+  "Ödeme Bilgisi": {
+    "TR": "Ödeme Bilgisi",
+    "EN": "Payment Info",
+    "AR": "معلومات الدفع",
+    "KU": "زانیاری پارەدان",
+    "DE": "Zahlungsinformationen",
+    "RU": "Информация об оплате",
+    "FA": "اطلاعات پرداخت"
+  },
+  "Dolar Ödenen": {
+    "TR": "Dolar Ödenen",
+    "EN": "Dollar Paid",
+    "AR": "الدولار المدفوع",
+    "KU": "دۆلاری دراوتە",
+    "DE": "Bezahlter Betrag in Dollar",
+    "RU": "Оплачено в долларах",
+    "FA": "دلار پرداخت شده"
+  },
+  "Dinar Ödenen": {
+    "TR": "Dinar Ödenen",
+    "EN": "Dinar Paid",
+    "AR": "الدينار المدفوع",
+    "KU": "دیناری دراوتە",
+    "DE": "Bezahlter Betrag in Dinar",
+    "RU": "Оплачено в динарах",
+    "FA": "دینار پرداخت شده"
+  },
+  "Gram Ödenen": {
+    "TR": "Gram Ödenen",
+    "EN": "Gram Paid",
+    "AR": "الغرام المدفوع",
+    "KU": "گرامی دراوتە",
+    "DE": "Bezahlte Gramm",
+    "RU": "Оплачено в граммах",
+    "FA": "گرم پرداخت شده"
+  },
+  "Gram Alınan": {
+    "TR": "Gram Alınan",
+    "EN": "Gram Received",
+    "AR": "الغرام المستلم",
+    "KU": "گرامی وەرگیراو",
+    "DE": "Erhaltene Gramm",
+    "RU": "Получено граммов",
+    "FA": "گرم دریافت شده"
+  },
+  "Kalan Borç Bilgisi": {
+    "TR": "Kalan Borç Bilgisi",
+    "EN": "Remaining Debt Info",
+    "AR": "معلومات الدين المتبقي",
+    "KU": "زانیاری قەرزی ماوە",
+    "DE": "Informationen zur Restschuld",
+    "RU": "Информация о оставшемся долге",
+    "FA": "اطلاعات بدهی باقیمانده"
+  },
+  "Dolar Kalan": {
+    "TR": "Dolar Kalan",
+    "EN": "Dollar Remaining",
+    "AR": "الدولار المتبقي",
+    "KU": "دۆلاری ماوە",
+    "DE": "Verbleibender Dollarbetrag",
+    "RU": "Оставшиеся доллары",
+    "FA": "دلار باقی‌مانده"
+  },
+  "Dinar Kalan": {
+    "TR": "Dinar Kalan",
+    "EN": "Dinar Remaining",
+    "AR": "الدينار المتبقي",
+    "KU": "دیناری ماوە",
+    "DE": "Verbleibender Dinarbetrag",
+    "RU": "Оставшиеся динары",
+    "FA": "دینار باقی‌مانده"
+  },
+  "Gram Kalan": {
+    "TR": "Gram Kalan",
+    "EN": "Gram Remaining",
+    "AR": "الغرام المتبقي",
+    "KU": "گرامی ماوە",
+    "DE": "Verbleibende Gramm",
+    "RU": "Оставшиеся граммы",
+    "FA": "گرم باقی‌مانده"
+  },
+  "Fatura Güncelle": {
+    "TR": "Fatura Güncelle",
+    "EN": "Update Invoice",
+    "AR": "تحديث الفاتورة",
+    "KU": "نوێکردنەوەی فاکتۆر",
+    "DE": "Rechnung aktualisieren",
+    "RU": "Обновить счет",
+    "FA": "به‌روزرسانی فاکتور"
+  },
+  "Fatura Sil": {
+    "TR": "Fatura Sil",
+    "EN": "Delete Invoice",
+    "AR": "حذف الفاتورة",
+    "KU": "سڕینەوەی فاکتۆر",
+    "DE": "Rechnung löschen",
+    "RU": "Удалить счет",
+    "FA": "حذف فاکتور"
+  },
+  "Yazdır": {
+    "TR": "Yazdır",
+    "EN": "Print",
+    "AR": "طباعة",
+    "KU": "چاپکردن",
+    "DE": "Drucken",
+    "RU": "Печать",
+    "FA": "چاپ"
+  },
+  "سیره": {
+    "TR": "Geri / Dön",
+    "EN": "Back / Return",
+    "AR": "رجوع",
+    "KU": "گەڕانەوە",
+    "DE": "Zurück",
+    "RU": "Назад",
+    "FA": "بازگشت"
+  },
+  "Toplam Gram": {
+    "TR": "Toplam Gram",
+    "EN": "Total Gram",
+    "AR": "إجمالي الغرام",
+    "KU": "کۆی گرەم",
+    "DE": "Gesamtgramm",
+    "RU": "Общее количество граммов",
+    "FA": "مجموع گرم"
+  },
+  "Fatura Toplam": {
+    "TR": "Fatura Toplam",
+    "EN": "Invoice Total",
+    "AR": "إجمالي الفاتورة",
+    "KU": "کۆی فاکتۆر",
+    "DE": "Rechnungssumme",
+    "RU": "Итог счета",
+    "FA": "مجموع فاکتور"
+  },
+  "کۆی حاص": {
+    "TR": "Has Toplam",
+    "EN": "Has (Purity) Total",
+    "AR": "إجمالي نسبة النقاء (هاس)",
+    "KU": "کۆی حاص",
+    "DE": "Gesamtreinheit (Has)",
+    "RU": "Итоговая чистота (Has)",
+    "FA": "مجموع حَس (درصد خلوص)"
+  }
 }
+
+
+
+
+
+
+
+
+
+
 
