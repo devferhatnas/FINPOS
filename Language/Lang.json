@@ -8,6 +8,51 @@
     "RU": "Онлайн-запросы на прием",
     "FA": "درخواست‌های نوبت آنلاین"
   },
+  "İşlem yap": {
+    "TR": "İşlem yap",
+    "EN": "Perform Action",
+    "AR": "إجراء العملية",
+    "KU": "کردار بکە",
+    "DE": "Aktion ausführen",
+    "RU": "Выполнить действие",
+    "FA": "انجام عملیات"
+  },
+  "Görüntüle": {
+    "TR": "Görüntüle",
+    "EN": "View",
+    "AR": "عرض",
+    "KU": "بینین",
+    "DE": "Ansehen",
+    "RU": "Просмотр",
+    "FA": "مشاهده"
+  },
+  "Whatsapp Bildirim Gönder": {
+    "TR": "Whatsapp Bildirim Gönder",
+    "EN": "Send WhatsApp Notification",
+    "AR": "إرسال إشعار واتساب",
+    "KU": "نامەی واتساپ بنێرە",
+    "DE": "WhatsApp-Benachrichtigung senden",
+    "RU": "Отправить уведомление WhatsApp",
+    "FA": "ارسال اعلان واتساپ"
+  },
+  "Genel Bilgi": {
+    "TR": "Genel Bilgi",
+    "EN": "General Info",
+    "AR": "معلومات عامة",
+    "KU": "زانیاری گشتی",
+    "DE": "Allgemeine Informationen",
+    "RU": "Общая информация",
+    "FA": "اطلاعات عمومی"
+  },
+  "İletişim Bilgileri": {
+    "TR": "İletişim Bilgileri",
+    "EN": "Contact Info",
+    "AR": "معلومات الاتصال",
+    "KU": "زانیاری پەیوەندی",
+    "DE": "Kontaktinformationen",
+    "RU": "Контактная информация",
+    "FA": "اطلاعات تماس"
+  },
   "Hatırlatmalar": {
     "TR": "Hatırlatmalar",
     "EN": "Reminders",
@@ -17,6 +62,80 @@
     "RU": "Напоминания",
     "FA": "یادآوری‌ها"
   },
+  "Teklif Oluştur": {
+    "TR": "Teklif Oluştur",
+    "EN": "Create Offer",
+    "AR": "إنشاء عرض",
+    "KU": "دروستکردنی پێشنیار",
+    "DE": "Angebot erstellen",
+    "RU": "Создать предложение",
+    "FA": "ایجاد پیشنهاد"
+  },
+  "Adres Bilgileri": {
+    "TR": "Adres Bilgileri",
+    "EN": "Address Info",
+    "AR": "معلومات العنوان",
+    "KU": "زانیاری ناونیشان",
+    "DE": "Adressinformationen",
+    "RU": "Информация о адресе",
+    "FA": "اطلاعات آدرس"
+  },
+
+  "Notlar": {
+    "TR": "Notlar",
+    "EN": "Notes",
+    "AR": "ملاحظات",
+    "KU": "تێبینییەکان",
+    "DE": "Notizen",
+    "RU": "Заметки",
+    "FA": "یادداشت‌ها"
+  },
+  "Dosyalar": {
+    "TR": "Dosyalar",
+    "EN": "Files",
+    "AR": "الملفات",
+    "KU": "پەڕگەکان",
+    "DE": "Dateien",
+    "RU": "Файлы",
+    "FA": "فایل‌ها"
+  },
+  "Aktiviteler": {
+    "TR": "Aktiviteler",
+    "EN": "Activities",
+    "AR": "الأنشطة",
+    "KU": "چالاکییەکان",
+    "DE": "Aktivitäten",
+    "RU": "Мероприятия",
+    "FA": "فعالیت‌ها"
+  },
+  "Teklifler": {
+    "TR": "Teklifler",
+    "EN": "Offers",
+    "AR": "العروض",
+    "KU": "پێشنیارەکان",
+    "DE": "Angebote",
+    "RU": "Предложения",
+    "FA": "پیشنهادات"
+  },
+  "Üyelikler": {
+    "TR": "Üyelikler",
+    "EN": "Memberships",
+    "AR": "العضويات",
+    "KU": "ئه‌ندامێتیه‌کان",
+    "DE": "Mitgliedschaften",
+    "RU": "Членства",
+    "FA": "عضویت‌ها"
+  },
+  "Ödemeler": {
+    "TR": "Ödemeler",
+    "EN": "Payments",
+    "AR": "المدفوعات",
+    "KU": "پارەدانەکان",
+    "DE": "Zahlungen",
+    "RU": "Платежи",
+    "FA": "پرداخت‌ها"
+  },
+
   "Son 30 Gün": {
     "TR": "Son 30 Gün",
     "EN": "Last 30 Days",
