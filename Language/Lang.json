@@ -62,6 +62,15 @@
     "RU": "Напоминания",
     "FA": "یادآوری‌ها"
   },
+    "Çalışılan Kurum": {
+    "TR": "Çalışılan Kurum",
+    "EN": "Institution Worked At",
+    "AR": "المؤسسة التي يعمل بها",
+    "KU": "دامەزراوەی کارکردن",
+    "DE": "Arbeitgeber",
+    "RU": "Работающее учреждение",
+    "FA": "مؤسسه محل کار"
+  },
   "Teklif Oluştur": {
     "TR": "Teklif Oluştur",
     "EN": "Create Offer",
@@ -70,7 +79,163 @@
     "DE": "Angebot erstellen",
     "RU": "Создать предложение",
     "FA": "ایجاد پیشنهاد"
+  }, 
+  "Meslek:": {
+    "TR": "Meslek",
+    "EN": "Profession",
+    "AR": "المهنة",
+    "KU": "پیشە",
+    "DE": "Beruf",
+    "RU": "Профессия",
+    "FA": "شغل"
+  },   "Doğum Tarihi": {
+    "TR": "Doğum Tarihi",
+    "EN": "Date of Birth",
+    "AR": "تاريخ الميلاد",
+    "KU": "بەرواری لەدایکبوون",
+    "DE": "Geburtsdatum",
+    "RU": "Дата рождения",
+    "FA": "تاریخ تولد"
+  } ,
+
+  "Çalışma Süresi": {
+    "TR": "Çalışma Süresi",
+    "EN": "Work Duration",
+    "AR": "مدة العمل",
+    "KU": "ماوەی کارکردن",
+    "DE": "Arbeitsdauer",
+    "RU": "Продолжительность работы",
+    "FA": "مدت زمان کار"
   },
+  "Dogum Tarihi": {
+    "TR": "Doğum Tarihi",
+    "EN": "Date of Birth",
+    "AR": "تاريخ الميلاد",
+    "KU": "بەرواری لەدایکبوون",
+    "DE": "Geburtsdatum",
+    "RU": "Дата рождения",
+    "FA": "تاریخ تولد"
+  },
+  "Aylık Maaş": {
+    "TR": "Aylık Maaş",
+    "EN": "Monthly Salary",
+    "AR": "الراتب الشهري",
+    "KU": "مووچەی مانگەناوە",
+    "DE": "Monatliches Gehalt",
+    "RU": "Ежемесячная зарплата",
+    "FA": "حقوق ماهانه"
+  },
+
+  "Yakinlik Seviyesi": {
+    "TR": "Yakınlık Seviyesi",
+    "EN": "Closeness Level",
+    "AR": "مستوى القرب",
+    "KU": "ئاستی نزیکەیی",
+    "DE": "Nähegrad",
+    "RU": "Уровень близости",
+    "FA": "سطح نزدیکی"
+  },
+  "Proje Adı": {
+    "TR": "Proje Adı",
+    "EN": "Project Name",
+    "AR": "اسم المشروع",
+    "KU": "ناوی پرۆژە",
+    "DE": "Projektname",
+    "RU": "Название проекта",
+    "FA": "نام پروژه"
+  },
+  "Proje Adres": {
+    "TR": "Proje Adres",
+    "EN": "Project Address",
+    "AR": "عنوان المشروع",
+    "KU": "ناونیشانی پرۆژە",
+    "DE": "Projektadresse",
+    "RU": "Адрес проекта",
+    "FA": "آدرس پروژه"
+  },
+  "Proje Kaç Yıllık": {
+    "TR": "Proje Kaç Yıllık",
+    "EN": "How Many Years is the Project?",
+    "AR": "كم سنة مدة المشروع؟",
+    "KU": "پرۆژە چەند ساڵیە؟",
+    "DE": "Wie viele Jahre dauert das Projekt?",
+    "RU": "Сколько лет проекту?",
+    "FA": "پروژه چند ساله است؟"
+  },
+  "Sözleşme": {
+    "TR": "Sözleşme",
+    "EN": "Contract",
+    "AR": "عقد",
+    "KU": "دەستەواژێن",
+    "DE": "Vertrag",
+    "RU": "Контракт",
+    "FA": "قرارداد"
+  },
+  "Gelir Kaynak": {
+    "TR": "Gelir Kaynak",
+    "EN": "Income Source",
+    "AR": "مصدر الدخل",
+    "KU": "سەرچاوەی داهات",
+    "DE": "Einnahmequelle",
+    "RU": "Источник дохода",
+    "FA": "منبع درآمد"
+  },
+  "Gelir Detay": {
+    "TR": "Gelir Detay",
+    "EN": "Income Detail",
+    "AR": "تفاصيل الدخل",
+    "KU": "وردەکاری داهات",
+    "DE": "Einnahmedetails",
+    "RU": "Детали дохода",
+    "FA": "جزئیات درآمد"
+  },
+  "Gelir Tutar": {
+    "TR": "Gelir Tutar",
+    "EN": "Income Amount",
+    "AR": "مبلغ الدخل",
+    "KU": "بڕی داهات",
+    "DE": "Einnahmebetrag",
+    "RU": "Сумма дохода",
+    "FA": "مبلغ درآمد"
+  },
+  "Gider Kaynak": {
+    "TR": "Gider Kaynak",
+    "EN": "Expense Source",
+    "AR": "مصدر المصاريف",
+    "KU": "سەرچاوەی خەرجی",
+    "DE": "Ausgabequelle",
+    "RU": "Источник расходов",
+    "FA": "منبع هزینه"
+  },
+  "Gider Detay": {
+    "TR": "Gider Detay",
+    "EN": "Expense Detail",
+    "AR": "تفاصيل المصاريف",
+    "KU": "وردەکاری خەرجی",
+    "DE": "Ausgabendetails",
+    "RU": "Детали расходов",
+    "FA": "جزئیات هزینه"
+  },
+  "Gider Tutar": {
+    "TR": "Gider Tutar",
+    "EN": "Expense Amount",
+    "AR": "مبلغ المصاريف",
+    "KU": "بڕی خەرجی",
+    "DE": "Ausgabenbetrag",
+    "RU": "Сумма расходов",
+    "FA": "مبلغ هزینه"
+  },
+  "Ne sıklıkla iletişim kurulacak?": {
+    "TR": "Ne sıklıkla iletişim kurulacak?",
+    "EN": "How often will communication occur?",
+    "AR": "كم مرة سيتم التواصل؟",
+    "KU": "چەندجار پەیوەندی دەکرێت؟",
+    "DE": "Wie oft wird kommuniziert?",
+    "RU": "Как часто будет происходить общение?",
+    "FA": "چند وقت یک‌بار ارتباط برقرار خواهد شد؟"
+  },
+
+
   "Adres Bilgileri": {
     "TR": "Adres Bilgileri",
     "EN": "Address Info",

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/05/2023 09:26:16" ReportInfo.Modified="03/15/2025 13:19:33" ReportInfo.CreatorVersion="2015.1.2.0">
+  <Dictionary>
+    <TableDataSource Name="MUSTERI" ReferenceName="MUSTERI" DataType="System.Int32" Enabled="true">
+      <Column Name="id" DataType="System.Int32"/>
+      <Column Name="name" DataType="System.String"/>
+      <Column Name="soyad" DataType="System.String"/>
+      <Column Name="sirket" DataType="System.String"/>
+      <Column Name="bolge" DataType="System.String"/>
+      <Column Name="sube" DataType="System.String"/>
+      <Column Name="tip" DataType="System.String"/>
+      <Column Name="sorumlu" DataType="System.String"/>
+      <Column Name="egonder" DataType="System.String"/>
+      <Column Name="sms" DataType="System.String"/>
+      <Column Name="iletizin" DataType="System.String"/>
+      <Column Name="ref" DataType="System.String"/>
+      <Column Name="kategori" DataType="System.String"/>
+      <Column Name="url" DataType="System.String"/>
+      <Column Name="refurl" DataType="System.String"/>
+      <Column Name="postakodu" DataType="System.String"/>
+      <Column Name="adres" DataType="System.String"/>
+      <Column Name="adres2" DataType="System.String"/>
+      <Column Name="adres3" DataType="System.String"/>
+      <Column Name="ilettercih" DataType="System.String"/>
+      <Column Name="kaynak" DataType="System.String"/>
+      <Column Name="kaynaka" DataType="System.String"/>
+      <Column Name="kaynakturu" DataType="System.String"/>
+      <Column Name="ulke" DataType="System.String"/>
+      <Column Name="sehir" DataType="System.String"/>
+      <Column Name="ilce" DataType="System.String"/>
+      <Column Name="ceptel" DataType="System.String"/>
+      <Column Name="tel" DataType="System.String"/>
+      <Column Name="kimlikno" DataType="System.String"/>
+      <Column Name="sikiletisim" DataType="System.String"/>
+      <Column Name="kaynakalt" DataType="System.String"/>
+      <Column Name="aciklama" DataType="System.String"/>
+      <Column Name="aktif" DataType="System.String"/>
+      <Column Name="eklemetarihi" DataType="System.DateTime"/>
+      <Column Name="olusturan" DataType="System.String"/>
+      <Column Name="olusturandepartman" DataType="System.String"/>
+      <Column Name="updatetarihi" DataType="System.DateTime"/>
+      <Column Name="updatepersonel" DataType="System.String"/>
+      <Column Name="babaadi" DataType="System.String"/>
+      <Column Name="meslekunv" DataType="System.String"/>
+      <Column Name="dogumyeri" DataType="System.String"/>
+      <Column Name="meslek" DataType="System.String"/>
+      <Column Name="medenidurum" DataType="System.String"/>
+      <Column Name="tercihdil" DataType="System.String"/>
+      <Column Name="posta" DataType="System.String"/>
+      <Column Name="etiket" DataType="System.String"/>
+      <Column Name="cinsiyet" DataType="System.String"/>
+      <Column Name="tarih" DataType="System.DateTime"/>
+      <Column Name="saat" DataType="System.TimeSpan"/>
+      <Column Name="reftel" DataType="System.String"/>
+      <Column Name="refadi" DataType="System.String"/>
+      <Column Name="img" DataType="System.String"/>
+      <Column Name="passaport" DataType="System.String"/>
+      <Column Name="Kod120" DataType="System.String"/>
+      <Column Name="Kod340" DataType="System.String"/>
+      <Column Name="gelirkaynak" DataType="System.String"/>
+      <Column Name="gelirdetay" DataType="System.String"/>
+      <Column Name="gelirtutar" DataType="System.String"/>
+      <Column Name="giderkaynak" DataType="System.String"/>
+      <Column Name="giderdetay" DataType="System.String"/>
+      <Column Name="gidertutar" DataType="System.String"/>
+      <Column Name="projeadi" DataType="System.String"/>
+      <Column Name="projeadres" DataType="System.String"/>
+      <Column Name="projeyil" DataType="System.String"/>
+      <Column Name="sozlesme" DataType="System.String"/>
+    </TableDataSource>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="94.5">
+      <LineObject Name="Line1" Top="85.05" Width="1.63" Diagonal="true"/>
+      <LineObject Name="Line2" Top="85.05" Width="718.2"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="97.44" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data1" Top="128.73" Width="718.2" Height="292.95" DataSource="MUSTERI"/>
+    <PageFooterBand Name="PageFooter1" Top="424.62" Width="718.2" Height="66.15">
+      <TextObject Name="Text5" Left="529.2" Top="37.8" Width="189" Height="18.9" Fill.Color="White" Text="[Date]" HorzAlign="Right"/>
+      <TextObject Name="Text7" Left="9.45" Top="37.8" Width="170.1" Height="18.9" Fill.Color="White" Text="[PageN]/[TotalPages#]" VertAlign="Center" Font="Arial, 8pt, style=Bold"/>
+    </PageFooterBand>
+  </ReportPage>
+  <ReportPage Name="Page2">
+    <ReportTitleBand Name="ReportTitle2" Width="718.2" Height="37.8"/>
+    <PageHeaderBand Name="PageHeader2" Top="40.74" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data2" Top="72.03" Width="718.2" Height="75.6"/>
+    <PageFooterBand Name="PageFooter2" Top="150.57" Width="718.2" Height="18.9"/>
+  </ReportPage>
+  <ReportPage Name="Page3">
+    <ReportTitleBand Name="ReportTitle3" Width="718.2" Height="37.8"/>
+    <PageHeaderBand Name="PageHeader3" Top="40.74" Width="718.2" Height="28.35"/>
+    <DataBand Name="Data3" Top="72.03" Width="718.2" Height="75.6"/>
+    <PageFooterBand Name="PageFooter3" Top="150.57" Width="718.2" Height="18.9"/>
+  </ReportPage>
+</Report>
